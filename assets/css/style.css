@@ -346,9 +346,9 @@ section.white-section
 }
 .column-wrapper
 {
+    position: relative;
     display: flex;
     flex-direction: column;
-    height:100%;  
 }
 .column-wrapper a
 {
@@ -360,10 +360,16 @@ section.white-section
     position: relative;
     display: flex;
     flex-direction: column;
-    height: auto;
+    height: inherit;
     padding: 25px 24px 32px;
     flex-direction: column;
     border-bottom-left-radius: 15px;
+}
+.column2
+{
+    display: flex;
+    flex-direction: column;
+    height:100%;
 }
 .column h3
 {
@@ -437,6 +443,20 @@ section.white-section
     font-size: 14px;
     transform: rotate(313deg);
 }
+
+.column-wrapper .right-icon i
+{
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:30px;
+    height:30px;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    font-size: 14px;
+}
+
 .column .icon i
 {
     color:#fff;
@@ -1322,6 +1342,13 @@ section.product-section .m20
 .textgray2
 {
     color:#444;
+}
+.textgray3
+{
+    font-weight: 600;
+    color:#444;
+    font-size: 15px;
+    font-family: 'DaytonaPro-Regular';
 }
 h4.text-gray.text-gray2.text-white
 {
@@ -4933,11 +4960,17 @@ section.commonbanner30 .absolute-center
 .accordion-item:first-of-type>.accordion-header .accordion-button
 {
     border-color:#cedbe0;
+    font-size: 1.25rem;
+    color: #1B778F;
+    font-weight: 300;
 }
 .accordion-button
 {
     background:transparent;
     border-bottom: 1px solid #cedbe0;
+    font-size: 1.25rem;
+    color: #1B778F;
+    font-weight: 300;
 }
 .accordion-button:focus 
 {
@@ -5006,4 +5039,32 @@ section.commonbanner33 .absolute-center
 .text-color
 {
     color:#444 !important;
+}
+
+/*commonbanner34*/
+
+section.commonbanner.commonbanner34
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/41.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner34 .absolute-center
+{
+    top:84%;
+}
+
+/*commonbanner35*/
+
+section.commonbanner.commonbanner35
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/42.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner35 .absolute-center
+{
+    top:84%;
 }
