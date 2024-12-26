@@ -1,0 +1,718 @@
+@media(max-width:1900px)
+{
+    .subheading
+    {
+        width: 100%;
+        margin: 0 12px 0px;
+    }
+    section.blog-section .subheading
+    {
+        margin: 0 0 14px;
+    }
+}
+@media(max-width:1600px)
+{
+    .subheading
+    {
+        width: 100%;
+        margin: 0 12px 0px;
+    }
+    section.blog-section .subheading
+    {
+        margin: 0 0 14px;
+    }
+}
+@media(max-width:1536px)
+{
+    a.logo img 
+    {
+        width: 230px;
+    }
+    header.desktop-menu nav ul li
+    {
+        margin-right:3px;
+    }
+    header.desktop-menu nav ul li a
+    {
+        font-size: 14px;
+        padding: 9px 9px;
+    }
+    .subheading
+    {
+        width: 100%;
+        margin: 0 12px 0px;
+    }
+    section.blog-section .subheading
+    {
+        margin: 0 0 14px;
+    }
+}
+@media(max-width:1366px)
+{
+    a.logo img 
+    {
+        width: 230px;
+    }
+    header.desktop-menu nav ul li
+    {
+        margin-right:3px;
+    }
+    header.desktop-menu nav ul li a
+    {
+        font-size: 14px;
+        padding: 9px 9px;
+    }
+}
+@media(max-width:1024px)
+{
+    header.desktop-menu nav ul li a
+    {
+        font-size: 14px;
+        padding: 7px 7px;
+    }
+    a.logo img 
+    {
+        width: 160px;
+    }
+    section.commonbanner2 .absolute-center 
+    {
+        top: 82%;
+    }
+    .vjs-poster
+    {
+        width: fit-content;
+    }
+    .vjs-big-play-button
+    {
+        width: 50px !important;
+        height: 50px !important;     
+    }
+    .vjs-big-play-button:before
+    {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .video-js
+    {
+        height: fit-content;
+    }
+    .video-js .vjs-control-bar 
+    {
+        bottom: -2px;
+    }
+    .social-icon1txt p
+    {
+        font-size: 11px;
+    }
+    .trainingtutorial-column h4
+    {
+        font-size: 16px;
+    }
+    .trainingtutorial-column p
+    {
+        font-size: 13px;
+    }
+    .bloglist ul li a
+    {
+        font-size: 13px;
+    }
+    section.learnpublishing-section .col-md-6
+    {
+        width:50%;
+    }
+    section.learnpublishing-section .m20
+    {
+        margin-bottom: 20px;
+    }
+    .license-icon p
+    {
+        font-size: 17px;
+    }
+    section.homebanner2
+    {
+        height: 535px;
+        padding: 0px;
+    }
+    section.homebanner2 .homeslider .owl-nav
+    {
+        top: 54%;
+    }
+}
+@media(max-width:912px)
+{
+    header.desktop-menu nav ul
+    {
+        padding:0px;
+        margin-top:10px;
+    }
+    header.desktop-menu nav ul li
+    {
+        width: 100%;
+        margin-bottom:10px;
+    }
+    header.desktop-menu nav ul li a
+    {
+        padding:0px;
+    }
+    header.desktop-menu nav .collapse-menu
+    {
+        height:0;
+        transition: 0.3s;
+        overflow: hidden;
+    }
+    header.desktop-menu nav .collapse-menu.show4
+    {
+        height:200px;
+    }
+    header.desktop-menu nav ul li a:hover
+    {
+        /* display: none; */
+        background: transparent;
+        color: #444;
+    }
+    .toggle4
+    {
+        display:block;
+    }
+    section.homebanner2 
+    {
+        height: 535px;
+    }
+    section.homebanner2 .homeslider .owl-nav
+    {
+        top: 52%;
+    }
+    section.contactblog-section .buttonlinks .border-button1
+    {
+        margin-bottom: 20px;
+    }
+    section.contactblog-section .buttonlinks .border-button1 a
+    {
+        padding: 10px 16px;
+        font-size: 13px;
+    }
+    .explorebrands-column > .border-button1 a
+    {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+    .m20
+    {
+        margin-bottom:20px;
+    }
+}
+@media(max-width:820px)
+{
+    section.homebanner2
+    {
+        height: 477px;
+    }
+    section.homebanner2 .homeslider .item img
+    {
+        height:100%;
+        object-fit: cover;
+    }
+    section.contactblog-section .buttonlinks .border-button1
+    {
+        margin-bottom: 20px;
+    }
+    section.contactblog-section .buttonlinks .border-button1 a
+    {
+        padding: 10px 16px;
+        font-size: 13px;
+    }
+    .explorebrands-column > .border-button1 a
+    {
+        padding: 10px 12px;
+        font-size: 10px;
+    };
+}
+@media(max-width:768px)
+{
+    header.desktop-menu nav ul
+    {
+        padding:0px;
+        margin-top:10px;
+    }
+    header.desktop-menu nav ul li
+    {
+        width: 100%;
+        margin-bottom:10px;
+    }
+    header.desktop-menu nav ul li a
+    {
+        padding:0px;
+    }
+    header.desktop-menu nav .collapse-menu
+    {
+        height:0;
+        transition: 0.3s;
+        overflow: hidden;
+    }
+    header.desktop-menu nav .collapse-menu.show4
+    {
+        height:200px;
+    }
+    header.desktop-menu nav ul li a:hover
+    {
+        /* display: none; */
+        background: transparent;
+        color: #444;
+    }
+    .toggle4
+    {
+        display:block;
+    }
+    section.homebanner .banner-content h1
+    {
+        font-size: 40px;
+    }
+    .subheading
+    {
+        width:100%;
+        font-size: 24px;
+        margin:0px;
+        padding-left: 15px;
+    }
+    .links-button
+    {
+        margin-bottom:20px;
+    }
+    .m20
+    {
+        margin-bottom:20px;
+    }
+    .cta-banner-content .title
+    {
+        font-size: 30px;
+    }
+    .explorebrands-column img
+    {
+        max-width: 100px;
+    }
+    .banner-content h1
+    {
+        font-size: 30px;
+    }
+    .banner-content p
+    {
+        font-size: 18px;
+    }
+    .subheading
+    {
+        font-size: 19px;
+    }
+    section.learnpublishing-section .m20
+    {
+        margin:0 0 20px 0;
+    }
+    .advancediscovery-details p
+    {
+        font-size: 20px;
+    }
+    .social-icon1txt p
+    {
+        font-size: 14px;
+    }
+    .editors-row .subheading
+    {
+        padding-left:0px;
+    }
+    .contributors-column h3
+    {
+        font-size: 18px;
+    }
+    .vjs-poster
+    {
+        width: fit-content;
+    }
+    .vjs-big-play-button
+    {
+        width: 50px !important;
+        height: 50px !important;     
+    }
+    .vjs-big-play-button:before
+    {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .video-js
+    {
+        height: fit-content;
+    }
+    .video-js .vjs-control-bar 
+    {
+        bottom: -2px;
+    }
+    .bloglist ul li a
+    {
+        font-size: 13px;
+    }
+    section.learnpublishing-section .m20
+    {
+        margin-bottom: 20px;
+    }
+    section.homebanner2
+    {
+        height:459px;
+    }
+}
+@media(max-width:576px)
+{
+    header.desktop-menu nav ul
+    {
+        padding:0px;
+        margin-top:10px;
+    }
+    header.desktop-menu nav ul li
+    {
+        width: 100%;
+        margin-bottom:10px;
+    }
+    header.desktop-menu nav ul li a
+    {
+        padding:0px;
+    }
+    header.desktop-menu nav ul li a:hover
+    {
+        /* display: none; */
+        background: transparent;
+        color: #444;
+    }
+    header.desktop-menu nav .collapse-menu
+    {
+        height:0;
+        transition: 0.3s;
+        overflow: hidden;
+    }
+    header.desktop-menu nav .collapse-menu.show4
+    {
+        height:200px;
+    }
+    .toggle4
+    {
+        display:block;
+    }
+    /* .core-menu 
+    {
+        width: 100%;
+    }
+    .toggle3 
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 3px 16px;
+        border-bottom: 2px solid #00b8b0;
+        display: none;
+    }
+    .toggle3 a
+    {
+        text-decoration: none;
+        text-transform: capitalize;
+        color:#183642;
+    }
+    .toggle3.show4
+    {
+        display: block !important;
+    }
+    .toggle3-list
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .menu-list2
+    {
+        display: block;
+        height:0;
+        overflow: hidden;
+        transition:0.3s;
+    }
+    .menu-list2.show2
+    {
+        height:600px;
+    }
+    .mobile-menu
+    {
+        position: absolute;
+        left:0;
+        top:0;
+        width:100%;
+        background:#fff;
+        z-index: 100;
+        padding: 10px 14px;
+        display: block;
+    }
+    .mobile-menu nav
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .mobile-menu nav ul
+    {
+        margin-top:20px;
+        padding:0px;
+    }
+    .mobile-menu nav ul li
+    {
+        list-style: none;
+        margin-bottom:10px;
+    }
+    .mobile-menu nav ul li a
+    {
+        font-family: 'DaytonaPro-Light';
+        color:#183642;
+        text-decoration: none;
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    .desktop-menu2
+    {
+        display: none;
+    }
+    .collapse-menu2
+    {
+        display: block;
+        width: 100%;
+        height: 0;
+        overflow: hidden;
+    }
+    .collapse-menu2.show
+    {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .fixed-menu
+    {
+        background-color: #fff;
+        overflow-y: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        z-index: 1;
+    }
+    a.logo img 
+    {
+        width: 200px;
+    }
+    .toggle2 
+    {
+        display: block;
+    }
+    .menu-list2
+    {
+        position: relative;
+        width: 100%;
+        display: block;
+        height: 0;
+        overflow: hidden;
+    } */
+    section.homebanner
+    {
+        height: 550px;
+        padding: 0px;
+    }
+    section.homebanner .banner-content h1
+    {
+        font-size: 31px;
+    }
+    section.commonbanner2 .absolute-center {
+        top: 78%;
+    }
+    .pt0
+    {
+        padding-top:0;
+    }
+    .subheading
+    {
+        width:100%;
+        font-size: 20px;
+        margin: 0px;
+        padding-left: 15px;
+    }
+    .m20
+    {
+        margin-bottom:20px;
+    }
+    .links-button
+    {
+        margin-bottom:20px;
+    }
+    .cta-banner-content .title
+    {
+        font-size: 36px;
+    }
+    section.initiative-section .subheading
+    {
+        padding: 0 16px;
+    }
+    .view-search
+    {
+        float: left;
+        margin-bottom:20px;
+    }
+    .view-search a
+    {
+        font-size: 20px;
+    }
+    .socialbg-icon
+    {
+        justify-content: left;
+    }
+    .social-icon1
+    {
+        max-width: 60px;
+        width: 60px;
+    }
+    section.learnpublishing-section .m20
+    {
+        margin:0 0 20px 0;
+    }
+    section.booksale-section .m20
+    {
+        margin:0 0 20px 0;
+    }
+    .advancediscovery-details p
+    {
+        font-size: 16px;
+    }
+    section.learnpublishing-section .m20
+    {
+        margin-bottom: 20px;
+    }
+    .learnpublishing-column
+    {
+        padding: 20px 20px 55px 20px;
+    }
+    .learnpublishing-column p
+    {
+        font-size: 16px;
+    }
+    .subheading
+    {
+        font-size: 17px;
+    }
+    section.homebanner2
+    {
+        height:249px;
+    }
+    section.homebanner2 .homeslider .owl-nav
+    {
+        top: 52%;
+    }
+    section.homebanner2 .homeslider .owl-prev
+    {
+        width: 30px;
+        height: 30px;    
+    }
+    section.homebanner2 .homeslider .owl-next
+    {
+        width: 30px;
+        height: 30px;    
+    }
+    section.bg-section1 .bgsection1-details h3
+    {
+        font-size: 30px;
+    }
+    section.bg-section2 .bgsection1-details h3
+    {
+        font-size: 30px;
+    }
+    .border-button1.border-button2 a
+    {
+        font-size: 12px;
+    }
+    section.bg-section3 .bgsection1-details h3
+    {
+        font-size: 30px;
+    }
+    section.bg-section2 .absolute-center2
+    {
+        top: 71%;
+    }
+    section.bg-section3 .absolute-center2
+    {
+        top: 72%;
+    }
+    section.contactblog-section .buttonlinks .border-button1
+    {
+        margin-bottom: 20px;
+    }
+    section.contactblog-section .buttonlinks .border-button1 a
+    {
+        padding: 10px 16px;
+        font-size: 10px;
+    }
+    .explorebrands-column > .border-button1 a
+    {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+    .footerbottom-links
+    {
+        float: left;
+    }
+}
+@media(max-width:540px)
+{
+    section.homebanner2
+    {
+        padding:0px;
+        height:400px;
+    }
+    section.homebanner2 .homeslider .item
+    {
+        height:400px;
+    }
+    section.homebanner2 .homeslider .item img
+    {
+        height:100%;
+        object-fit: cover;
+    }
+    section.homebanner2 .homeslider .owl-nav 
+    {
+        top:50%;
+    }
+    section.contactblog-section .buttonlinks .border-button1
+    {
+        margin-bottom: 20px;
+    }
+    section.contactblog-section .buttonlinks .border-button1 a
+    {
+        padding: 10px 16px;
+        font-size: 10px;
+    }
+    .explorebrands-column > .border-button1 a
+    {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+    .border-r1:before
+    {
+        display:none;
+    }
+}
+@media(max-width:344px)
+{
+    section.contactblog-section .buttonlinks .border-button1
+    {
+        margin-bottom: 20px;
+    }
+    section.contactblog-section .buttonlinks .border-button1 a
+    {
+        padding: 10px 7px;
+        font-size: 9px;
+    }
+    .explorebrands-column > .border-button1 a
+    {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+}
