@@ -1,9 +1,6 @@
 
 $(document).ready(function() 
 {
-    
-  
-
     $('.toggle4').click(function()
     {
         $('.collapse-menu').toggleClass('show4');
@@ -127,4 +124,21 @@ $('.homeslider').owlCarousel({
     animateOut: 'fadeOut',  
     animateIn: 'fadeIn',    
     navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+});
+
+$('.blog-slider').owlCarousel({
+    loop:true,
+    margin:20,
+    dots:true,
+    responsive:{
+        0:{
+            items:1,
+        },
+        768:{
+            items:2,
+        },
+        1000:{
+            items:3,
+        }
+    }
 });

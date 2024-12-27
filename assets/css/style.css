@@ -5112,3 +5112,36 @@ section.commonbanner37 .absolute-center
 {
     top:80%;
 }
+
+/*blog-slider*/
+
+.owl-carousel.blog-slider
+{
+    display: block !important;
+}
+.blog-slider .owl-dots 
+{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.blog-slider .owl-dot
+{
+    border:1px solid #486a7e !important;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+.blog-slider .owl-dot.active 
+{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #486a7e !important;
+}
