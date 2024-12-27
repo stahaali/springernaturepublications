@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-2 col-md-6 col-12 m20">
                     <div class="learnpublishing-wrapper">
-                        <a href="#">
+                        <a href="early-career-researchers.php">
                             <div class="learnpublishing-column">
                                 <p>Early career <br> resource center</p>
         

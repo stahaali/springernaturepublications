@@ -5084,3 +5084,17 @@ section.fivekey-section
 {
     padding-top:100px;
 }
+
+/*commonbanner36*/
+
+section.commonbanner.commonbanner36
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/43.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner36 .absolute-center
+{
+    top:80%;
+}
