@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 m20">
                     <div class="learnpublishing-wrapper">
-                        <a href="#">
+                        <a href="open-science.php">
                             <div class="learnpublishing-column">
                                 <p>Open access <br> publishing</p>
         
@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 m20">
                     <div class="learnpublishing-wrapper">
-                        <a href="#">
+                        <a href="https://solutions.springernature.com/">
                             <div class="learnpublishing-column">
                                 <p>Knowledge resources</p>
         
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-12 m20">
                     <div class="learnpublishing-wrapper">
-                        <a href="#">
+                        <a href="tutorials.php">
                             <div class="learnpublishing-column">
                                 <p>Author tutorials</p>
         
