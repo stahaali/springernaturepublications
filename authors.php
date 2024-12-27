@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-lg-4 col-m4 col-12">
                     <div class="publish-wrapper">
-                        <a href="#">
+                        <a href="publish-an-article.php">
                             <div class="publish-column backgrdound-green">
                                 <p>Publish an article</p>    
 
@@ -36,9 +36,9 @@
                 </div>
                 <div class="col-lg-4 col-m4 col-12">
                     <div class="publish-wrapper">
-                        <a href="#">
+                        <a href="publish-a-book.php">
                             <div class="publish-column backgrdound-lightblue">
-                                <p>Publish an article</p>   
+                                <p>Publish a book</p>   
                                 
                                 <div class="right-icon">
                                     <i class="fa-solid fa-angle-right"></i>
@@ -49,9 +49,9 @@
                 </div>
                 <div class="col-lg-4 col-m4 col-12">
                     <div class="publish-wrapper">
-                        <a href="#">
-                            <div class="publish-column backgrdound-darkblue">
-                                <p>Publish an article</p>    
+                        <a href="step-by-step-conference-proceedings.php">
+                            <div class="publish-column backgrdound-darkblue2">
+                                <p>Publish conference <br> proceedings</p>    
                                 
                                 <div class="right-icon">
                                     <i class="fa-solid fa-angle-right"></i>
