@@ -4975,9 +4975,11 @@ section.commonbanner30 .absolute-center
 .accordion-button:focus 
 {
     box-shadow: none !important;
+    color: #1B778F;
 }
 .accordion-button:not(.collapsed)
 {
+    color: #1B778F;
     background:none !important;
     box-shadow: none !important;
 }
@@ -5067,4 +5069,18 @@ section.commonbanner.commonbanner35
 section.commonbanner35 .absolute-center
 {
     top:84%;
+}
+
+/*allaboutresearch-section*/
+
+section.allaboutresearch
+{
+    padding-top:100px;
+}
+
+/*fivekey-section*/
+
+section.fivekey-section
+{
+    padding-top:100px;
 }

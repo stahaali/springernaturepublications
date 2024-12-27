@@ -412,84 +412,100 @@
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-column">
-                    <div class="blog-header">
-                        <img src="assets/images/blog/12.webp" class="img-fluid" alt="">
-                    </div>
-                    <div class="blog-body">
-                        <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                        <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
-                    </div>
-                    <div class="blog-footer">
-                        <div class="blog-icon">
-                            <h3>r</h3>
+                <div class="blog-wrapper">
+                    <a href="transfer-desk-for-editors.php">
+                        <div class="blog-column">
+                        <div class="blog-header">
+                            <img src="assets/images/blog/12.webp" class="img-fluid" alt="">
                         </div>
-                        <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>15 aug 2024</h5>
+                        <div class="blog-body">
+                            <h3 class="blog-heading">Transfer Desk for Editors</h3>
+                            <p>We do a deep dive into our Transfer Desk service by addressing common questions that editors have about transfers and how they work.</p>
+                        </div>
+                        <div class="blog-footer">
+                            <div class="blog-icon">
+                                <h3>r</h3>
+                            </div>
+                            <div class="blog-text">
+                                <p>The Source</p>
+                                <h5>04 Aug 2023</h5>
+                            </div>
                         </div>
                     </div>
+                    </a>
                 </div>
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-column">
-                    <div class="blog-header">
-                        <img src="assets/images/blog/06.webp" class="img-fluid" alt="">
-                    </div>
-                    <div class="blog-body">
-                        <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                        <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
-                    </div>
-                    <div class="blog-footer">
-                        <div class="blog-icon">
-                            <h3>r</h3>
+                <div class="blog-wrapper">
+                    <a href="researcher-guide-to-open-access-agreements.php">
+                        <div class="blog-column">
+                        <div class="blog-header">
+                            <img src="assets/images/blog/06.webp" class="img-fluid" alt="">
                         </div>
-                        <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>15 aug 2024</h5>
+                        <div class="blog-body">
+                            <h3 class="blog-heading">A researcher’s guide to open access agreements</h3>
+                            <p>This guide brings together everything you need to know to help you get the most from Springer Nature’s open access agreements.</p>
+                        </div>
+                        <div class="blog-footer">
+                            <div class="blog-icon">
+                                <h3>r</h3>
+                            </div>
+                            <div class="blog-text">
+                                <p>The Source</p>
+                                <h5>27 Jul 2023</h5>
+                            </div>
                         </div>
                     </div>
+                    </a>
                 </div>
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-column">
-                    <div class="blog-header">
-                        <img src="assets/images/blog/08.webp" class="img-fluid" alt="">
-                    </div>
-                    <div class="blog-body">
-                        <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                        <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
-                    </div>
-                    <div class="blog-footer">
-                        <div class="blog-icon">
-                            <h3>r</h3>
+                <div class="blog-wrapper">
+                    <a href="five-key-takeaways-from-our-science-for-a-sustainable-future.php">
+                        <div class="blog-column">
+                        <div class="blog-header">
+                            <img src="assets/images/blog/08.webp" class="img-fluid" alt="">
                         </div>
-                        <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>15 aug 2024</h5>
+                        <div class="blog-body">
+                            <h3 class="blog-heading">Five key takeaways from our Science for a Sustainable Future webinar series</h3>
+                            <p>Learn about the main discussion themes and key takeaways from the Science for a Sustainable Future webinar series.</p>
+                        </div>
+                        <div class="blog-footer">
+                            <div class="blog-icon">
+                                <h3>r</h3>
+                            </div>
+                            <div class="blog-text">
+                                <p>The Source</p>
+                                <h5> 13 Jul 2023</h5>
+                            </div>
                         </div>
                     </div>
+                    </a>
                 </div>
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-column">
-                    <div class="blog-header">
-                        <img src="assets/images/blog/07.webp" class="img-fluid" alt="">
+                    <div class="blog-wrapper">
+                        <a href="all-about-research-integrity-a-beginner-guide-in-depth-course.php">
+                            <div class="blog-column">
+                                <div class="blog-header">
+                                    <img src="assets/images/blog/07.webp" class="img-fluid" alt="">
+                                </div>
+                                <div class="blog-body">
+                                    <h3 class="blog-heading">All about research integrity: a beginner's guide & an in-depth course </h3>
+                                    <p>A guide and an in-depth course on research integrity and its application to your research and work.</p>
+                                </div>
+                                <div class="blog-footer">
+                                    <div class="blog-icon">
+                                        <h3>r</h3>
+                                    </div>
+                                    <div class="blog-text">
+                                        <p>The Source</p>
+                                        <h5>01 Jun 2023</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
                     </div>
-                    <div class="blog-body">
-                        <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                        <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
-                    </div>
-                    <div class="blog-footer">
-                        <div class="blog-icon">
-                            <h3>r</h3>
-                        </div>
-                        <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>15 aug 2024</h5>
-                        </div>
-                    </div>
-                </div>
                </div>
             </div>
         </div>
