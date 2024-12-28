@@ -5159,3 +5159,17 @@ section.commonbanner37 .absolute-center
     align-items: center;
     background: #486a7e !important;
 }
+
+/*commonbanner36*/
+
+section.commonbanner.commonbanner36
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/45.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner36 .absolute-center
+{
+    top:84%;
+}
