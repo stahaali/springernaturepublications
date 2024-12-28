@@ -31,69 +31,85 @@
 
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12 m20">
-                    <div class="editors-column">
-                        <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                    <div class="editors-wrapper">
+                        <a href="information-guide.php">
+                            <div class="editors-column">
+                            <div class="editors-header"> 
+                                <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="editors-body">
+                                <h4>Editing a journal</h4>
+                                <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
 
-                            <div class="right-icon">
-                                <i class="fa-solid fa-angle-right"></i>
+                                <div class="right-icon">
+                                    <i class="fa-solid fa-angle-right"></i>
+                                </div>
                             </div>
                         </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 m20">
-                    <div class="editors-column">
-                        <div class="editors-header"> 
-                            <img src="assets/images/editors/2.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                    <div class="editors-wrapper">
+                        <a href="resources-tools.php">
+                            <div class="editors-column">
+                                <div class="editors-header"> 
+                                    <img src="assets/images/editors/2.webp" class="img-fluid" alt="">
+                                </div>
+                                <div class="editors-body">
+                                    <h4>Resources & Tools</h4>
+                                    <p>This collection of services available for Springer Nature Editors includes journal services such as the reviewer finder and transfer desk; and case studies of exceptional Springer Nature Editors. It also features guidance for Editors on helping their journals to succeed.</p>
 
-                            <div class="right-icon">
-                                <i class="fa-solid fa-angle-right"></i>
+                                    <div class="right-icon">
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </a>
+                    </div>                    
+                </div>
+                <div class="col-lg-3 col-md-6 col-12 m20">
+                    <div class="editors-wrapper">
+                        <a href="research-integrity.php">
+                            <div class="editors-column">
+                                <div class="editors-header"> 
+                                    <img src="assets/images/editors/3.webp" class="img-fluid" alt="">
+                                </div>
+                                <div class="editors-body">
+                                    <h4>Research Integrity</h4>
+                                    <p>This page details how Editors can ensure the integrity of everything that they publish - and the ways in which Springer Nature can help them with that.</p>
+
+                                    <div class="right-icon">
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 m20">
-                    <div class="editors-column">
-                        <div class="editors-header"> 
-                            <img src="assets/images/editors/3.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                    <div class="editors-wrapper">
+                        <a href="spotlight-on.php">
+                        <div class="editors-column">
+                            <div class="editors-header"> 
+                                <img src="assets/images/editors/4.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="editors-body">
+                                <h4>Spotlight On...</h4>
+                                <p>Webinars exploring topics at the heart of our editorial community:</p>
 
-                            <div class="right-icon">
-                                <i class="fa-solid fa-angle-right"></i>
+                                <ul class="elist">
+                                    <li><i class="fa-solid fa-check"></i> Building a Strong Editorial Board </li>
+                                    <li><i class="fa-solid fa-check"></i> Engaging Your Readers and Authors</li>
+                                    <li><i class="fa-solid fa-check"></i> Strategies for Attracting High Quality Submissions</li>
+                                </ul>
+
+                                <div class="right-icon">
+                                    <i class="fa-solid fa-angle-right"></i>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
-                    <div class="editors-column">
-                        <div class="editors-header"> 
-                            <img src="assets/images/editors/4.webp" class="img-fluid" alt="">
-                        </div>
-                        <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief.</p>
-
-                            <ul class="elist">
-                                <li><i class="fa-solid fa-check"></i> Building a Strong Editorial Board </li>
-                                <li><i class="fa-solid fa-check"></i> Engaging Your Readers and Authors</li>
-                                <li><i class="fa-solid fa-check"></i> Strategies for Attracting High Quality Submissions</li>
-                            </ul>
-
-                            <div class="right-icon">
-                                <i class="fa-solid fa-angle-right"></i>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
