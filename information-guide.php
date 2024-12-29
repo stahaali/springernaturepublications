@@ -17,7 +17,7 @@
     }
 </style>
 
-<section class="commonbanner commonbanner36">
+<section class="commonbanner commonbanner37">
     <div class="container absolute-center">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-12">

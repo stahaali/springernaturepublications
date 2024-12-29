@@ -1333,6 +1333,12 @@ section.product-section .m20
     font-size:15px;
     font-weight: 400;
 }
+.textblue5
+{
+    color:#486a7e;
+    font-size:17px;
+    font-weight: 600;
+}
 .textgray
 {
     color:#444;
@@ -5160,16 +5166,82 @@ section.commonbanner37 .absolute-center
     background: #486a7e !important;
 }
 
-/*commonbanner36*/
+/*commonbanner37*/
 
-section.commonbanner.commonbanner36
+section.commonbanner.commonbanner37
 {
     position: relative;
     height: 422px;
     background:url('../images/banner/45.webp') no-repeat;
     background-size: cover;
 }
-section.commonbanner36 .absolute-center
+section.commonbanner37 .absolute-center
 {
     top:84%;
+}
+
+/*commonbanner38*/
+
+section.commonbanner.commonbanner38
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/46.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner38 .absolute-center
+{
+    top:80%;
+}
+.blue-wrapper
+{
+    position: relative;
+    background:#025e8d;
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    overflow: hidden;
+}
+.blue-wrapper img
+{
+    display: block;
+    margin: auto;
+    max-width: 90px;
+    height:90px;
+}
+.blue-wrapper a
+{
+    text-decoration: none;
+}
+.blue-wrapper .right-icon i
+{
+    transition: 0.3s;
+    border-color:#fff;
+    color:#fff;
+}
+.blue-wrapper:hover .right-icon i
+{
+    background:#fff;
+    color:#005272;
+}
+.blue-column
+{
+    position: relative;
+    background:#025e8d;
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    padding: 10px 20px 40px;
+}
+.blue-column h4
+{
+    color:#fff;
+    font-size: 20px;
+    font-weight:500;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+.blue-column p
+{
+    color:#fff;    
 }

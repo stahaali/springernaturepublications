@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="editors-wrapper">
-                        <a href="resources-tools.php">
+                        <a href="resource-tool.php">
                             <div class="editors-column">
                                 <div class="editors-header"> 
                                     <img src="assets/images/editors/2.webp" class="img-fluid" alt="">
