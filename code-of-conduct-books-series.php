@@ -1,4 +1,3 @@
-
 <?php include('header.php'); ?>
 
 <style>
@@ -34,16 +33,15 @@
 </style>
 
 <section class="commonbanner commonbanner41">
-        <div class="container absolute-center">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-12">
-                    <div class="banner-content">
-                        <h1>Editors</h1>
-                        <p>Resources for editors</p>
-                    </div>
+    <div class="container absolute-center">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-12">
+                <div class="banner-content">
+                    <h1>Book Series Editors' Code of Conduct</h1>
                 </div>
             </div>
         </div>
+    </div>
 </section>
 
 <section class="white-section">
@@ -51,27 +49,38 @@
         <div class="row">
             <div class="col-lg-8 col-md-8 col-12">
                 <div class="row mb-4">
-                    <p class="textinfo">Research is important to confirm, change or advance knowledge. Intellectual honesty and (research) integrity are essential in all scholarly work. These guidelines set the standards of proper ethical behaviour and responsibilities for book volume editors (including proceedings, encyclopedia, handbook and textbook editors).</p>
+                    <p class="textinfo">Research is important to confirm, change or advance knowledge. Intellectual honesty and (research) integrity are essential in all scholarly work. These guidelines set the standards of proper ethical behaviour and responsibilities for book series editors.</p>
                 </div>
                 <div class="row">
-                    <h4 class="textgray">Springer Nature Code of Conduct for Book Volume Editors:</h4>
-                    <p>Editors should follow the minimum standards as set out in the Springer Nature Code of Conduct for Book Volume Editors.</p>
+                    <h4 class="textgray">Springer Nature Code of Conduct for Book Series Editors:</h4>
+                    <p>The Code of Conduct for Series Editors sets out the standards and expectations associated with the role of a Series Editor. Springer Nature is a member of the Committee on Publication Ethics (COPE). COPE is an advisory body which provides guidance to editors and publishers on all aspects of publication ethics.</p>
+                    <p>As members, we are committed to:</p>
+
+                    <div class="list-1 list-3">
+                        <ul>
+                            <li><i class="fa-solid fa-check"></i> adhere to their Core Practices</li>
+                            <li><i class="fa-solid fa-check"></i> follow COPE guidelines outlining how to deal with cases of potential publication misconduct.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <p>We aspire to a positive and proactive approach to preventing publication misconduct and encouraging sound and reliable research practices. Series Editor(s) is/are responsible for guaranteeing, as far as possible, the quality and ethics of everything that is published in the Book Series.</p>
+                    <p>If there is more than one Series Editor, it is understood that the responsibility concerning editorship is shared between them.</p>
+                    <p>Series Editors should deal with the Publisher and its staff in a professional and courteous manner, ensuring their communications are appropriate in both volume and tone, and address all queries received relating to the work in a timely manner.</p>
                 </div>
                 <div class="row mt-4">
                     <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Submitting a proposal for a volume
+                                        Proposal for a Book
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i> The submitted book proposal must be original and must not contain any plagiarism.</li>
-                                                <li><i class="fa-solid fa-check"></i> The decision to move forward is decided by (peer) review of the proposal to establish its intended appeal to a certain audience as well as other considerations such as market potential, fit with the publishing portfolio in that specific field, related publications, previous experiences (amongst others).</li>
-                                                <li><i class="fa-solid fa-check"></i> Editors may suggest (or request to exclude) reviewers. It is at the sole discretion of the Publisher (whether or not) to use them.</li>
+                                                <li><i class="fa-solid fa-check"></i> Series Editor(s) suggests to the Publisher which book proposals submitted to the Book Series should be considered for publication.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -80,23 +89,18 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        The tasks of editors
+                                        Publication Decisions
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>The tasks of editors include the following:</p>
     
                                         <div class="row mt-4">
                                             <div class="list-1 list-3">
                                                 <ul>
-                                                        <li><i class="fa-solid fa-check"></i>organise and structure the work as a whole (when there are multiple book Editors it is understood that all contributed sufficiently to this process),</li>
-                                                        <li><i class="fa-solid fa-check"></i>select the appropriate contributing Authors and / or Contributions,</li>
-                                                        <li><i class="fa-solid fa-check"></i>ensure the contributing Authors (including the Editors, if they also serve as contributing Authors) are aware of and compliant with the expectations as set out in the Code of Conduct for Book Authors,</li>
-                                                        <li><i class="fa-solid fa-check"></i>ensure that the list of contributing Authors including who is acting as Corresponding Author (names, affiliations and sequence) as well as the Editor names, affiliations and sequence are correct and final when the manuscript is submitted. Once the manuscript has been delivered to production, changes to Author- or Editorship are no longer possible,</li>
-                                                        <li><i class="fa-solid fa-check"></i>critically review, approve and accept responsibility for the final manuscript,</li>
-                                                        <li><i class="fa-solid fa-check"></i>support the Publisher in clarifying any doubt or misunderstanding with contributing Authors in relation to any of the topics specified below,</li>
-                                                        <li><i class="fa-solid fa-check"></i>deal with the Publisher and its staff in a professional and courteous manner, ensuring their communications are appropriate in both volume and tone, and address all queries received relating to the work in a timely manner.</li>
+                                                       <li><i class="fa-solid fa-check"></i> The decision to move forward is decided by (peer) review of the proposal to establish its fit with the aims and scope of the Book Series, its intended appeal to a certain readership, as well as other considerations such as market potential (amongst others). It is understood that readership differs per product type (monographs, edited volumes, reference works, textbooks, professional books and conference proceedings (amongst others)) and that the approach to assess the merit of the proposal should be aligned with both the expectations of the intended readership and the norms within a specific discipline.</li>
+                                                       <li><i class="fa-solid fa-check"></i> Best practice is to solicit constructive feedback from an appropriate number of independent experts which may be series editorial board members.</li>
+                                                       <li><i class="fa-solid fa-check"></i> Reviewers should be made aware of the expectations as set out in the Guidelines for Book Reviewers.</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -106,16 +110,14 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        (Peer) review of the contracted work
+                                        Contracted Work
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>This Code describes best practices regarding (peer) review of Contributions that make up a book. Springer Nature endorses (peer) review as a key factor in developing and validating high quality scholarly publications. It is understood that readership differs per book type (edited volumes, reference works, textbooks, professional books, and conference proceedings (amongst others)) and that the approach to assess the merit of the Contribution should be aligned with both the expectations of the intended audience and norms within a specific discipline. Best practice is to solicit constructive feedback from an appropriate number of independent experts.</li>
-                                                <li><i class="fa-solid fa-check"></i>Reviewers should be made aware of the expectations as set out in the Guidelines for Book Reviewers.</li>
-                                                <li><i class="fa-solid fa-check"></i>The decision to include a Contribution in the final work is the responsibility of the Editor. </li>
+                                                <li><i class="fa-solid fa-check"></i> Series Editor(s) are expected to be aware of the expectations as set in the Springer Nature Code of Conduct for Book Editors and Springer Nature Code of Conduct for Book Authors provided for authors and editors by the Publisher.                             </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -124,15 +126,15 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Originality
+                                        Conflicts of Interest
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>The submitted work must not contain any plagiarism and should not have been published elsewhere in any form or language (unless the work is a translation of an original work; permission has been granted for reuse; the work is a new iteration of the same work with some degree of change (“revised edition”); and / or permission has been granted for reuse and / or is allowed under the Publisher’s reuse policy).</li>
-                                                <li><i class="fa-solid fa-check"></i>Important note: The Publisher may use software to screen for plagiarism.</li>
+                                                <li>Series Editor(s) are expected to inform the Publisher of any interests that may influence, or may be perceived to influence, their decisions as Series Editor(s) of the Book Series. Financial and non-financial interests (including, but not limited to personal relationships, professional interests or personal beliefs) should be disclosed. Please note that the declaration of these interests does not disqualify the Series Editor(s) from the role as Series Editor(s) of the Book Series. We would expect Series Editor(s) to respect the confidentiality of the (peer) review and editorial process.</li>
+                                                <li>Although Series Editor(s) may publish in the Book Series for which they are Series Editor(s), they are expected to ensure that a member of the Book Series’ editorial board is assigned to assume responsibility for overseeing (peer) review and making decisions regarding acceptance or rejection of any manuscript submitted and/or co-authored by the Series Editor(s). Alternatively, they may seek advice from the Publisher in absence of an editorial board.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -141,14 +143,14 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Related manuscripts under consideration for publication
+                                        Libellous and Defamatory Content
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>Editors should inform the Publisher of related works under consideration for publication and provide details of these relevant works (if applicable). For example: involvement with a major reference work as well as developing an edited volume on a similar topic. This ensures transparency and allows for proper citation of the first reported work.</li>
+                                                <li><i class="fa-solid fa-check"></i>Series Editor(s) are expected to seek advice from the Publisher if they believe a manuscript contains potentially libellous or defamatory content.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -174,14 +176,14 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        Fundamental errors
+                                        Plagiarism
                                     </button>
                                 </h2>
                                 <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>Editors have an obligation to share with the Publisher any significant error or inaccuracy in the published work either discovered by themselves or of which they are informed by an Author. A decision on how to correct the literature depends on the nature of the error. This may be a correction or retraction and will be the decision of the Publisher following the Committee on Publication Ethics (COPE) guidelines. The retraction note must provide transparency as to which parts of the work are impacted by the error.</li>
+                                                <li><i class="fa-solid fa-check"></i>To safeguard authenticity the Publisher may support the Series Editor(s) with plagiarism screening.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -190,18 +192,15 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        Confidentiality
+                                        Field Specific Standards
                                     </button>
                                 </h2>
                                 <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>Editors should treat the following as confidential:</li>
-                                                <li><i class="fa-solid fa-check"></i>Correspondence with direct representatives from the Publisher about the contract and contractual details of the work</li>
-                                                <li><i class="fa-solid fa-check"></i>Contributions under review</li>
-                                                <li><i class="fa-solid fa-check"></i>Reviewers’ reports</li>
-                                                <li><i class="fa-solid fa-check"></i>If Editors are asked for information, for example, to help out a hiring or tenure and promotion committee, they should only share information about the project’s current status: out for review or in press.</li>
+                                                <li><i class="fa-solid fa-check"></i>Series Editor(s) are expected to ensure that manuscripts accepted for publication comply with specific research requirements and ethics standards for the relevant field. For example, where manuscripts contain any data from human or animal subjects, or endangered plants, Series Editor(s) are expected to ensure that the manuscript complies with internationally agreed or comparable national ethics standards for such research. For example, international standards for human research are set out in the World Medical Association’s Declaration of Helsinki and national guidelines which are intended to protect the safety and rights of research participants (see next section). Research on endangered animal and plant species should be carried out in compliance with standards set out in the IUCN Policy Statement on Research Involving Species at Risk of Extinction and the Convention on International Trade in Endangered Species of Wild Fauna and Flora. Further information on these standards is available from the Publisher.</li>
+                                                <li><i class="fa-solid fa-check"></i>In cases of uncertainty, Series Editor(s) should seek advice from the Publisher.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -210,22 +209,45 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                        Suspected transgression of ethical standards
+                                        Confidentiality
                                     </button>
                                 </h2>
                                 <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Editors should take ethical complaints concerning a published work seriously. If there is a suspicion of misbehaviour or alleged fraud the Publisher, in cooperation with the Editor, will carry out an investigation following the Committee on Publication Ethics (COPE) guidelines.  If, after investigation, there are valid concerns, the accused Author (or Editor) will be contacted under their given e-mail address and given an opportunity to address the issue.</p>
-                                        <p>Dependent on the situation, this may result in the Publisher’s implementation of the following measures, including, but not limited to: </p>
                                         <div class="list-1 list-3">
                                             <ul>
-                                                <li><i class="fa-solid fa-check"></i>If the book proposal or work is still under consideration, it may be rejected and returned to the Author (or Editor(s)).</li>
-                                                <li><i class="fa-solid fa-check"></i>If the Work has already been published online, depending on the nature and severity of the infraction: </li>
-                                                <li><i class="fa-solid fa-check"></i>an erratum / corrigendum may be placed with the online version of the Work and be inserted in the printed editions of the Work (hardbound, MyCopy, paperback), or</li>
-                                                <li><i class="fa-solid fa-check"></i>in severe cases retraction of the Work may occur.</li>
-                                                <li><i class="fa-solid fa-check"></i>The reason must be given in the published erratum / corrigendum or retraction note. Please note that retraction means that the electronic edition of the Work is maintained on the platform, watermarked “retracted”, and explanation for the retraction is provided in a note linked to the watermarked typescript. The printed editions of the Work are then no longer available. Or (dependent on the transgression) the electronic edition of the Work is completely removed and an explanation for the retraction is provided in a note linked to the metadata of the Work.</li>
-                                                <li><i class="fa-solid fa-check"></i>The Author’s (or Editor’s) institution may be informed.</li>
-                                                <li><i class="fa-solid fa-check"></i>A notice of suspected transgression of ethical standards may be included as part of the Author’s (or Editor’s) and book’s or chapter’s bibliographic record.</li>
+                                                <li><i class="fa-solid fa-check"></i>Series Editor(s) should treat the following as confidential:</li>
+                                                <li><i class="fa-solid fa-check"></i>correspondence with direct representatives from the Publisher about the contract and contractual details of the series agreement;</li>
+                                                <li><i class="fa-solid fa-check"></i>contributions under consideration</li>
+                                                <li><i class="fa-solid fa-check"></i>reviewers’ reports.</li>
+                                                <li><i class="fa-solid fa-check"></i>If Series Editor(s) are asked for information, for example, to help out a hiring or tenure and promotion committee, they should only share information about the project’s current status: out for review or in press.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                        Suspected Transgression of Ethical Standards
+                                    </button>
+                                </h2>
+                                <div id="collapseTen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Series Editor(s) should take complaints concerning a book seriously. If there is a suspicion of misbehaviour or alleged fraud the Publisher, in cooperation with the Series Editor(s), will carry out an investigation following the Committee on Publication Ethics (COPE) guidelines. If, after investigation, there are valid concerns, the accused author (or editor) will be contacted under their given email address and given an opportunity to respond to the allegation.</p>
+                                        <p>Dependent on the situation, this may result in the Publisher’s implementation of the following measures, including, but not limited to:</p>
+
+                                        <div class="list-1 list-3 mt-4">
+                                            <ul>
+                                                    <li><i class="fa-solid fa-check"></i> If the book proposal or manuscript is still under consideration, it may be rejected and returned to the author(s) (or editor(s)).</li>
+                                                    <li><i class="fa-solid fa-check"></i> If the book has already been published online, depending on the nature and severity of the infraction:</li>
+                                                    <li><i class="fa-solid fa-check"></i> a correction may be placed with the online version of the book and be inserted in the printed editions of the book (hardbound, MyCopy, paperback), or</li>
+                                                    <li><i class="fa-solid fa-check"></i> in severe cases retraction of the book or book chapter may occur.</li>
+                                                    <li><i class="fa-solid fa-check"></i> The reason must be given in the published erratum / corrigendum or retraction note. Retraction means that the electronic edition of the book is maintained on the platform, watermarked “retracted”, and explanation for the retraction is provided in a note linked to the watermarked typescript. The printed editions of the book are then no longer available. Or (dependent on the transgression) the electronic edition of the book is completely removed and an explanation for the retraction is provided in a note linked to the metadata of the book.</li>
+                                                    <li><i class="fa-solid fa-check"></i> The author’s (or editor’s) institution may be informed.</li>
+                                                    <li><i class="fa-solid fa-check"></i> A notice of suspected transgression of ethical standards may be included as part of the author’s (or editor’s) and book’s or chapter’s bibliographic record.</li>
                                             </ul>
                                         </div>
                                     </div>
