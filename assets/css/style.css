@@ -5245,3 +5245,101 @@ section.commonbanner38 .absolute-center
 {
     color:#fff;    
 }
+
+/*commonbanner39*/
+
+section.commonbanner.commonbanner39
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/47.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner39 .absolute-center
+{
+    top:80%;
+}
+.owl-carousel.ri-slider
+{
+    display: block !important;
+}
+.ri-slider .column1 img
+{
+    margin: auto;
+    max-width: 200px;
+    height: 250px;
+}
+.column1 
+{
+    background: #fff;
+    padding: 33px 20px;
+}
+
+.ri-slider .owl-dots 
+{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.ri-slider .owl-dot
+{
+    border:1px solid #486a7e !important;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+.ri-slider .owl-dot.active 
+{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #486a7e !important;
+}
+.gray-btn
+{
+    border-radius: 10px;
+    transition: 0.3s;
+    border:1px solid;
+    border-color: #6F6C6C;
+    color: #6F6C6C;
+    padding:10px 20px;
+    text-decoration: none;
+}
+.gray-btn:hover
+{
+    background:#6F6C6C;
+    color:#fff;
+}
+
+/*commonbanner40*/
+
+section.commonbanner.commonbanner40
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/49.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner40 .absolute-center
+{
+    top:80%;
+}
+/*commonbanner41*/
+
+section.commonbanner.commonbanner41
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/50.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner41 .absolute-center
+{
+    top:80%;
+}

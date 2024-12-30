@@ -157,7 +157,7 @@
                 <h3 class="subheading">Guides to help your journal succeed</h3>
             </div>
             <div class="row mt-4">
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                     <div class="blue-wrapper border-radius">
                         <a href="#">
                             <div class="blue-column">
@@ -175,7 +175,7 @@
                             </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                         <div class="blue-wrapper border-radius">
                             <a href="#">
                                 <div class="blue-column">
@@ -193,7 +193,7 @@
                                 </div>
                         </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                     <div class="blue-wrapper border-radius">
                         <a href="#">
                             <div class="blue-column">
@@ -213,29 +213,29 @@
                 </div>
             </div>
             <div class="row mt-4">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p><a href="#" class="textblue text-deco">Enhancing journal performance - editorial board</a></p>
+                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - editorial board</a></p>
                             <p>(PDF, 181.87 KB)</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p><a href="#" class="textblue text-deco">Enhancing journal performance - attract submissions</a></p>
+                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - attract submissions</a></p>
                             <p>(PDF, 180.21 KB)</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
@@ -246,13 +246,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p><a href="#" class="textblue text-deco">Enhancing journal performance - analyses for journal development</a></p>
+                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - analyses for journal development</a></p>
                             <p>(PDF, 178.98 KB)</p>
                         </div>
                     </div>

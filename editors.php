@@ -122,25 +122,25 @@
                 <h3 class="subheading">Codes of conduct</h3>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                   <div class="openaccess-wrapper">
-                        <a href="#">
+                        <a href="code-of-conduct-journals.php">
                             <div class="openaccess-column">
-                                <h3>Fundamentals of open research</h3>
-                                <p>Learn more about publishing a research article, book, or chapter open access</p>
+                                <h3>Journals</h3>
+                                <p>The Code of Conduct for Journal Editors sets out the standards and expectations associated with the role of Editor.</p>
                                 <div class="right-icon">
                                     <i class="fa-solid fa-angle-right"></i>
                                 </div>
                             </div>
-                    </a>
+                        </a>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                   <div class="openaccess-wrapper">
-                    <a href="#">
+                    <a href="code-of-conduct-books-volumes.php">
                         <div class="openaccess-column">
-                            <h3>Fundamentals of open research</h3>
-                            <p>From increased usage and citations to increasing reproducibility and trust in research, there are many benefits for researchers, institutions, and their funders</p>
+                            <h3>Book volumes</h3>
+                            <p>These guidelines set the standards of proper ethical behaviour and responsibilities for book editors (including proceedings, encyclopedia, handbook and textbook editors).</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
                             </div>
@@ -148,31 +148,18 @@
                     </a>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 m20">
                     <div class="openaccess-wrapper">
-                        <a href="#">
+                        <a href="code-of-conduct-books-series.php">
                             <div class="openaccess-column">
-                                <h3>Fundamentals of open research</h3>
-                                <p>Our free support service can help authors identify potential sources of funding available for open access and advice on how to apply</p>
+                                <h3>Book Series</h3>
+                                <p>These guidelines set the standards of proper ethical behaviour and responsibilities for book series editors.</p>
                                 <div class="right-icon">
                                     <i class="fa-solid fa-angle-right"></i>
                                 </div>
                             </div>
                         </a>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
-                   <div class="openaccess-wrapper">
-                        <a href="#">
-                            <div class="openaccess-column">
-                                <h3>Fundamentals of open research</h3>
-                                <p>OA agreements, including transformative agreements, are playing a vital role in driving the transition at scale, by centralising funding and workflows for open access</p>
-                                <div class="right-icon">
-                                    <i class="fa-solid fa-angle-right"></i>
-                                </div>
-                            </div>
-                        </a>
-                   </div>
                 </div>
             </div>
         </div>
