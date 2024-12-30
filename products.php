@@ -1,5 +1,12 @@
 <?php include('header.php'); ?>
 
+<style>
+    .column a
+    {
+        text-decoration:none;
+    }
+</style>
+
     <section class="commonbanner">
         <div class="container absolute-center">
             <div class="row">
@@ -45,11 +52,13 @@
 
                 <div class="col-lg-4 col-md-4  col-12">
                     <div class="column background-yellow">
-                        <h3>search our content</h3>
-                        <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
-                        <div class="icon">
-                            <i class="fa-solid fa-angle-right"></i>
-                        </div>
+                        <a href="librarians-products.php">
+                            <h3>For librarians</h3>
+                            <p>Find more information about our products and licensing options on our librarian pages.</p>
+                            <div class="icon">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>

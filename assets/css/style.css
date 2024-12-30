@@ -5119,16 +5119,30 @@ section.commonbanner36 .absolute-center
     top:80%;
 }
 
-/*commonbanner36*/
+/*commonbanner43*/
 
-section.commonbanner.commonbanner37
+section.commonbanner.commonbanner43
 {
     position: relative;
     height: 422px;
     background:url('../images/banner/44.webp') no-repeat;
     background-size: cover;
 }
-section.commonbanner37 .absolute-center
+section.commonbanner43 .absolute-center
+{
+    top:80%;
+}
+
+/*commonbanner44*/
+
+section.commonbanner.commonbanner44
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/52.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner44 .absolute-center
 {
     top:80%;
 }
@@ -5354,6 +5368,33 @@ section.commonbanner.commonbanner42
     background-size: cover;
 }
 section.commonbanner42 .absolute-center
+{
+    top:80%;
+}
+/*commonbanner45*/
+
+section.commonbanner.commonbanner45
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/53.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner45 .absolute-center
+{
+    top:80%;
+}
+
+/*commonbanner46*/
+
+section.commonbanner.commonbanner46
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/54.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner45 .absolute-center
 {
     top:80%;
 }

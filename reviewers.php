@@ -1,4 +1,11 @@
 <?php include('header.php'); ?>
+
+<style>
+    .column a
+    {
+        text-decoration:none;
+    }
+</style>
     
     <section class="commonbanner commonbanner5">
         <div class="container absolute-center">
@@ -31,8 +38,10 @@
                 </div>
                 <div class="col-lg-4 col-md-4  col-12">
                     <div class="column background-blue">
-                        <h3>search our content</h3>
-                        <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
+                        <a href="reviewer-satisfaction.php">
+                            <h3>search our content</h3>
+                            <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
+                        </a>
                         <div class="icon">
                             <i class="fa-solid fa-angle-right"></i>
                         </div>
@@ -61,7 +70,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-12">
                    <div class="contributors-wrapper">
-                        <a href="#">
+                        <a href="orcid.php">
                             <div class="contributors-column">
                                 <div class="contributors-header">
                                     <img src="assets/images/review/1.webp" class="img-fluid" alt="">
@@ -85,7 +94,7 @@
     <section class="white-section trainingtutorial-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-md-8 col-12">
+                <div class="col-lg-9 col-md-9 col-12">
                     <div class="row mb-4">
                         <div class="trainingtutorial-div">
                             <h3 class="subheading">Training and tutorials</h3>
@@ -95,7 +104,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-6 col-12 m20">
                             <div class="trainingtutorial-wrapper">
-                                <a href="#">
+                                <a href="how-to-peer-review.php">
                                     <div class="trainingtutorial-column">
                                         <img src="assets/images/logo.webp" class="img-fluid" alt="">
                                         <h4>How to Peer Review</h4>
@@ -109,11 +118,11 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-12 m20">
                             <div class="trainingtutorial-wrapper">
-                                <a href="#">
+                                <a href="http://www.biomedcentral.com/getpublished/peer-review-process">
                                     <div class="trainingtutorial-column">
                                         <img src="assets/images/brands/3.webp" class="img-fluid trainingtutorial-img2" alt="">
-                                        <h4>How to Peer Review</h4>
-                                        <p>Gain the skills needed to successfully evaluate manuscripts in a way that helps editors make a final publication decision. </p>
+                                        <h4>Introduction to Review</h4>
+                                        <p>Explore how the peer review process works. Learn about the four types of peer review used by BMC to assess the quality of manuscripts.</p>
                                     </div>
                                 </a>
 
@@ -124,10 +133,10 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-12 m20">
                             <div class="trainingtutorial-wrapper">
-                                <a href="#">
+                                <a href="https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550?__hstc=99596993.ab71f607946963f47f8de1cdf74255a1.1735294201340.1735539933223.1735557629582.18&__hssc=99596993.10.1735557629582&__hsfp=2854351944">
                                     <div class="trainingtutorial-column">
                                         <h4>Training from Nature Masterclass</h4>
-                                        <p>Gain the skills needed to successfully evaluate manuscripts in a way that helps editors make a final publication decision. </p>
+                                        <p>Delivered by Nature Research journal editors, this free online course facilitates learning with short videos, helpful advice, and interactive activities.</p>
                                     </div>
                                 </a>
                                 <div class="right-icon">
@@ -137,15 +146,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-3 col-md-3 col-12">
                     <div class="row mb-4">
                         <h3 class="subheading">Blogs</h3>
                         <p class="mt-3">Read our blogs on peer review</p>
 
                         <div class="bloglist">
                             <ul>
-                                <li><a href="#">BMC Blog Network</a></li>
-                                <li><a href="#">The Source</a></li>
+                                <li><a href="https://blogs.biomedcentral.com/bmcblog/tag/peer-review/">BMC Blog Network</a></li>
+                                <li><a href="for-peer-reviewers.php">The Source</a></li>
                             </ul>
                         </div>
                     </div>
