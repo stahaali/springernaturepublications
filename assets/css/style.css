@@ -32,6 +32,10 @@ section
 {
     padding:50px 0;
 }
+.pt100
+{
+    padding-top:100px;
+}
 
 /*menu*/
 
@@ -2477,6 +2481,11 @@ header.desktop-menu.desktop-menu2.border-bottom1
     background: #6F6C6C;
     color:#fff;
 }
+.buttonlinks .button0791
+{
+    margin-bottom: 30px;
+    margin-right:12px;
+}
 .button079 a
 {
     padding:10px 20px;
@@ -4009,6 +4018,12 @@ section.commonbanner16 .absolute-center
 {
     border-bottom-left-radius: 23px;
 }
+.border-radius-100
+{
+    border-radius: 100px;
+    height: 125px;
+    width: 125px;
+}
 .sm-font1
 {
     font-size: 19px;
@@ -5427,7 +5442,7 @@ section.commonbanner48 .absolute-center
     top:76%;
 }
 
-/*commonbanner48*/
+/*commonbanner49*/
 
 section.commonbanner.commonbanner49
 {
@@ -5439,4 +5454,196 @@ section.commonbanner.commonbanner49
 section.commonbanner49 .absolute-center
 {
     top:76%;
+}
+.innerbanner
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/38.webp') no-repeat;
+    background-size: cover;
+}
+.innerbanner .absolute-center
+{
+    top:76%;
+    left:52%;
+}
+.innerbanner h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner2
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/58.webp') no-repeat;
+    background-size: cover;
+}
+.innerbanner2 .absolute-center
+{
+    top:76%;
+    left:52%;
+}
+.innerbanner2 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner3
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/59.webp') no-repeat;
+    background-size: cover;
+}
+.innerbanner3 .absolute-center
+{
+    top:76%;
+    left:52%;
+}
+.innerbanner3 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner4
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/60.webp') no-repeat;
+    background-size: cover;
+}
+.innerbanner4 .absolute-center
+{
+    top:80%;
+    left:52%;
+}
+.innerbanner4 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner5
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/61.webp') no-repeat;
+    background-size: cover;
+}
+.innerbanner5 .absolute-center
+{
+    top:80%;
+    left:52%;
+}
+.innerbanner5 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner6
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/62.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.innerbanner6 .absolute-center
+{
+    top:80%;
+    left:52%;
+}
+.innerbanner6 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+.innerbanner7
+{
+    position: relative;
+    height: 300px;
+    background:url('../images/banner/63.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.innerbanner7 .absolute-center
+{
+    top:80%;
+    left:52%;
+}
+.innerbanner7 h2
+{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3px 20px 16px;
+    color:#fff;
+    font-size: 52px;
+    width: fit-content;
+}
+/*commonbanner50*/
+
+section.commonbanner.commonbanner50
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/64.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner50 .absolute-center
+{
+    top:76%;
+}
+.list-6 ul
+{
+    padding:0px;
+}
+.list-6 ul li
+{
+    list-style: none;
+    margin-bottom:10px;
+}
+.list-6 ul li:last-child
+{
+    margin-bottom:0px;
+}
+.list-6 a
+{
+    color:#1B778F;
+    text-decoration: none;
+}
+.list-6 a:hover
+{
+    text-decoration: underline;
+}
+.blue-circle
+{
+    border-radius:100px;
+    width:120px;
+    height:120px;
+    background:#dfedf2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-circle i
+{
+    font-size: 30px;
+    color:#486a7e;
 }
