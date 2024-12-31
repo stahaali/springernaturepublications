@@ -27,13 +27,12 @@
 
                         <h3>Explore</h3>
                         <ul>
-                            <li><a href="#">OA is the foundation for open science</a></li>
-                            <li><a href="#">Open research initiatives</a></li>
-                            <li><a href="#">Whitepapers</a></li>
-                            <li><a href="#">Whitepapers</a></li>
-                            <li><a href="#">Ready to publish?</a></li>
-                            <li><a href="#">The Source and Springboard blogs</a></li>
-                            <li><a href="#">Learn more</a></li>
+                            <li><a href="#openaccess-section">OA is the foundation for open science</a></li>
+                            <li><a href="#researchinitiative-section">Open research initiatives</a></li>
+                            <li><a href="#whitepapers-section">Whitepapers</a></li>
+                            <li><a href="#readypublish-section">Ready to publish?</a></li>
+                            <li><a href="#blog-section">The Source and Springboard blogs</a></li>
+                            <li><a href="#learnmore-section">Learn more</a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,7 +40,7 @@
         </div>
     </section>
 
-    <section class="gray-section openaccess-section">
+    <section class="gray-section openaccess-section" id="openaccess-section">
         <div class="container">
             <div class="row m-0">
                 <h3 class="subheading">Open access is the foundation of our support for open science</h3>
@@ -105,8 +104,11 @@
         </div>
     </section>
 
-    <section class="white-section researchinitiative-section">
+    <section class="white-section researchinitiative-section" id="researchinitiative-section">
         <div class="container">
+            <div class="row mb-4">
+                <h3 class="subheading">Our open research initiatives</h3>
+            </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12">
                     <div class="researchinitiative-wrapper">
@@ -164,7 +166,7 @@
         </div>
     </section>
 
-    <section class="white-section whitepapers-section">
+    <section class="white-section whitepapers-section" id="whitepapers-section">
         <div class="container">
             <div class="row mb-4">
                 <h3 class="subheading">Whitepapers</h3>
@@ -173,7 +175,7 @@
                 <div class="whitepapers-slider owl-carousel">
                     <div class="item">
                         <div class="whitepapers-wrapper border-radius">
-                            <a href="#">
+                            <a href="https://figshare.com/articles/journal_contribution/Creating_new_pathways_the_Springer_Nature_and_Jisc_Transformative_Agreement/21196111">
                                 <div class="whitepapers-column">
                                     <h3>The Springer Nature and Jisc UK Transformative Agreement</h3>
                                     <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
@@ -193,7 +195,7 @@
                     </div>
                     <div class="item">
                         <div class="whitepapers-wrapper border-radius">
-                            <a href="#">
+                            <a href="https://researchdata.springernature.com/posts/white-paper-the-future-of-fair?utm_source=sn&utm_medium=referral&utm_content=organic&utm_campaign=RSDT_1_IR01_GL_fair-white-paper">
                                 <div class="whitepapers-column">
                                     <h3>The Future of FAIR</h3>
                                     <p>The white paper brings together an international cohort of research data professionals to celebrate the real-world impact of the FAIR data principles, and consider what will be next for research data and open science.</p>
@@ -213,9 +215,9 @@
                     </div>
                     <div class="item">
                         <div class="whitepapers-wrapper border-radius">
-                            <a href='#'>
+                            <a href='https://zenodo.org/records/4143313#.YCUrwI_7TIU'>
                                 <div class="whitepapers-column">
-                                    <h3>Open for all: exploring the reach of open access content to non-academic audiences</h3>
+                                    <h3>Open for all: exploring the reach of open a>s content to non-academic audiences</h3>
                                     <p>The white paper explores how research content is being used outside of academia. Our results show a strong open access advantage, with a high volume of readers from non-academic communities.</p>
                                 </div>
                             </a>
@@ -281,12 +283,22 @@
                             </a>
                         </div>
                     </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="practical-challenges-white-paper.php">
+                                <div class="whitepapers-column">
+                                    <h3>Five essential factors for data sharing</h3>
+                                    <p>The white paper proposes five measures that will help in making data sharing more efficient and ensure good data practice. Bringing together survey results from more than 11,000 researchers, we explore the challenges they face, as well as their attitudes and behaviours towards data sharing.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="gray-section readypublish-section">
+    <section class="gray-section readypublish-section" id="readypublish-section">
         <div class="container">
             <div class="row mb-4">
                 <h3 class="subheading">Ready to publish?</h3>
@@ -397,7 +409,7 @@
         </div>
     </section>
 
-    <section class="blog-section">
+    <section class="blog-section" id="blog-section">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-9 col-md-9 col-12">
@@ -412,11 +424,11 @@
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-wrapper">
+                <div class="blog-wrapper gray-section">
                     <a href="transfer-desk-for-editors.php">
-                        <div class="blog-column">
+                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/12.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/05.webp" class="img-fluid" alt="">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">Transfer Desk for Editors</h3>
@@ -436,8 +448,8 @@
                 </div>
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
-                <div class="blog-wrapper">
-                    <a href="researcher-guide-to-open-access-agreements.php">
+                  <div class="blog-wrapper gray-section">
+                      <a href="researcher-guide-to-open-access-agreements.php">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/06.webp" class="img-fluid" alt="">
@@ -455,14 +467,14 @@
                                     <h5>27 Jul 2023</h5>
                                 </div>
                             </div>
-                        </div>
-                    </a>
-                </div>
+                        </div>                          
+                      </a>
+                  </div>
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
                 <div class="blog-wrapper">
-                    <a href="five-key-takeaways-from-our-science-for-a-sustainable-future.php">
-                        <div class="blog-column">
+                    <a href='five-key-takeaways-from-our-science-for-a-sustainable-future.php'>
+                        <div class="blog-column gray-section">
                             <div class="blog-header">
                                 <img src="assets/images/blog/08.webp" class="img-fluid" alt="">
                             </div>
@@ -485,8 +497,8 @@
                </div>
                <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="blog-wrapper">
-                        <a href="all-about-research-integrity-a-beginner-guide-in-depth-course.php">
-                            <div class="blog-column">
+                        <a href='all-about-research-integrity-a-beginner-guide-in-depth-course.php'>
+                            <div class="blog-column gray-section">
                                 <div class="blog-header">
                                     <img src="assets/images/blog/07.webp" class="img-fluid" alt="">
                                 </div>
@@ -630,7 +642,7 @@
         </div>
     </section>
 
-    <section class="gray-section blog-section learnmore-section">
+    <section class="gray-section blog-section learnmore-section" id="learnmore-section">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-12">
