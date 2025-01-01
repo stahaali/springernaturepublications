@@ -1622,6 +1622,11 @@ section.readypublish-section .subheading
     margin-top: 8px;
     margin-bottom: 46px;
 }
+.readypublish-column h3
+{
+    color: #444;
+    font-size: 18px;
+}
 .readypublish-slider .owl-stage
 {
     display: flex;
@@ -4030,6 +4035,12 @@ section.commonbanner16 .absolute-center
     color:#444;
     margin-bottom: 15px;
 }
+.sm-font2
+{
+    font-size: 14px;
+    color:#444;
+    margin-bottom: 15px;
+}
 
 /*commonbanner17*/
 
@@ -4959,7 +4970,7 @@ section.commonbanner.commonbanner29
 }
 section.commonbanner29 .absolute-center
 {
-    top:84%;
+    top:81%;
 }
 .gray-background
 {
@@ -5646,4 +5657,22 @@ section.commonbanner50 .absolute-center
 {
     font-size: 30px;
     color:#486a7e;
+}
+/*commonbanner51*/
+
+section.commonbanner.commonbanner51
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/58.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner51 .absolute-center
+{
+    top:76%;
+}
+.sm-icon
+{
+    width: 120px;
+    margin: auto;
 }

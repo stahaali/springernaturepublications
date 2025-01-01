@@ -16,13 +16,13 @@
     <section class="white-section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
+                <div class="col-lg-9 col-md-9 col-12">
                     <p class="textinfo">Supporting researchers to open up every output from their research, including publications and preprints, data, code, protocols, methods, and peer review.
                     </p>
                     <p>By enabling researchers to share their research openly, together we can increase its use and re-use, speed up scientific advances, deliver efficiencies for research, foster collaboration between disciplines, enable easier translation into economic and societal impact, and improve trust in science. That’s why we support open science across all academic disciplines. By enabling open science practices, and collaborating with partners across the scholarly ecosystem, faster and more effective research systems can be created that operate sustainably and at scale and build an equitable research landscape. 
                     </p>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-3 col-md-3 col-12">
                     <div class="coreist">
 
                         <h3>Explore</h3>
@@ -289,6 +289,46 @@
                                 <div class="whitepapers-column">
                                     <h3>Five essential factors for data sharing</h3>
                                     <p>The white paper proposes five measures that will help in making data sharing more efficient and ensure good data practice. Bringing together survey results from more than 11,000 researchers, we explore the challenges they face, as well as their attitudes and behaviours towards data sharing.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="japan-survey.php">
+                                <div class="whitepapers-column">
+                                    <h3>Challenges and opportunities for Japanese researchers</h3>
+                                    <p>A survey of more than 1,000 Japanese researchers, looking at the challenges and opportunities in data sharing in Japan. </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="https://figshare.com/articles/Challenges_and_Opportunities_for_Data_Sharing_in_China/7326605">
+                                <div class="whitepapers-column">
+                                    <h3>Challenges and Opportunities for Data Sharing in China</h3>
+                                    <p>The report summarises the findings of a survey with more than 2,000 researchers working in China, looking at the challenges and opportunities for data sharing in China.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="state-of-open-data.php">
+                                <div class="whitepapers-column">
+                                    <h3>The State of Open Data 2019</h3>
+                                    <p>The 2019 survey results show that while most trends are encouraging around the adoption and acceptance of open data, the research community is now demanding more enforcement of the mandates that have been adopted by many governments, funders, publishers and institutions around the world. </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="state-of-open-data-2018.php">
+                                <div class="whitepapers-column">
+                                    <h3>The State of Open Data 2018</h3>
+                                    <p>The 2018 survey results continue to show encouraging progress, that open data is becoming more embedded in the research community.</p>
                                 </div>
                             </a>
                         </div>
