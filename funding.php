@@ -79,7 +79,7 @@
              <div class="col-lg-6 col-md-6 col-12 m20">
                 <div class="product-column product-column2">
                     <a href="#">
-                        <img src="assets/images/icons/icon2.webp" class="img-fluid" alt=""/>
+                        <img src="assets/images/icons/icon16.webp" class="img-fluid" alt=""/>
                         <div class="product-footer">
                             <div class="product-txt">
                                 <h4 class="mb-3">Funding sources for open access books</h4>

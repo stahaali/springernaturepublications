@@ -262,22 +262,21 @@
               </div>
             </div>
         </div>
+        
+        <div class="row mt-4">
+            <div class="buttonlinks">
+                <div class="button079">
+                    <a href='#'>Individual institutional agreements</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
 <section class="gray-section">
     <div class="container">
-        <div class="row">
-            <h3 class="subheading border-white mb-4">Upcoming author webinars</h3>
-            <p>Placeholder</p>
-        </div>
-    </div>
-</section>
-
-<section class="white-section">
-    <div class="container">
         <div class="row mb-4">
-            <h3 class="subheading mb-4">Learn more about</h3>
+            <h3 class="subheading mb-4 border-white">Learn more about</h3>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6 col-12">
@@ -332,11 +331,11 @@
     </div>
 </section>
 
-<section class="social-background">
+<section class="social-background bg-white">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h3 class="subheading border-white">Stay up to date</h3>
+                    <h3 class="subheading">Stay up to date</h3>
                 </div>
             </div>
             <div class="row justify-content-between gx-2">

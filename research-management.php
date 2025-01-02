@@ -12,9 +12,18 @@
         bottom: -2px;
         border-radius: 0px;
     }
-    .booksale-wrapper img
+    .booksale-wrapper
+    {
+        justify-content: center;
+        align-items: center;
+    }
+    .booksale-wrapper a .sm-con2
     {
         margin:30px auto 0;
+        width: fit-content;
+    }
+    .booksale-wrapper a .sm-con2 img
+    {
         max-width:100px;
     }
 </style>
@@ -60,13 +69,15 @@
 <section class="gray-section">
     <div class="container">
         <div class="row mb-4">
-            <h3 class="subheading">Leverage our expertise</h3>
+            <h3 class="subheading border-white">Leverage our expertise</h3>
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-12 m20">
                 <div class="booksale-wrapper background-blue">
-                    <img src="assets/images/icons/icon7.webp" class="img-fluid" alt="">
                     <a href="#">
+                    <div class="sm-con2">
+                        <img src="assets/images/icons/icon7.webp" class="img-fluid" alt="">
+                    </div>
                         <div class="booksale-column">
                             <h4>Define strategy</h4>
                             <p>Tools to make decisions about research direction Palgrave titles in Humanities and Social Sciences.
@@ -80,8 +91,10 @@
             </div>
             <div class="col-lg-4 col-md-6 col-12 m20">
                 <div class="booksale-wrapper backgrdound-green">
-                    <img src="assets/images/icons/icon8.webp" class="img-fluid" alt="">
                     <a href="#">
+                        <div class="sm-con2">
+                            <img src="assets/images/icons/icon8.webp" class="img-fluid" alt="">
+                        </div>
                         <div class="booksale-column">
                             <h4>Maximize impact</h4>
                             <p>Evaluate research quality, improve reputation and rankings, and more &amp; Palgrave titles in Humanities and Social Sciences.
@@ -95,8 +108,10 @@
             </div>
             <div class="col-lg-4 col-md-6 col-12 m20">
                 <div class="booksale-wrapper background-orange">
-                    <img src="assets/images/icons/icon9.webp" class="img-fluid" alt="">
                     <a href="#">
+                    <div class="sm-con2">
+                        <img src="assets/images/icons/icon9.webp" class="img-fluid" alt="">
+                    </div>
                         <div class="booksale-column">
                             <h4>Equip researchers</h4>
                             <p>Help researchers find and identify funding and collaboration opportunities, and more
@@ -119,30 +134,30 @@
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-12">
-                <div class="initiative-wrapper">
-                    <a href="women-in-science.php">
+                <div class="initiative-wrapper border-radius">
+                    <a href="#">
                         <div class="initiative-column">
                             <div class="initiative-header">
-                                <img src="assets/images/blog/191.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/191.webp" width="100%" class="img-fluid" alt="">
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Women in Science </h3>
-                                <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                <h3 class="initiative-heading">Global perspectives on research management</h3>
+                                <p>Amid increasing global research spending and a growing emphasis on international collaborations, University leaders are recognizing the importance of establishing a sustainable research office</p>
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-12">
-                <div class="initiative-wrapper">
-                    <a href="women-in-science.php">
+                <div class="initiative-wrapper border-radius">
+                    <a href="#">
                         <div class="initiative-column">
                             <div class="initiative-header">
-                                <img src="assets/images/blog/192.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/192.webp" width="100%" class="img-fluid" alt="">
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Women in Science </h3>
-                                <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                <h3 class="initiative-heading">Future-proof institutional growth in 4 strategic steps</h3>
+                                <p>How can research leaders offset the impact of possible funding and income changes and preserve a position of trusted leader within their field</p>
                             </div>
                         </div>
                     </a>

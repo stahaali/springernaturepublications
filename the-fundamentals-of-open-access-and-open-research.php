@@ -183,52 +183,40 @@
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                 <img src="assets/images/brands/3.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                 <img src="assets/images/brands/9.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>Got a discovery you're ready to share with the world? Publish your findings quickly and with integrity, never letting good research go to waste.</p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                 <img src="assets/images/brands/2.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>Open research is at the heart of Nature Research. Our portfolio includes Nature Communications ,Scientific Reports and many more.</p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                 <img src="assets/images/brands/1.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>Springer offers a variety of open access options for journal articles and books across a number of disciplines. </p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                 <img src="assets/images/brands/3.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>Palgrave Macmillan is committed to developing sustainable models of open access for the HSS disciplines.</p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="whitepapers-column border-radius">
                                  <img src="assets/images/brands/9.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
+                                <p>Apress is dedicated to meeting the information needs of developers, IT professionals, and tech communities worldwide.</p>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="whitepapers-column border-radius">
-                                <img src="assets/images/brands/2.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="whitepapers-column border-radius">
-                                <img src="assets/images/brands/3.webp" class="img-fluid sm-img1" alt=""/>
-                                <p>The case study offers an overview of the impact and reach of the Springer Nature/Jisc Transformative Agreement (TA) in the UK by discussing the benefits for authors, institutions and funders and how TAs enable a sustainable transition to an open research future.</p>
-                            </div>
-                        </div>
-                    
+                        
                 </div>
             </div>
         </div>

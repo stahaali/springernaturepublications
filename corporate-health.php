@@ -1,5 +1,12 @@
 <?php include('header.php'); ?>
 
+    <style>
+        .blue-wrapper
+        {
+            height:auto;
+        }
+    </style>
+
     <section class="commonbanner commonbanner48">
         <div class="container absolute-center">
             <div class="row">
@@ -45,15 +52,15 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12 mb-20">
-                    <div class="blog-wrapper">
+                    <div class="blog-wrapper border-radius">
                         <a href="transfer-desk-for-editors.php">
-                            <div class="blog-column">
+                            <div class="blog-column bg-white">
                                 <div class="blog-header">
                                     <img src="assets/images/blog/193.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="blog-body">
-                                    <h3 class="blog-heading">DEI in Research Publishing</h3>
-                                    <p>Editors play a pivotal role in championing inclusive practices and ensuring we reflect our diverse communities through our publication process.</p>
+                                    <h3 class="blog-heading">AI & Machine Learning</h3>
+                                    <p>Research that transforms the future</p>
                                 </div>
                             </div>
                         </a>
@@ -63,15 +70,15 @@
                     </div>
                </div>     
                <div class="col-lg-6 col-md-6 col-12 mb-20">
-                    <div class="blog-wrapper">
+                    <div class="blog-wrapper border-radius">
                         <a href="transfer-desk-for-editors.php">
-                            <div class="blog-column">
+                            <div class="blog-column bg-white">
                                 <div class="blog-header">
                                     <img src="assets/images/blog/194.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="blog-body">
-                                    <h3 class="blog-heading">DEI in Research Publishing</h3>
-                                    <p>Editors play a pivotal role in championing inclusive practices and ensuring we reflect our diverse communities through our publication process.</p>
+                                    <h3 class="blog-heading">Text & Data Mining</h3>
+                                    <p>Extracting data insights</p>
                                 </div>
                             </div>
                         </a>
@@ -97,8 +104,8 @@
                                             <img src="assets/images/blog/195.webp" class="img-fluid" alt="">
                                         </div>
                                         <div class="initiative-body">
-                                            <h3 class="initiative-heading">Women in Science </h3>
-                                            <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                            <h3 class="initiative-heading">Biotechnology</h3>
+                                            <p>The most powerful discoveries begin with quality, cutting edge research</p>
                                         </div>
                                     </div>
                                 </a>
@@ -112,8 +119,8 @@
                                             <img src="assets/images/blog/196.webp" class="img-fluid" alt="">
                                         </div>
                                         <div class="initiative-body">
-                                            <h3 class="initiative-heading">Women in Science </h3>
-                                            <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                            <h3 class="initiative-heading">Stay informed</h3>
+                                            <p>Sign up for The Link Alerts, the essential source of information for all facilitators of research</p>
                                         </div>
                                     </div>
                                 </a>
@@ -126,11 +133,11 @@
                             <a href="#">
                                 <div class="blue-column">
                                     <div class="blue-header">
-                                        <img src="assets/images/icons/icon4.webp" class="img-fluid" alt="">
+                                        <img src="assets/images/icons/icon15.webp" class="img-fluid" alt="">
                                     </div>
                                     <div class="blue-body">
-                                        <h4>Build a strong editorial board</h4>
-                                        <p>Your journal’s board should be made-up of academic peers who you trust to uphold the credibility of your journal. </p>
+                                        <h4>Stay informed</h4>
+                                        <p>Sign up for The Link Alerts, the essential source of information for all facilitators of research </p>
                                     </div>
                                 </div>
                             </a>

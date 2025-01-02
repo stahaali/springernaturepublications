@@ -242,11 +242,7 @@
                     <h3 class="subheading">Featured blog posts from "Springboard"</h3>
                     <p>Springer Nature's blog on all things open research</p>
                 </div>
-                <div class="col-lg-3 col-md-3 col-12">
-                    <div class="view-search">
-                        <a href="#">see all</a> <i class="fa-solid fa-angle-right"></i>
-                    </div>
-                </div>
+               
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">
@@ -356,11 +352,7 @@
                     <h3 class="subheading">Featured blog posts from "The Source"</h3>
                     <p>Springer Nature's blog on all things open research</p>
                 </div>
-                <div class="col-lg-3 col-md-3 col-12">
-                    <div class="view-search">
-                        <a href="#">see all</a> <i class="fa-solid fa-angle-right"></i>
-                    </div>
-                </div>
+               
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">

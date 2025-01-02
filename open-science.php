@@ -3,7 +3,7 @@
     <section class="commonbanner commonbanner2">
         <div class="container absolute-center">
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-12">
+                <div class="col-lg-10 col-md-10 col-12">
                     <div class="banner-content">
                         <h1>Open science and open access</h1>
                         <p>Open science is essential to solving the world’s urgent challenges</p>
@@ -333,6 +333,26 @@
                             </a>
                         </div>
                     </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="https://figshare.com/articles/_/5481187">
+                                <div class="whitepapers-column">
+                                    <h3>The State of Open Data 2017</h3>
+                                    <p>The report looks at global attitudes towards open data. It includes survey results of 2,300 respondents and a collection of articles from industry experts.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="whitepapers-wrapper border-radius">
+                            <a href="https://figshare.com/articles/report/The_State_of_Open_Data_Report/4036398">
+                                <div class="whitepapers-column">
+                                    <h3>The State of Open Data 2016</h3>
+                                    <p>Springer Nature in partnership with Digital Science bring you this annual report, examining attitudes and experiences of researchers working with open data.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -389,7 +409,7 @@
                     </div>
                     <div class="item">
                         <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
+                            <p>Got a discovery you're ready to share with the world? Publish your findings quickly and with integrity, never letting good research go to waste.</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>                        
@@ -397,7 +417,7 @@
                     </div>
                     <div class="item">
                         <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
+                            <p>Open research is at the heart of Nature Research.Our portfolio includes Nature Communications ,Scientific Reports and many more.</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>                                                
@@ -413,7 +433,7 @@
                     </div>
                     <div class="item">
                         <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
+                            <p>Springer offers a variety of open access options for journal articles and books across a number of disciplines.</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>                        
@@ -421,7 +441,7 @@
                     </div>
                     <div class="item">
                         <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
+                            <p>Palgrave Macmillan is committed to developing sustainable models of open access for the HSS disciplines.</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>                        
@@ -429,21 +449,13 @@
                     </div>
                     <div class="item">
                         <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
+                            <p>Apress is dedicated to meeting the information needs of developers, IT professionals, and tech communities worldwide.</p>
                             <div class="right-icon">
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>                                                
                         </div>
                     </div>
-                    <div class="item">
-                        <div class="readypublish-column">
-                            <p>A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.</p>
-                            <div class="right-icon">
-                                <i class="fa-solid fa-arrow-right"></i>
-                            </div>                                                
-                        </div>
-                    </div>
-                    
+                  
                 </div>
             </div>
         </div>
@@ -456,11 +468,7 @@
                     <h3 class="subheading">Featured blog posts from "The Source"</h3>
                     <p class="textinfo">Providing insight and discussion for researchers on publishing in the academic world</p>
                 </div>
-                <div class="col-lg-3 col-md-3 col-12">
-                    <div class="view-search">
-                        <a href="#">see all</a> <i class="fa-solid fa-angle-right"></i>
-                    </div>
-                </div>
+                
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">
@@ -570,11 +578,7 @@
                     <h3 class="subheading">Featured blog posts from "Springboard"</h3>
                     <p class="textinfo">Springer Nature's blog on all things open research </p>
                 </div>
-                <div class="col-lg-3 col-md-3 col-12">
-                    <div class="view-search">
-                        <a href="#">see all</a> <i class="fa-solid fa-angle-right"></i>
-                    </div>
-                </div>
+              
             </div>
             <div class="row">
                <div class="col-lg-3 col-md-6 col-12 m20">

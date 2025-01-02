@@ -102,11 +102,11 @@
                   </div>
                    <div class="accordion-item">
                     <h2 class="accordion-header">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTh1" aria-expanded="false" aria-controls="collapseTh1">
                         Policy impact
                       </button>
                     </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="collapseTh1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
                         <p>Over 38,000 Springer Nature open access articles have been cited in global policy documents by institutes including the United Nations, WHO, the IMF and the World Bank.</p>
                       </div>
@@ -120,9 +120,10 @@
              <p>Open research accelerates the pace of scientific enquiry.</p>             
 
             <div class="accordion" id="accordionExample">
+                  
                   <div class="accordion-item">
                     <h2 class="accordion-header">
-                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="true" aria-controls="collapsefive">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
                         Faster impact
                       </button>
                     </h2>
@@ -166,21 +167,22 @@
                 <p>Many funders, institutions and governments around the world require open access.</p>
             
                 <div class="accordion" id="accordionExample">
+                   
                     <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeight" aria-expanded="true" aria-controls="collapseeight">
-                                Meet policy requirements
-                            </button>
-                        </h2>
-                        <div id="collapseeight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <p>
-                                    Increasingly, the funders of scholarly research (funding bodies or institutions) are requiring their grant holders to make publications related to their research available to the public, free and without restrictions
-                                    on re-use. Our open access journals and books comply with major funding policies internationally.
-                                </p>
-                            </div>
-                        </div>
+                    <h2 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">
+                         Meet policy requirements
+                      </button>
+                    </h2>
+                    <div id="collapseeight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                      <div class="accordion-body">
+                        <p>
+                            Increasingly, the funders of scholarly research (funding bodies or institutions) are requiring their grant holders to make publications related to their research available to the public, free and without restrictions
+                            on re-use. Our open access journals and books comply with major funding policies internationally.
+                        </p>
+                      </div>
                     </div>
+                  </div>
                 </div>
             </div>
             
@@ -189,24 +191,27 @@
                 <p>Openly sharing your research data ensures a greater level of reproducibility in science – something that is vital to the integrity of the scientific record. But it also provides you with additional, individual benefits.</p>
             
                 <div class="accordion" id="accordionExample">
+                   
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsenine" aria-expanded="true" aria-controls="collapsenine">
-                                Greater opportunity for collaboration
-                            </button>
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsenine" aria-expanded="false" aria-controls="collapsenine">
+                             Greater opportunity for collaboration
+                          </button>
                         </h2>
                         <div id="collapsenine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <p>
-                                    When data is openly shared it enables greater collaboration between researchers and also creates new research opportunities, as exemplified in the case of the studyforrest project in which a single dataset has generated multiple studies from different labs and resulted in 19 different publications so far.
-                                </p>
-                            </div>
+                          <div class="accordion-body">
+                            <p>
+                                When data is openly shared it enables greater collaboration between researchers and also creates new research opportunities, as exemplified in the case of the studyforrest project in which a single dataset has generated multiple studies from different labs and resulted in 19 different publications so far.
+                            </p>
+                          </div>
                         </div>
-                    </div>
+                      </div>
+                    
+                    
                     
                      <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseten" aria-expanded="true" aria-controls="collapseten">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseten" aria-expanded="true" aria-controls="collapseten">
                                 Increase in citations
                             </button>
                         </h2>
