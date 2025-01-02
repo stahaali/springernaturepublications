@@ -22,7 +22,7 @@
                         <li><a href="#">Data availability statements</a></li>
                         <li><a href="#">Data repository guidance</a></li>
                         <li><a href="#">Sensitive data</a></li>
-                        <li><a href="#">Sensitive data</a></li>
+                        <li><a href="#">Data policy FAQs</a></li>
                         <li><a href="#">Research data helpdesk</a></li>
                     </ul>
                 </div>

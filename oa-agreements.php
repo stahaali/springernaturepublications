@@ -1,5 +1,13 @@
 <?php include('header.php'); ?>
 
+<style>
+    .teaser-box.has-no-copy-text .core
+    {
+        height:auto;
+        justify-content:unset;
+    }
+</style>
+
 <section class="commonbanner commonbanner31">
     <div class="container absolute-center">
         <div class="row">
@@ -204,7 +212,7 @@
               </div>
               <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                     Latin America
                   </button>
                 </h2>
@@ -222,7 +230,7 @@
               </div>
               <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                     North America
                   </button>
                 </h2>

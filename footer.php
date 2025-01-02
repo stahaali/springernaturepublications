@@ -105,7 +105,6 @@
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="footer-widget">
                         <h5 class="contact"><a href="contact.php">Contact</a></h5>
-                        <h5 class="shop"><a href="#">Shop</a></h5>
                     </div>
                     <div class="seperator"></div>
                     <div class="footer-details">
