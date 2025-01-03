@@ -536,7 +536,7 @@
                     <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
                 </video>
 
-                <h4 class="mt-4">The role of a conference chair-organizer in EquinOCS</h4>
+                <h4 class="mt-4">How a conference participant submits their research in EquinOCS</h4>
             </div>
         </div>
     </div>

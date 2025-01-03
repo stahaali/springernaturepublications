@@ -1,25 +1,5 @@
 <?php include('header.php'); ?>
 
-<style>
-    .video-js
-    {
-        height: auto;
-    }
-    .video-js2 .vjs-control-bar 
-    {
-        width: 100%;
-        left: 0;
-        bottom: -2px;
-        border-radius: 0px;
-    }
-    .vjs-big-play-button:before
-    {
-        width: 60px;
-        height: 60px;
-        font-size: 20px;
-    }
-</style>
-
 <section class="commonbanner commonbanner34">
         <div class="container absolute-center">
             <div class="row">
@@ -35,409 +15,388 @@
 <section class="white-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9 col-md-9 col-12">
-                <p class="textinfo">Publishing a book is a significant milestone in a researcher’s career, and can increase your visibility, credibility, and recognition. When you publish a book, you can explore ideas and concepts in depth, and elaborate on your findings and recommendations.</p>
-                <p class="textinfo">What does it take to publish your work as a book? Discover our guide covering the various stages and requirements, as well as tips and advice, templates, author benefits and more. </p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-12">
-                <video
-                    id="my-video"
-                    class="video-js"
-                    controls
-                    preload="auto"
-                    poster="assets/images/review/2.webp"
-                    data-setup="{}">
-                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
-                </video>
-
-                <div class="row mt-4">
-                    <h4 class="textgray3">Book publishing essentials</h4>
-                    <p>Sign up for our <a href="#" class="textblue text-deco">free mini-course</a> today</p>
-                </div>
-            </div>
+            <p class="textinfo">Join thousands of researchers worldwide that have published their work in one of our 3,000+ Springer Nature journals.</p>
         </div>
     </div>
 </section>
 
 <section class="gray-section">
     <div class="container">
-        <div class="row mb-4">
-            <h3 class="subheading border-white">Step-by-step guide to book publishing</h3>
-        </div>
         <div class="row">
-            <div class="col-lg-8 col-md-8 col-12">
-                <div class="row mt-4">
-                    <div class="accordion" id="accordionExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        1. Develop your idea
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i> 
-                                                    </div>
-                                                    <div>
-                                                        See what already exists in your field and think about how you can offer a fresh perspective.
-                                                    </div>
-                                                </li>                                              
-                                            </ul>
-                                        </div>
+            <h3 class="subheading border-white">Step-by-step guide to article publishing</h3>
+        </div>
+        <div class="row mt-4">
+            <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    1. Prepare your article
+                    </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        2. Research your options
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                                <ul>
-                                                    <li>
-                                                        <div>
-                                                            <i class="fa-solid fa-check"></i> 
-                                                        </div>
-                                                        <div>
-                                                            Learn about the different <a href="#" class="textblue text-deco">types of books</a>, our publishing brands, books series, and formats.
-                                                        </div>
-                                                    </li>          
-                                                    <li>
-                                                        <div>
-                                                            <i class="fa-solid fa-check"></i> 
-                                                        </div>
-                                                        <div>
-                                                            Find out more about who's involved and their <a href="#" class="textblue text-deco">roles and responsibilities</a>.
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div>
-                                                            <i class="fa-solid fa-check"></i> 
-                                                        </div>
-                                                        <div>
-                                                            Take a look at our <a href="#" class="textblue text-deco">editorial policies</a>.
-                                                        </div>
-                                                    </li>  
-                                                    <li>
-                                                        <div>
-                                                            <i class="fa-solid fa-check"></i> 
-                                                        </div>
-                                                        <div>
-                                                            Discuss your idea with our editorial team and get advice on the best brand fit. Submit your <a href="#" class="textblue text-deco">idea to our editors</a>.
-                                                        </div>
-                                                    </li> 
-                                                    <li>
-                                                        <div>
-                                                            <i class="fa-solid fa-check"></i> 
-                                                        </div>
-                                                        <div>
-                                                            Take a look at our <a href="#" class="textblue text-deco">editorial policies</a> and refer to our <a href="#" class="textblue text-deco">DEI Hub</a> to make your published work inclusive, and representative.
-                                                        </div>
-                                                    </li>                                    
-                                                </ul>
-                                            </div>
+                                    <div>
+                                        Make sure you follow the submission guidelines for that journal. <a href="#" class="textblue text-deco">Search for a journal</a>.
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        3. Submit your proposal
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i> 
-                                                    </div>
-                                                    <div>
-                                                        If your idea is considered, you'll need to submit a proposal. If further information is required, you'll need to submit a comprehensive proposal. <a href="#" class="textblue text-deco">Read our tips for submitting your proposal here.</a>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                     <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        You’ll need to include a detailed description, intended audience, co-author names and the expected timeframe.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                     <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Once you've signed your contract, get your free Research Round-up, an in-depth Literature Review of up to 30 Springer Nature articles or chapters on your publication topic. <a href="#" class="textblue text-deco">Find out more</a>.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                        4. Proposal review
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Your proposal will be reviewed by our editors and may also be externally reviewed.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        This usually takes a few weeks.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        If your proposal is rejected, we'll give you feedback.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        If your proposal is accepted, we'll ask you to sign a publishing contract. <a href="#" class="textinfo text-deco">Learn more about contracts</a>.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                    <div>
+                                        Get permission to use any images.
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                                        5. Consider open access
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        If you plan to publish your book open access, then you'll need to pay a fee.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Funding may be available from your organisation or a government group. <a href="#" class="textinfo text-deco">Get help with funding</a>.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Funding may be available from your organisation or a government group. <a href="#" class="textinfo text-deco">Get help with funding</a>.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                                        Accordion Item #1
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                       <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Read our manuscript guidelines.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                           Check the guidance for your book type or series. Find out more about writing a manuscript.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Make sure you include all the necessary information. Learn more about submitting a manuscript.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                       </div>
+                                    <div>
+                                        Check that your data is easy to reproduce.
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-                                        7. Manuscript review
-                                    </button>
-                                </h2>
-                                <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Your manuscript will be reviewed by 1 or more experts.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        This takes an average of 60 days.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Our team will let you know if your manuscript is ready to publish, or if they have any feedback to share.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                                        8. Proofreading and publishing
-                                    </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        We'll send you a draft of your book with 10 days to proofread.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        We can be flexible around your availability.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Learn more about the post-submission process when we begin producing your book.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                    <div>
+                                        State clearly if you're reusing any data that has been used elsewhere.
                                     </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-                                        9. After publication
-                                    </button>
-                                </h2>
-                                <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <div class="list-1">
-                                            <ul>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        We'll distribute your book through a variety of channels and campaigns for the greatest reach and impact. 
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Your book will be featured in our online shop.
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div>
-                                                        <i class="fa-solid fa-check"></i>
-                                                    </div>
-                                                    <div>
-                                                        Learn more about promoting your book. Check out important SEO tips and instructions to boost your book’s online visibility.
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
                                     </div>
-                                </div>
-                            </div>
+                                    <div>
+                                        Follow our policies on <a href="#" class="textblue text-deco">plagiarism and ethics</a>.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Follow our policies on <a href="#" class="textblue text-deco">plagiarism and ethics</a>.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Use our services to get help with English translation, scientific assessment and formatting. <a href="#" class="textblue text-deco">Find out what support you can get</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                     </div>
                 </div>
-                <div class="row mt-4">
-                    <p>It usually takes 2 to 6 months to produce your book once we've accepted your final manuscript. </p>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        2. Write a cover letter
+                    </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Introduce your work in a 1-page letter, explaining the research you did, and why it's relevant.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        3. Submit your manuscript
+                    </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Go to the journal homepage to start the process
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        You can only submit 1 article at a time to each journal. Duplicate submissions will be rejected.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                     4. Technical check
+                    </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        We'll make sure that your article follows the journal guidelines for formatting, ethics, plagiarism, contributors, and permissions.
+                                    </div>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        5. Editor and peer review
+                    </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        The journal editor will read your article and decide if it's ready for peer review.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Most articles will be reviewed by 2 or more experts in the field.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        They may contact you with questions at this point.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        6. Final decision
+                    </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        If your article is accepted, you'll need to sign a publishing agreement.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        If your article is rejected, you can get help finding another journal from our <a href="#" class="textblue text-deco">transfer desk team</a>.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        They may contact you with questions at this point.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                        7. Payment
+                    </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        If your article is open access, you'll need to pay a fee.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Fees for OA publishing differ across journals. See relevant journal page for more information.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        You may be able to get help covering that cost. <a href="#" class="textinfo text-deco">See information on funding</a>.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                        8. Publish
+                    </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <div class="list-1">
+                            <ul>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        We'll send you proofs to approve, then we'll publish your article.
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <i class="fa-solid fa-check"></i>
+                                    </div>
+                                    <div>
+                                        Track your impact by logging in to your account
+                                    </div>
+                                </li>                               
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-12">
+        </div>
+        <div class="row mt-4">
+            <p>Get tips on preparing your manuscript using our <a href="#" class="textblue text-deco">submission checklist</a>.</p>
+            <p>Each publication follows a slightly different process, so check the journal's guidelines for more details</p>
+        </div>
+    </div>
+</section>
+
+<section class="white-section">
+    <div class="container">
+        <div class="row mb-4">
+            <h3 class="sub-heading mb-4">Open access vs subscription publishing</h3>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-9 col-md-9 col-12">
+                <p class="textinfo">Each of our journals has its own policies, options, and fees for publishing.</p>
+                <p>Each of our journals has its own policies, options, and fees for publishing.</p>
+                <p>Publishing your article open access has a number of benefits:</p>
+
+                <div class="list-1 list-3">
+                    <ul>
+                        <li>
+                            <div>
+                                <i class="fa-solid fa-check"></i> 
+                            </div>
+                            <div>
+                                Free to access and download
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <i class="fa-solid fa-check"></i> 
+                            </div>
+                            <div>
+                                Reaches a wider global audience
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <i class="fa-solid fa-check"></i> 
+                            </div>
+                            <div>
+                                1.6x more citations
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <i class="fa-solid fa-check"></i> 
+                            </div>
+                            <div>
+                                6x more downloads
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <i class="fa-solid fa-check"></i> 
+                            </div>
+                            <div>
+                                4.9 average Altmetric attention (vs 2.1 subscription)
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <p class="mt-4">It's free to publish your article in a subscription journal, but there are fees for publishing open access articles. You'll need to check the open access fees for the journal you choose.</p>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="column-wrapper">
                     <a href="#">
                         <div class="column primary-blue">
-                            <h3>Learn more about open access</h3>
+                            <h3>Submit your book idea</h3>
                             <p>Share your idea with a publishing editor</p>
                             <div class="icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -446,132 +405,52 @@
                     </a>
                 </div>
             </div>
-            
         </div>
     </div>
 </section>
 
-<section class="white-section">
+<section class="gray-section">
     <div class="container">
         <div class="row">
-            <h3 class="subheading mb-4">Open access publishing</h3>
+            <h3 class="subheading border-white mb-4">Get help with funding</h3>
         </div>
         <div class="row">
-            <div class="col-lg-8 col-md-8 col-12">
-                <p class="textinfo">Our books can be fully open access, paid-for or hybrid, with a mixture of open access and paid chapters.</p>
-                <p>Publishing your book open access makes it more visible and discoverable:</p>
-
-                <div class="list-1 mb-4">
-                    <ul>
-                        <li> <i class="fa-solid fa-check"></i> Free for readers to access </li>
-                        <li> <i class="fa-solid fa-check"></i> Reach 61% more countries </li>
-                        <li> <i class="fa-solid fa-check"></i> 2.4x more citations </li>
-                        <li> <i class="fa-solid fa-check"></i> 10x more downloads </li>
-                        <li> <i class="fa-solid fa-check"></i> 10x more online mentions </li>
-                    </ul>
-                </div>
-
-                <p>It's free to publish a paid-for book, but there are fees to cover the cost of open access publishing. Take a look at each publishing brand's guidelines to learn more.</p>
+            <div class="col-lg-9 col-md-9 col-12">
+                <p class="textblue">Many organisations require you to publish your research open access. It's worth checking with your supervisor and colleagues to understand your organisation's approach.</p>
+                <p>Many funders and institutions will cover your open access publishing fees. To find out if your fees are covered, take a look at <a href="#" class="textblue text-deco">our funding agreements</a>.</p>
+                <p>We also offer discounts for researchers in some geographical regions. See regions with reduced fees</p>
             </div>
-            <div class="col-lg-4 col-md-4 col-12">
-
-                <div class="column-wrapper mb-4">
+            <div class="col-lg-3 col-md-3 col-12">
+                <div class="column-wrapper">
                     <a href="#">
-                        <div class="column primary-blue">
-                            <h3>Learn more about open access</h3>
+                        <div class="column backgrdound-green">
+                            <h3>Learn more about funding</h3>
                             <div class="icon">
                                 <i class="fa-solid fa-angle-right"></i>
                             </div>
                         </div>
                     </a>
                 </div>
-                <video
-                    id="my-video"
-                    class="video-js"
-                    controls
-                    preload="auto"
-                    poster="assets/images/review/2.webp"
-                    data-setup="{}">
-                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
-                </video>
             </div>
-        </div>
-    </div>
-</section>
-
-<section class="gray-section">
-    <div class="container">
-        <div class="row">
-            <p class="textinfo">Many organisations require you to publish your research open access. It’s worth checking with your supervisor and colleagues to understand your organisation’s approach. They may be able to cover your open access fees.</p>
-            <p>We also offer a range of book agreements to support authors with open access fees.</p>
-            <p>To find out if your fees are covered, <a href="#" class="textblue text-deco">take a look at our funding agreements</a>.</p>
         </div>
     </div>
 </section>
 
 <section class="white-section">
     <div class="container">
-        <div class="row mb-4">
-            <h3 class="subheading mb-4">Choose where to publish</h3>
-            <p class="textinfo">Springer Nature has a family of book publishing brands that cover a wide range of topics: Springer, Palgrave Macmillan, Apress, Atlantic Press, and J.B. Metzler.</p>
+        <div class="row">
+            <h3 class="subheading mb-4">Choose a journal </h3>
         </div>
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-12">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-12 mb-20">
-                        <p>Springer publishes over 2,900 journals and 300,000 book in English and German, across science, technology, medicine, humanities and business.</p>
-                        <a href="#" class="textblue text-deco">Learn more about Springer</a>
-                        <a href="#" class="textblue text-deco">Contact a Springer editor</a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="assets/images/brands/1.webp" class="img-fluid" alt="">
-                    </div>
-                </div>
+            <div class="col-lg-9 col-md-9 col-12">
+                <p class="textinfo">We have 3,000+ journals to choose from, covering a wide range of topics. The best way to find a relevant journal is to search by keyword.</p>
+                <p>Once you've chosen a journal, check the submission guidelines to see the open access fees.</p>
             </div>
-            <div class="col-lg-6 col-md-6 col-12 mb-20">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-12 mb-20">
-                        <p>Palgrave Macmillan is a world-class publisher of books and journals with more than 175 years’ experience in the humanities, business and social sciences.</p>
-                        <a href="#" class="textblue text-deco">Learn more about Palgrave Macmillan</a>
-                        <a href="#" class="textblue text-deco">Contact a Palgrave Macmillan editor</a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="assets/images/brands/4.webp" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-12 mb-20">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-12 mb-20">
-                        <p>Atlantis Press is a global open access publisher of scientific, technical and medical content. Atlantis Press has launched and developed several book series containing more than 120 books (co-published with Springer Nature) and 17 proceedings series with over 1,200 proceedings.</p>
-                        <a href="#" class="textblue text-deco">Learn more about Atlantis Press</a>
-                        <a href="#" class="textblue text-deco">Contact an Atlantis Press editor</a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="assets/images/brands/16.webp" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-12 mb-20">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-12 mb-20">
-                        <p>Atlantis Press is a global open access publisher of scientific, technical and medical content. Atlantis Press has launched and developed several book series containing more than 120 books (co-published with Springer Nature) and 17 proceedings series with over 1,200 proceedings.</p>
-                        <a href="#" class="textblue text-deco">Learn more about Atlantis Press</a>
-                        <a href="#" class="textblue text-deco">Contact an Atlantis Press editor</a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="assets/images/brands/5.webp" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-12 mb-20">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-12 ">
-                        <p>J.B. Metzler covers arts, media and languages and publishes only in German. It is one of the most important humanities publishers, producing respected and acclaimed reference works, handbooks and textbooks.</p>
-                        <a href="#" class="textblue text-deco">Learn more about J.B. Metzler and contact an editor</a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="assets/images/brands/8.webp" class="img-fluid" alt="">
+            <div class="col-lg-3 col-md-3 col-12">
+                <div class="column backgrdound-lightblue">
+                    <h3>Search all journals</h3>
+                    <div class="icon">
+                        <i class="fa-solid fa-angle-right"></i>
                     </div>
                 </div>
             </div>
@@ -581,43 +460,50 @@
 
 <section class="gray-section">
     <div class="container">
-        <div class="row">
+        <div class="row mb-4">
             <h3 class="subheading border-white mb-4">Learn more about publishing with us</h3>
-            <p>We offer editing, translation, data presentation and formatting services to help you at each step.</p>
+            <p class="textinfo">We offer editing, translation, data presentation and formatting services to help you at each step.</p>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-3 col-12">
-                <div class="column column2 primary-blue">
-                    <h3>Book author services</h3>
-                    <div class="icon">
-                        <i class="fa-solid fa-angle-right"></i>
-                    </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <div class="column-wrapper">
+                    <a href="#">
+                        <div class="column primary-blue">
+                            <h3>Author support for publishing</h3>
+                            <div class="icon">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-12">
-                <div class="column column2 background-lightblue">
-                    <h3>Book author services</h3>
-                    <div class="icon">
-                        <i class="fa-solid fa-angle-right"></i>
-                    </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <div class="column-wrapper">
+                    <a href="#">
+                        <div class="column backgrdound-cgreen">
+                            <h3>Knowledge resources for scientists</h3>
+                            <div class="icon">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-12">
-                <div class="column column2 backgrdound-cgreen">
-                    <h3>Knowledge resources for scientists</h3>
-                    <div class="icon">
-                        <i class="fa-solid fa-angle-right"></i>
-                    </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <div class="column-wrapper">
+                    <a href="#">
+                        <div class="column background-purple">
+                            <h3>Author tutorials</h3>
+                            <div class="icon">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-12">
-                <div class="column column2 background-purple">
-                    <h3>Author tutorials</h3>
-                    <div class="icon">
-                        <i class="fa-solid fa-angle-right"></i>
-                    </div>
-                </div>
-            </div>
+        </div>
+        <div class="row mt-4">
+            <p class="mb-0">If you have a question about a specific journal, check the submission guidelines. If you still need help, contact us.</p>
         </div>
     </div>
 </section>

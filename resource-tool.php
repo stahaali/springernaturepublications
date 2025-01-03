@@ -47,7 +47,7 @@
             <div class="row">
                <div class="col-lg-4 col-md-6 col-12 m20">
                 <div class="blog-wrapper">
-                    <a href="transfer-desk-for-editors.php">
+                    <a href="dei-for-editors.php">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/69.webp" class="img-fluid" alt="">
@@ -65,7 +65,7 @@
                </div>
                <div class="col-lg-4 col-md-6 col-12 m20">
                 <div class="blog-wrapper">
-                    <a href="researcher-guide-to-open-access-agreements.php">
+                    <a href="reviewerfinder.php">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/169.webp" class="img-fluid" alt="">
@@ -83,10 +83,10 @@
                </div>
                <div class="col-lg-4 col-md-6 col-12 m20">
                     <div class="blog-wrapper">
-                        <a href="all-about-research-integrity-a-beginner-guide-in-depth-course.php">
+                        <a href="transfer-desk-for-editors.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/07.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/05.webp" class="img-fluid" alt="">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Transfer Desk</h3>

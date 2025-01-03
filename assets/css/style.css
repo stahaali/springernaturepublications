@@ -61,6 +61,7 @@ header.desktop-menu nav
     flex-wrap: wrap;
     width: 100%;
     justify-content: space-between;
+    align-items: center;
 }
 header.desktop-menu nav ul
 {
@@ -4269,9 +4270,8 @@ section.termconditions-section
 {
     border-radius: 0 !important;
     border: #486a7e 3px solid;
-    padding: 15px 20px;
+    padding: 33px 34px;
     background: #fff;
-    width: 85%;
 }
 .custom-modal .modal-body
 {
@@ -5774,6 +5774,20 @@ section.commonbanner.commonbanner56
     background-size: cover;
 }
 section.commonbanner56 .absolute-center
+{
+    top:76%;
+}
+
+/*commonbanner57*/
+
+section.commonbanner.commonbanner57
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/71.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner57 .absolute-center
 {
     top:76%;
 }

@@ -64,7 +64,7 @@
                         <img src="assets/images/blog/162.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p><a href="#" class="textblue text-deco">Editors' Information Guide</a></p>
+                        <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/15603526/data/v2" class="textblue text-deco">Editors' Information Guide</a></p>
                         <p>(PDF, 1.25 MB)</p>
                     </div>
                 </div>  

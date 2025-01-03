@@ -229,11 +229,11 @@
     <div class="container">
         <div class="row">
         <div class="col-lg-6 col-md-6 col-12">
-                <div class="partnership-wrapper border-radius column1">
+                <div class="partnership-wrapper border-radius column1 p-0">
                     <a href="#">
                         <div class="partnership-column">
                             <div class="partnership-header">
-                                <img src="assets/images/blog/18.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/18.webp" width="100%" class="img-fluid" alt="">
                             </div>
                             <div class="partnership-body">
                                 <h3 class="initiative-heading">ORCID: Share your discoveries, receive recognition</h3>
@@ -251,11 +251,11 @@
                     <a href="#">
                         <div class="partnership-column">
                             <div class="partnership-header">
-                                <img src="assets/images/icons/icon2.webp" class="img-fluid" style="display:block; margin:auto;" alt="">
+                                <img src="assets/images/icons/icon17.webp" class="img-fluid" style="display:block; margin:auto;" alt="">
                             </div>
                             <div class="partnership-body">
-                                <h3 class="initiative-heading text-white">ORCID: Share your discoveries, receive recognition</h3>
-                                <p class="text-white">ORCID identifiers give researchers a personal, permanent digital code that distinguishes them from every other researcher and links to their publication record, ensuring their work is properly and duly recognized.</p>
+                                <h3 class="initiative-heading text-white">Your research data are valuable</h3>
+                                <p class="text-white">Sharing research data is as important as publishing in a journal or book. Find out more.</p>
                             </div>
                         </div>
                     </a>

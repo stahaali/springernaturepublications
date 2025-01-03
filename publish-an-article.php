@@ -460,7 +460,7 @@
 <section class="gray-section">
     <div class="container">
         <div class="row mb-4">
-            <h3 class="sub-heading border-white mb-4">Learn more about publishing with us</h3>
+            <h3 class="subheading border-white mb-4">Learn more about publishing with us</h3>
             <p class="textinfo">We offer editing, translation, data presentation and formatting services to help you at each step.</p>
         </div>
         <div class="row">
