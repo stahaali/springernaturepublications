@@ -49,7 +49,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 col-12">
-                <p class="textinfo">The Springer Nature Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This free course provides you with an overview of the Code.</p>
+                <p class="textinfo">Plagiarism is one of the most prevalent problems in scholarly publishing. Both journal and book Editors need to be aware of what constitutes problematic overlap, how to investigate it, and how to deal with it. This free four module course provides a comprehensive overview of the subject. </p>
 
                 <div class="row mt-4">
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
@@ -62,7 +62,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
-                        <p>45 minutes</p>
+                        <p class="mb-0">20-40 minutes</p>
+                        <p>per module</p>
                     </div>
                 </div>
             </div>
@@ -71,7 +72,7 @@
                     <a href="#">
                         <div class="blue-column">
                             <img src="assets/images/blog/187.webp" class="img-fluid" alt="">
-                            <h3>Access the course</h3>
+                            <h3>Plagiarism: Module overview</h3>
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
                             </div> 
@@ -89,19 +90,19 @@
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">About this course</h3>
-                    <p class="textgray2">Are you unsure about the Journal Editors' Code of Conduct? Dislike reading lengthy documents, but keen to learn about the key concepts in an informative and engaging manner? This course is designed and written for Editors-in-Chief, to help you understand the basic principles of the Journal Editors' Code of Conduct, and also to test your understanding of some tricky scenarios you may face in the course of your editorship.</p>
+                    <p class="textgray2">No editor wishes to damage their journal by publishing content that overlaps with another source. It is important to understand all the reasons why overlap can occur, and why it can be problematic for ethical and legal reasons. This course explains the basics of plagiarism, how to access and use Crossref Similarity Check powered by iThenticate, how to assess the degree of overlap when it is found and take appropriate action in both submitted and published manuscripts.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">Who should take this course?</h3>
-                    <p class="textgray2">This course has been written with Editors-in-Chief in mind, and all Editors-in-Chief should take this course to ensure they are familiar and comfortable with the Journal Editors' Code of Conduct. However, it may also be useful for any Editor who handles manuscripts for a journal and thus all Editors are welcome to take this course. You can take this course in one go or at your own pace, as it is fine to leave and return to it at another time.</p>
+                    <p class="textgray2">These modules are aimed at Editors of all levels. Even those who are familiar with the problem of overlapping text may find useful information that enables them to detect problems earlier or more easily, and prevent plagiarized material being published. You can take a single module, or all of them, at your own pace, and you can leave a module and return to it at another time.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">What will I learn in this course?</h3>
-                    <p class="textgray2">You will be taken through the fundamental concepts of the Journal Editors' Code of Conduct to ensure you understand the basic principles of editorial policies, manuscript handling (including peer review and decision making), conflicts of interest, libellous and defamatory material, field-specific policies and post publication issues. You will be presented with interactive questions and exercises to challenge yourself on how to navigate difficult situations.</p>
+                    <p class="textgray2">The first module explains the basics of what plagiarism is and the different types that exist, why people plagiarize and why it is damaging, and when it may be detected. It also discusses text recycling (sometimes called self-plagiarism). The second module covers the practicalities of using Crossref Similarity Check, including the different ways of uploading a manuscript, accessing a report and evaluating the Similarity Score. The third module shows how to refine and interpret the results obtained from a Crossref Similarity Check in order to determine if any overlap is present, and whether that overlap is problematic or not. The final module discusses how to assess any text overlap you detect and decide what action to take to take to correct it.</p>
                 </div>
             </div>
         </div>
@@ -122,8 +123,8 @@
                             <img src="assets/images/blog/237.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism Module 1 - introduction to plagiarism</h4>
+                            <p>This module explains the basics of what plagiarism is and the different types that exist, text recycling, why people plagiarize and why it is damaging, and when it may be detected.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -141,8 +142,8 @@
                             <img src="assets/images/blog/238.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism Module 2 - accessing Crossref Similarity Check</h4>
+                            <p>This module covers the practicalities of using a Crossref Similarity Check, including the different ways of accessing a report, uploading a manuscript and generating a similarity score.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -161,7 +162,7 @@
                         </div>
                         <div class="editors-body">
                             <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <p>This module shows how to refine and interpret the results obtained from a Crossref Similarity Check in order to determine if any overlap is present, and whether that overlap is problematic or not.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -179,8 +180,8 @@
                             <img src="assets/images/blog/240.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism Module 4 - what to do when you find overlap</h4>
+                            <p>This module discusses how to assess any text overlap that is detected and decide what action to take to correct it.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -209,36 +210,36 @@
                         <img src="assets/images/blog/241.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Crossref tips and tricks – first time users</a></p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/16184982/data/v9" class="textblue text-deco">Crossref tips and tricks – first time users</a></p>
                         <p>(PDF, 2.61 MB)</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="row">
-                    <p>This is a two-page document that may be used as a quick reference guide for getting started.</p>
+                    <p>This is a one-page document that may be used as a quick reference guide.</p>
                 </div>
                 <div class="row mt-4">
                     <div class="col-lg-4">
                         <img src="assets/images/blog/241.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Crossref tips and tricks – first time users</a></p>
-                        <p>(PDF, 2.61 MB)</p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/16185086/data/v3" class="textblue text-deco">Crossref tips and tricks – how to interpret the results</a></p>
+                        <p>(PDF, 2.05 MB)</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="row">
-                    <p>This is a two-page document that may be used as a quick reference guide for getting started.</p>
+                    <p>This longer document provides a full guide to using Crossref.</p>
                 </div>
                 <div class="row mt-4">
                     <div class="col-lg-4">
                         <img src="assets/images/blog/241.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Crossref tips and tricks – first time users</a></p>
-                        <p>(PDF, 2.61 MB)</p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/16185088/data/v2" class="textblue text-deco">Springer Nature Crossref Guide</a></p>
+                        <p>(PDF, 3.64 MB)</p>
                     </div>
                 </div>
             </div>
@@ -257,11 +258,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/5.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Code of conduct - Journals</h4>
+                            <p>The Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This course provides you with an overview of the Code.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -276,11 +277,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/8.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Editor Resources</h4>
+                            <p>Learn more about how to handle common editorial problems and situations according to best practice with these flowcharts and template letters.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -295,11 +296,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/6.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Fundamentals of Peer Review</h4>
+                            <p>This course outlines the basics of the peer review process, including confidentiality and conflicts of interest. It explains how to identify the characteristics of a good reviewer and invite reviewers and how to assess peer review reports.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -314,11 +315,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/7.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Research Ethics</h4>
+                            <p>Learn about different aspects of research ethics for editors, such as ethics approval requirements, informed consent to participate in research, ethics requirements for animal studies and requirements for clinical trial registration.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -336,8 +337,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>IRR service</h4>
+                            <p>Learn about the IRR (iThenticate Report & Response) service; an optional tool provided for journal editors by Springer Nature. This service analyses the Crossref Similarity Report and provides editors with a recommendation for new submissions.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>

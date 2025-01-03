@@ -49,16 +49,18 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 col-12">
-                <p class="textinfo">The Springer Nature Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This free course provides you with an overview of the Code.</p>
+                <p class="textinfo">Research integrity is a key topic for everyone involved in science. However, it can present a bewildering array of topics, and early career researchers may receive little or no formal training in this area. How can you avoid common pitfalls and ensure your work is of the best possible standard? This course aims to give you an overview of the main areas in both research ethics and publication ethics.</p>
+                <p>We have designed this tutorial with early career researchers in mind, across all scholarly fields. Whether your work involves traditional lab work, field work or research that is literature or theory based, the principles of research ethics and publication ethics are still critical.</p>
+                <p>You will also have the opportunity to check your understanding with quiz questions as we go.</p>
 
                 <div class="row mt-4">
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
-                        <img src="assets/images/blog/184.webp" class="img-fluid" alt="">
-                        <p>Editor Resources</p>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/185.webp" class="img-fluid" alt="">
                         <p>English</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-20">
+                        <img src="assets/images/blog/282.webp" class="img-fluid" alt="">
+                        <p>Self-paced</p>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
@@ -89,19 +91,19 @@
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">About this course</h3>
-                    <p class="textgray2">Are you unsure about the Journal Editors' Code of Conduct? Dislike reading lengthy documents, but keen to learn about the key concepts in an informative and engaging manner? This course is designed and written for Editors-in-Chief, to help you understand the basic principles of the Journal Editors' Code of Conduct, and also to test your understanding of some tricky scenarios you may face in the course of your editorship.</p>
+                    <p class="textgray2">We have designed this course with early career researchers in mind. Conducting and writing up your work can be challenging, and we hope that this self-led course will help introduce you to the key topics across both research and publication ethics.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
-                    <h3 class="textgray">Who should take this course?</h3>
-                    <p class="textgray2">This course has been written with Editors-in-Chief in mind, and all Editors-in-Chief should take this course to ensure they are familiar and comfortable with the Journal Editors' Code of Conduct. However, it may also be useful for any Editor who handles manuscripts for a journal and thus all Editors are welcome to take this course. You can take this course in one go or at your own pace, as it is fine to leave and return to it at another time.</p>
+                    <h3 class="textgray">About this course</h3>
+                    <p class="textgray2">Carrying out and publishing your research with good adherence to the principles of research integrity will help you to deliver trustworthy results that can be relied on by others and build your reputation. This course aims to help you do that with bite sized lessons and interactive questions, as well as resources for further reading.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
-                    <h3 class="textgray">What will I learn in this course?</h3>
-                    <p class="textgray2">You will be taken through the fundamental concepts of the Journal Editors' Code of Conduct to ensure you understand the basic principles of editorial policies, manuscript handling (including peer review and decision making), conflicts of interest, libellous and defamatory material, field-specific policies and post publication issues. You will be presented with interactive questions and exercises to challenge yourself on how to navigate difficult situations.</p>
+                    <h3 class="textgray">What you will learn in this course</h3>
+                    <p class="textgray2">This course covers the basic principles of research integrity when planning, carrying out and analysing your research, plus writing up and publishing your findings. It will explain why each facet is important, what you need to take into account or do to avoid problems, and cover sources of further information about each area.</p>
                 </div>
             </div>
         </div>

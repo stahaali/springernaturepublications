@@ -4,6 +4,7 @@
     .column-wrapper
     {
         background:url('assets/images/blog/182.webp');
+        background-size:cover;
     }
     .column-wrapper .right-icon i
     {
@@ -341,7 +342,7 @@
                         </div>
                     </div>
                     <div class="col-lg-10">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Springer Nature Code of Conduct for Journals - German</a></p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19639346/data/v5" class="textblue text-deco">Springer Nature Code of Conduct for Journals - German</a></p>
                         <p>(PDF, 1.30 MB)</p>
                     </div>
                 </div>
@@ -353,7 +354,7 @@
                         </div>
                     </div>
                     <div class="col-lg-10">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Springer Nature Code of Conduct for Journals - English</a></p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/26598660/data/v2" class="textblue text-deco">Springer Nature Code of Conduct for Journals - English</a></p>
                         <p>(PDF, 2.54 MB)</p>
                     </div>
                 </div>

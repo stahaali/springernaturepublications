@@ -29,11 +29,11 @@
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/287.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
                             <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <p>We stay grounded in the needs of our communities, partnering with them to provide the content and solutions they need to make real and sustainable progress.</p>
 
                         </div>
                     </div>
@@ -41,11 +41,11 @@
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/2.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/288.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>TRUSTED SOURCE</h4>
+                            <p>As validators and curators of the academic record for more than 180 years, we pride ourselves on bringing independence and rigour to all we do.</p>
 
                         </div>
                     </div>
@@ -53,11 +53,11 @@
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/3.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/288.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>TECHNOLOGY</h4>
+                            <p>Our deep knowledge of our communities and how they work has enabled us to deploy advanced technologies including AI to improve outcomes.</p>
 
                         </div>
                     </div>
@@ -65,11 +65,11 @@
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/3.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/290.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>PURPOSE DRIVEN</h4>
+                            <p>We aim to be the leading SDG publisher, working towards carbon neutrality and doing all we can to protect our planet and reduce our carbon footprint.</p>
 
                         </div>
                     </div>

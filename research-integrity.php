@@ -137,19 +137,19 @@
         </div>
         <div class="row mt-4">
             <div class="col-lg-4 col-md-6 col-12">
-                <p><a href="#" class="textblue text-deco">Research Integrity (English)</a></p>
+                <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/25427504/data/v3" class="textblue text-deco">Research Integrity (English)</a></p>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <p><a href="#" class="textblue text-deco">Research Integrity (Chinese)</a></p>
+                <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/25427540/data/v2" class="textblue text-deco">Research Integrity (German)</a></p>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <p><a href="#" class="textblue text-deco">Research Integrity (French)</a></p>
+                <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/25427552/data/v2" class="textblue text-deco">Research Integrity (Chinese)</a></p>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <p><a href="#" class="textblue text-deco">Research Integrity (German)</a></p>
+                <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/25427556/data/v2" class="textblue text-deco">Research Integrity (Japanese)</a></p>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <p><a href="#" class="textblue text-deco">Research Integrity (Japanese)</a></p>
+                <p><a href="/gp/research-integrity--french-/25427558" class="textblue text-deco">Research Integrity (French)</a></p>
             </div>
         </div>
     </div>

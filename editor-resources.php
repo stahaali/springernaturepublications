@@ -49,7 +49,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 col-12">
-                <p class="textinfo">The Springer Nature Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This free course provides you with an overview of the Code.</p>
+                <p class="textinfo">This Editor resources course is not a traditional e-learning course. Rather, this is a collection of useful resources outlining best practice for handling editorial situations that you may encounter as an Editor for a Springer Nature journal. Each resource title reflects an editorial situation or problem, and presents a flowchart and template letters for managing that issue. You do not have to do the whole course, but instead jump to the topic for which you need help.</p>
 
                 <div class="row mt-4">
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
@@ -62,7 +62,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
-                        <p>45 minutes</p>
+                        <p>20 minutes</p>
                     </div>
                 </div>
             </div>
@@ -88,20 +88,20 @@
         <div class="row">
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
-                    <h3 class="textgray">About this course</h3>
-                    <p class="textgray2">Are you unsure about the Journal Editors' Code of Conduct? Dislike reading lengthy documents, but keen to learn about the key concepts in an informative and engaging manner? This course is designed and written for Editors-in-Chief, to help you understand the basic principles of the Journal Editors' Code of Conduct, and also to test your understanding of some tricky scenarios you may face in the course of your editorship.</p>
+                    <h3 class="textgray">About this resource</h3>
+                    <p class="textgray2">This single-module course presents a list of topics where Springer Nature editors may encounter problems. Each topic has a flowchart and, where appropriate, template letters. These resources can be used as a guide for managing the situations according to best practice.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
-                    <h3 class="textgray">Who should take this course?</h3>
-                    <p class="textgray2">This course has been written with Editors-in-Chief in mind, and all Editors-in-Chief should take this course to ensure they are familiar and comfortable with the Journal Editors' Code of Conduct. However, it may also be useful for any Editor who handles manuscripts for a journal and thus all Editors are welcome to take this course. You can take this course in one go or at your own pace, as it is fine to leave and return to it at another time.</p>
+                    <h3 class="textgray">Who should use this resource?</h3>
+                    <p class="textgray2">This course has been written for all editors at Springer Nature who handle manuscripts. Some topics may not be useful for editors in specific fields, but you don't need to go through them all - it is possible to jump to a specific topic. You can leave and return to this course at any time.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
-                    <h3 class="textgray">What will I learn in this course?</h3>
-                    <p class="textgray2">You will be taken through the fundamental concepts of the Journal Editors' Code of Conduct to ensure you understand the basic principles of editorial policies, manuscript handling (including peer review and decision making), conflicts of interest, libellous and defamatory material, field-specific policies and post publication issues. You will be presented with interactive questions and exercises to challenge yourself on how to navigate difficult situations.</p>
+                    <h3 class="textgray">What will I learn in this resource?</h3>
+                    <p class="textgray2">You will be taken through the various paths that a problem can commonly take, with the best option for handling each situation outlined. It is not possible to cover every variation and nuance that each can present, so the intent is not to be dogmatic. Instead, we offer a solid foundation for good management of common situations that editors can encounter when handling manuscripts.</p>
                 </div>
             </div>
         </div>
@@ -122,8 +122,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Code of conduct - Journals</h4>
+                            <p>The Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This course provides you with an overview of the Code.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -141,8 +141,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Fundamentals of Peer Review</h4>
+                            <p>This course outlines the basics of the peer review process, including confidentiality and conflicts of interest. It explains how to identify the characteristics of a good reviewer and invite reviewers and how to assess peer review reports.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -160,8 +160,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Research Ethics</h4>
+                            <p>Learn about different aspects of research ethics for editors, such as ethics approval requirements, informed consent to participate in research, ethics requirements for animal studies and requirements for clinical trial registration.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -179,8 +179,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism</h4>
+                            <p>Learn in depth about plagiarism, including the different types that exist, the practicalities of using Crossref Similarity Check, and how to assess and take action on any text overlap detected.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -198,8 +198,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>IRR service</h4>
+                            <p>Learn about the IRR (iThenticate Report & Response) service; an optional tool provided for journal editors by Springer Nature. This service analyses the Crossref Similarity Report and provides editors with a recommendation for new submissions.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>

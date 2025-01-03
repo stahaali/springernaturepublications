@@ -47,7 +47,7 @@
                 <div class="row mt-4">
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/184.webp" class="img-fluid" alt="">
-                        <p>Editor Resources</p>
+                        <p class="mt-3">Editor Resources</p>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/185.webp" class="img-fluid" alt="">
@@ -55,7 +55,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
-                        <p>45 minutes</p>
+                        <p class="mt-3">45 minutes</p>
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                 <p class="textinfo mb-4">In one respect the role of an Editor-in-Chief is fairly straightforward: to ensure that the journal publishes good quality research. However the position is multi-faceted and requires Editors-in-Chief to perform a variety of tasks and interact with a wide range of people. </p>
                 <div class="buttonlinks">
                     <div class="button079"> 
-                        <a href="#">SpringerNature Code of Conduct page</a>
+                        <a href="code-of-conduct-journals.php">SpringerNature Code of Conduct page</a>
                     </div>
                 </div>
             </div>
@@ -134,8 +134,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Editor Resources</h4>
+                            <p>Learn more about how to handle common editorial problems and situations according to best practice with these flowcharts and template letters.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -153,8 +153,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Fundamentals of Peer Review</h4>
+                            <p>This course outlines the basics of the peer review process, including confidentiality and conflicts of interest. It explains how to identify the characteristics of a good reviewer and invite reviewers and how to assess peer review reports.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -172,8 +172,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Research Ethics</h4>
+                            <p>Learn about different aspects of research ethics for editors, such as ethics approval requirements, informed consent to participate in research, ethics requirements for animal studies and requirements for clinical trial registration.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -191,8 +191,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism</h4>
+                            <p>Learn in depth about plagiarism, including the different types that exist, the practicalities of using Crossref Similarity Check, and how to assess and take action on any text overlap detected.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -210,8 +210,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>IRR Service</h4>
+                            <p>Learn about the IRR (iThenticate Report & Response) service; an optional tool provided for journal editors by Springer Nature. This service analyses the Crossref Similarity Report and provides editors with a recommendation for new submissions.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>

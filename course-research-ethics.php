@@ -62,7 +62,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
-                        <p>45 minutes</p>
+                        <p>20 minutes</p>
+                        <p>per module</p>
                     </div>
                 </div>
             </div>
@@ -71,7 +72,7 @@
                     <a href="#">
                         <div class="blue-column">
                             <img src="assets/images/blog/187.webp" class="img-fluid" alt="">
-                            <h3>Access the course</h3>
+                            <h3>Research Ethics course Modules overview</h3>
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
                             </div> 
@@ -89,19 +90,19 @@
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">About this course</h3>
-                    <p class="textgray2">Are you unsure about the Journal Editors' Code of Conduct? Dislike reading lengthy documents, but keen to learn about the key concepts in an informative and engaging manner? This course is designed and written for Editors-in-Chief, to help you understand the basic principles of the Journal Editors' Code of Conduct, and also to test your understanding of some tricky scenarios you may face in the course of your editorship.</p>
+                    <p class="textgray2">Some journal Editors may already be comfortable handling manuscripts which feature key issues in research ethics such as ethics approval, informed consent to participate and publish, animal and plant ethics or trial registration. However, in subjects which feature these ethical aspects less frequently, or in multi-disciplinary journals, Editors may be less comfortable. These modules aim to demystify five key topics in research ethics and help Editors understand the requirements.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">Who should take this course?</h3>
-                    <p class="textgray2">This course has been written with Editors-in-Chief in mind, and all Editors-in-Chief should take this course to ensure they are familiar and comfortable with the Journal Editors' Code of Conduct. However, it may also be useful for any Editor who handles manuscripts for a journal and thus all Editors are welcome to take this course. You can take this course in one go or at your own pace, as it is fine to leave and return to it at another time.</p>
+                    <p class="textgray2">These modules have been written for journal Editors who are either new to the editing process, or new to the specific topic. They are designed as resources, so that Editors can refer back to them after completion if they encounter a challenging situation. You can take a single module, or all of them, at your own pace, and you can leave a module and return to it at another time.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">What will I learn in this course?</h3>
-                    <p class="textgray2">You will be taken through the fundamental concepts of the Journal Editors' Code of Conduct to ensure you understand the basic principles of editorial policies, manuscript handling (including peer review and decision making), conflicts of interest, libellous and defamatory material, field-specific policies and post publication issues. You will be presented with interactive questions and exercises to challenge yourself on how to navigate difficult situations.</p>
+                    <p class="textgray2">The first module gives an overview of the ethics approval requirements for studies involving humans. The second discusses the requirements for informed consent to participate in research and informed consent for publication of individual data and images. The third gives an overview of ethics requirements for animal studies and when ethics approval is required. The fourth considers ethics and consent requirements for internet research studies and the specific associated challenges. The final module presents the requirements for clinical trial registration for any journals that publish articles affecting public health or human welfare. These modules aim to demystify these topics and explain the practical aspects of handling related manuscripts.</p>
                 </div>
             </div>
         </div>
@@ -135,8 +136,8 @@
                                 <img src="assets/images/blog/233.webp" class="img-fluid" alt="" />
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Research Ethics Module 1: Ethics Approval</h3>
-                                <p>This module gives an overview of the ethics approval requirements for human studies in the life sciences and social sciences journals, or any journals that publish articles affecting public health or human welfare. </p>
+                                <h3 class="initiative-heading">Research Ethics Module 2: Informed Consent</h3>
+                                <p>This module discusses the requirements for informed consent to participate in research and informed consent for publication of individual data and images. This covers both life and social sciences, and also newer fields in the hard sciences that are using individuals for research.</p>
                             </div>
                         </div>
                     </a>
@@ -150,8 +151,8 @@
                                 <img src="assets/images/blog/234.webp" class="img-fluid" alt="" />
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Research Ethics Module 1: Ethics Approval</h3>
-                                <p>This module gives an overview of the ethics approval requirements for human studies in the life sciences and social sciences journals, or any journals that publish articles affecting public health or human welfare. </p>
+                                <h3 class="initiative-heading">Research Ethics Module 3: Animal Ethics</h3>
+                                <p>This module gives an overview of ethics requirements for animal studies and when ethics approval is required in all fields that use animal subjects, including life sciences and also others that may use these methods only rarely.</p>
                             </div>
                         </div>
                     </a>
@@ -165,8 +166,8 @@
                                 <img src="assets/images/blog/235.webp" class="img-fluid" alt="" />
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Research Ethics Module 1: Ethics Approval</h3>
-                                <p>This module gives an overview of the ethics approval requirements for human studies in the life sciences and social sciences journals, or any journals that publish articles affecting public health or human welfare. </p>
+                                <h3 class="initiative-heading">Research Ethics Module 4: Ethics of Internet Research</h3>
+                                <p>This module considers the ethics and consent requirements for internet research studies and the specific challenges associated with this type of research. This covers both life and social sciences, and also fields in the hard sciences that are using the internet as part of their research.</p>
                             </div>
                         </div>
                     </a>
@@ -180,8 +181,8 @@
                                 <img src="assets/images/blog/236.webp" class="img-fluid" alt="" />
                             </div>
                             <div class="initiative-body">
-                                <h3 class="initiative-heading">Research Ethics Module 1: Ethics Approval</h3>
-                                <p>This module gives an overview of the ethics approval requirements for human studies in the life sciences and social sciences journals, or any journals that publish articles affecting public health or human welfare. </p>
+                                <h3 class="initiative-heading">Research Ethics Module 5: Trial Registration</h3>
+                                <p>This module presents the requirements for clinical trial registration for life sciences journals, or any journals that publish articles affecting public health or human welfare.</p>
                             </div>
                         </div>
                     </a>
@@ -205,8 +206,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Code of conduct - Journals</h4>
+                            <p>The Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This course provides you with an overview of the Code.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -224,8 +225,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Editor Resources</h4>
+                            <p>Learn more about how to handle common editorial problems and situations according to best practice with these flowcharts and template letters.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -243,8 +244,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Fundamentals of Peer Review</h4>
+                            <p>This course outlines the basics of the peer review process, including confidentiality and conflicts of interest. It explains how to identify the characteristics of a good reviewer and invite reviewers and how to assess peer review reports.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -262,8 +263,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism</h4>
+                            <p>Learn in depth about plagiarism, including the different types that exist, the practicalities of using Crossref Similarity Check, and how to assess and take action on any text overlap detected.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -281,8 +282,8 @@
                             <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>IRR service</h4>
+                            <p>Learn about the IRR (iThenticate Report & Response) service; an optional tool provided for journal editors by Springer Nature. This service analyses the Crossref Similarity Report and provides editors with a recommendation for new submissions.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>

@@ -110,7 +110,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
+                                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/27381226/data/v3" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
                                         <p>(PDF, 10.57 MB)</p>
                                     </div>
                                 </div>
@@ -136,8 +136,8 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
-                                        <p>(PDF, 10.57 MB)</p>
+                                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/27381240/data/v3" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
+                                        <p>(PDF, 1.08 MB)</p>
                                     </div>
                                 </div>
                             </div>
@@ -157,8 +157,8 @@
                                     </video>
 
                                     <div class="row mt-4">
-                                        <h4 class="textgray mb-4">Spotlight On… The Impact of the Changing Research Landscape on Our Journals</h4>
-                                        <p>In an evermore-crowded journals landscape, gaining recognition continues to be a challenge for all our editors in attracting high-quality submissions from potential authors. Ritu Dhand explores key changes in the research publishing landscape over the last decade, and new editorial strategies for how journals can successfully compete to attract high-quality research papers.</p>
+                                        <h4 class="textgray mb-4">Spotlight On... Building a Strong Editorial Board</h4>
+                                        <p>For our first Spotlight On… event of 2023, we invited Editors-in-Chief to join us for discussions on one of the greatest assets of any journal: its Editorial Board. How can you build a Board that advocates for their communities, helps authors improve their papers, and set up your journal for success?</p>
                                     </div>
 
                                     <div class="row">
@@ -168,8 +168,8 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-10">
-                                            <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
-                                            <p>(PDF, 10.57 MB)</p>
+                                            <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/27381832/data/v3" class="textblue text-deco">Spotlight On...Building a Strong Editorial Board</a></p>
+                                            <p>(PDF, 4.26 MB)</p>
                                         </div>
                                     </div>
                                 </div>
@@ -194,8 +194,8 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-10">
-                                            <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
-                                            <p>(PDF, 10.57 MB)</p>
+                                            <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/27381880/data/v3" class="textblue text-deco">Spotlight On...Engaging Your Readers and Authors</a></p>
+                                            <p>(PDF, 6.33 MB)</p>
                                         </div>
                                     </div>
                                 </div>
@@ -215,21 +215,11 @@
                                     </video>
 
                                     <div class="row mt-4">
-                                        <h4 class="textgray mb-4">Spotlight On… The Impact of the Changing Research Landscape on Our Journals</h4>
-                                        <p>In an evermore-crowded journals landscape, gaining recognition continues to be a challenge for all our editors in attracting high-quality submissions from potential authors. Ritu Dhand explores key changes in the research publishing landscape over the last decade, and new editorial strategies for how journals can successfully compete to attract high-quality research papers.</p>
+                                        <h4 class="textgray mb-4">Spotlight On... Dr. Ritu Dhand</h4>
+                                        <p>Dr Ritu Dhand, Springer Nature’s Chief Scientific Officer, talks about talks about her life as a researcher, how she got into scientific publishing, what scientific discoveries makes her go ‘wow’, and provides an update on some of the exciting things that are going on at Springer Nature at the moment.</p>
                                     </div>
 
-                                    <div class="row">
-                                        <div class="col-lg-2">
-                                            <div class="icon">
-                                                <i class="fa-solid fa-download"></i>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-10">
-                                            <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
-                                            <p>(PDF, 10.57 MB)</p>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                                 <div class="col-lg-6">
                                     <video
@@ -242,20 +232,10 @@
                                         <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
                                     </video>
                                     <div class="row mt-4">
-                                        <h4 class="textgray mb-4">Spotlight On… Springer Nature’s Research Communities: Connecting the Stories Behind the Research</h4>
-                                        <p>Our 42 Research Communities encompass the natural, applied and humanitarian disciplines, and boast a membership of over 42,000 researchers and science-interested readers. Learn how these platforms will provide our Editors and Authors alike with greater opportunities to connect and collaborate.</p>
+                                        <h4 class="textgray mb-4">Spotlight On... Content that may be harmful to human population groups</h4>
+                                        <p>In the second episode of Spotlight On, Stavroula Kousta, Chief Editor of Nature Human Behaviour, discusses new editorial guidance on content that may be harmful to human population groups.</p>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-lg-2">
-                                            <div class="icon">
-                                                <i class="fa-solid fa-download"></i>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-10">
-                                            <p class="mb-0"><a href="#" class="textblue text-deco">Spotlight On...The Impact of the Changing Research Landscape on Our Journals</a></p>
-                                            <p>(PDF, 10.57 MB)</p>
-                                        </div>
-                                    </div>
+                                   
                                 </div>
                             </div>
                     </div>
@@ -273,7 +253,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="blog-wrapper gray-section">
-                        <a href="transfer-desk-for-editors.php">
+                        <a href="#">
                             <div class="blog-column">
                                 <div class="blog-header">
                                     <img src="assets/images/blog/228.webp" class="img-fluid" alt="">
@@ -292,7 +272,7 @@
             </div>
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="blog-wrapper gray-section">
-                        <a href="transfer-desk-for-editors.php">
+                        <a href="#">
                             <div class="blog-column">
                                 <div class="blog-header">
                                     <img src="assets/images/blog/229.webp" class="img-fluid" alt="">

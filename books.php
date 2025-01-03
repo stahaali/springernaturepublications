@@ -113,9 +113,9 @@
 
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.nature.com/nature?__hstc=99596993.ca2e1e64214cfba8e6c72ab3267eb986.1733136116022.1735752895745.1735815252397.56&amp;__hssc=99596993.7.1735815252397&amp;__hsfp=706028811">
+                                <a href="#">
                                     <div class="booksreview-column">
-                                        <img src="assets/images/blog/242.webp" class="img-fluid" alt="">
+                                        <img src="assets/images/blog/291.webp" class="img-fluid" alt="">
                                     </div>
                                 </a>
                                 <div class="right-icon">
@@ -125,9 +125,9 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.nature.com/nature?__hstc=99596993.ca2e1e64214cfba8e6c72ab3267eb986.1733136116022.1735752895745.1735815252397.56&amp;__hssc=99596993.7.1735815252397&amp;__hsfp=706028811">
+                                <a href="#">
                                     <div class="booksreview-column">
-                                        <img src="assets/images/blog/242.webp" class="img-fluid" alt="">
+                                        <img src="assets/images/blog/292.webp" class="img-fluid" alt="">
                                     </div>
                                 </a>
                                 <div class="right-icon">
@@ -137,15 +137,321 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.nature.com/nature?__hstc=99596993.ca2e1e64214cfba8e6c72ab3267eb986.1733136116022.1735752895745.1735815252397.56&amp;__hssc=99596993.7.1735815252397&amp;__hsfp=706028811">
+                                <a href="#">
                                     <div class="booksreview-column">
-                                        <img src="assets/images/blog/242.webp" class="img-fluid" alt="">
+                                        <img src="assets/images/blog/293.webp" class="img-fluid" alt="">
                                     </div>
                                 </a>
                                 <div class="right-icon">
                                     <i class="fa-solid fa-angle-right"></i>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <h3 class="subheading border-white">Stay informed</h3>
+                <p class="textinfo mt-4">Never miss an eBooks update again. Our eBooks-dedicated communications bring together the latest knowledge from Springer Nature and other community experts to provide valuable insights to those who work within a research environment. Great for librarians, research managers, and R&D professionals.</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-9 col-md-9 col-12">
+                    <div class="form2">
+                        <form>
+                            <div class="form-group">
+                                <label>Email</label>
+                                <input type="text" class="form-control" placeholder="Please provide your business email address" required/>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <label>Country</label>
+                                            <select class="form-control" required>
+                                                <option disabled value>Please Select</option>
+                                                <option>Afghanistan</option>
+                                                <option>Aland Islands</option>
+                                                <option>Albania</option>
+                                                <option>Algeria</option>
+                                                <option>Andorra</option>
+                                                <option>Angola</option>
+                                                <option>Anguilla</option>
+                                                <option>Antarctica</option>
+                                                <option>Antigua and Barbuda</option>
+                                                <option>Argentina</option>
+                                                <option>Armenia</option>
+                                                <option>Aruba</option>
+                                                <option>Australia</option>
+                                                <option>Austria</option>
+                                                <option>Azerbaijan</option>
+                                                <option>Bahamas</option>
+                                                <option>Bahrain</option>
+                                                <option>Bangladesh</option>
+                                                <option>Barbados</option>
+                                                <option>Belarus</option>
+                                                <option>Belgium</option>
+                                                <option>Belize</option>
+                                                <option>Benin</option>
+                                                <option>Bermuda</option>
+                                                <option>Bhutan</option>
+                                                <option>Bolivia</option>
+                                                <option>Bonaire Sint Eustatius and Saba</option>
+                                                <option>Bosnia and Herzegovina</option>
+                                                <option>Botswana</option>
+                                                <option>Bouvet Island</option>
+                                                <option>Brazil</option>
+                                                <option>British Indian Ocean Territory</option>
+                                                <option>Brunei Darussalam</option>
+                                                <option>Bulgaria</option>
+                                                <option>Burkina Faso</option>
+                                                <option>Burundi</option>
+                                                <option>Cambodia</option>
+                                                <option>Cameroon</option>
+                                                <option>Canada</option>
+                                                <option>Cape Verde</option>
+                                                <option>Cayman Islands</option>
+                                                <option>Central African Republic</option>
+                                                <option>Chad</option>
+                                                <option>Chile</option>
+                                                <option>China</option>
+                                                <option>Christmas Island</option>
+                                                <option>Cocos (Keeling) Islands</option>
+                                                <option>Colombia</option>
+                                                <option>Comoros</option>
+                                                <option>Congo</option>
+                                                <option>The Democratic Republic of the Congo</option>
+                                                <option>Cook Islands</option>
+                                                <option>Costa Rica</option>
+                                                <option>Cote d’Ivoire</option>
+                                                <option>Croatia</option>
+                                                <option>Cuba</option>
+                                                <option>Curaçao</option>
+                                                <option>Cyprus</option>
+                                                <option>Czech Republic</option>
+                                                <option>Denmark</option>
+                                                <option>Djibouti</option>
+                                                <option>Dominica</option>
+                                                <option>Dominican Republic</option>
+                                                <option>Ecuador</option>
+                                                <option>Egypt</option>
+                                                <option>El Salvador</option>
+                                                <option>Equatorial Guinea</option>
+                                                <option>Eritrea</option>
+                                                <option>Estonia</option>
+                                                <option>Ethiopia</option>
+                                                <option>Falkland Islands (Malvinas)</option>
+                                                <option>Faroe Islands</option>
+                                                <option>Fiji</option>
+                                                <option>Finland</option>
+                                                <option>France</option>
+                                                <option>French Guiana</option>
+                                                <option>French Polynesia</option>
+                                                <option>French Southern Territories</option>
+                                                <option>Gabon</option>
+                                                <option>Gambia</option>
+                                                <option>Georgia</option>
+                                                <option>Germany</option>
+                                                <option>Ghana</option>
+                                                <option>Gibraltar</option>
+                                                <option>Greece</option>
+                                                <option>Greenland</option>
+                                                <option>Grenada</option>
+                                                <option>Guadeloupe</option>
+                                                <option>Guatemala</option>
+                                                <option>Guernsey</option>
+                                                <option>Guinea</option>
+                                                <option>Guinea-Bissau</option>
+                                                <option>Guyana</option>
+                                                <option>Haiti</option>
+                                                <option>Heard Island and McDonald Islands</option>
+                                                <option>Holy See (Vatican City State)</option>
+                                                <option>Honduras</option>
+                                                <option>Hungary</option>
+                                                <option>Iceland</option>
+                                                <option>India</option>
+                                                <option>Indonesia</option>
+                                                <option>Iran</option>
+                                                <option>Iraq</option>
+                                                <option>Ireland</option>
+                                                <option>Isle of Man</option>
+                                                <option>Israel</option>
+                                                <option>Italy</option>
+                                                <option>Jamaica</option>
+                                                <option>Japan</option>
+                                                <option>Jersey</option>
+                                                <option>Jordan</option>
+                                                <option>Kazakhstan</option>
+                                                <option>Kenya</option>
+                                                <option>Kiribati</option>
+                                                <option>Democratic People’s Republic of Korea</option>
+                                                <option>Republic of Korea</option>
+                                                <option>Kuwait</option>
+                                                <option>Kyrgyzstan</option>
+                                                <option>Lao People’s Democratic Republic</option>
+                                                <option>Latvia</option>
+                                                <option>Lebanon</option>
+                                                <option>Lesotho</option>
+                                                <option>Liberia</option>
+                                                <option>Libya</option>
+                                                <option>Liechtenstein</option>
+                                                <option>Lithuania</option>
+                                                <option>Luxembourg</option>
+                                                <option>Macao</option>
+                                                <option>Macedonia</option>
+                                                <option>Madagascar</option>
+                                                <option>Malawi</option>
+                                                <option>Malaysia</option>
+                                                <option>Maldives</option>
+                                                <option>Mali</option>
+                                                <option>Malta</option>
+                                                <option>Martinique</option>
+                                                <option>Mauritania</option>
+                                                <option>Mauritius</option>
+                                                <option>Mayotte</option>
+                                                <option>Mexico</option>
+                                                <option>Moldova</option>
+                                                <option>Monaco</option>
+                                                <option>Mongolia</option>
+                                                <option>Montenegro</option>
+                                                <option>Montserrat</option>
+                                                <option>Morocco</option>
+                                                <option>Mozambique</option>
+                                                <option>Myanmar</option>
+                                                <option>Namibia</option>
+                                                <option>Nauru</option>
+                                                <option>Nepal</option>
+                                                <option>Netherlands</option>
+                                                <option>New Caledonia</option>
+                                                <option>New Zealand</option>
+                                                <option>Nicaragua</option>
+                                                <option>Niger</option>
+                                                <option>Nigeria</option>
+                                                <option>Niue</option>
+                                                <option>Norfolk Island</option>
+                                                <option>Norway</option>
+                                                <option>Oman</option>
+                                                <option>Pakistan</option>
+                                                <option>Palestine</option>
+                                                <option>Panama</option>
+                                                <option>Papua New Guinea</option>
+                                                <option>Paraguay</option>
+                                                <option>Peru</option>
+                                                <option>Philippines</option>
+                                                <option>Pitcairn</option>
+                                                <option>Poland</option>
+                                                <option>Portugal</option>
+                                                <option>Qatar</option>
+                                                <option>Reunion</option>
+                                                <option>Romania</option>
+                                                <option>Russian Federation</option>
+                                                <option>Rwanda</option>
+                                                <option>Saint Barthélemy</option>
+                                                <option>Saint Helena (Ascension and Tristan da Cunha)</option>
+                                                <option>Saint Kitts and Nevis</option>
+                                                <option>Saint Lucia</option>
+                                                <option>Saint Martin (French part)</option>
+                                                <option>Saint Pierre and Miquelon</option>
+                                                <option>Saint Vincent and the Grenadines</option>
+                                                <option>Samoa</option>
+                                                <option>San Marino</option>
+                                                <option>Sao Tome and Principe</option>
+                                                <option>Saudi Arabia</option>
+                                                <option>Senegal</option>
+                                                <option>Serbia</option>
+                                                <option>Seychelles</option>
+                                                <option>Sierra Leone</option>
+                                                <option>Singapore</option>
+                                                <option>Sint Maarten (Dutch part)</option>
+                                                <option>Slovakia</option>
+                                                <option>Slovenia</option>
+                                                <option>Solomon Islands</option>
+                                                <option>Somalia</option>
+                                                <option>South Africa</option>
+                                                <option>South Georgia and the South Sandwich Islands</option>
+                                                <option>South Sudan</option>
+                                                <option>Spain</option>
+                                                <option>Sri Lanka</option>
+                                                <option>Sudan</option>
+                                                <option>Suriname</option>
+                                                <option>Svalbard and Jan Mayen</option>
+                                                <option>Swaziland</option>
+                                                <option>Sweden</option>
+                                                <option>Switzerland</option>
+                                                <option>Syrian Arab Republic</option>
+                                                <option>Taiwan</option>
+                                                <option>Tajikistan</option>
+                                                <option>Tanzania</option>
+                                                <option>Thailand</option>
+                                                <option>Timor-Leste</option>
+                                                <option>Togo</option>
+                                                <option>Tokelau</option>
+                                                <option>Tonga</option>
+                                                <option>Trinidad and Tobago</option>
+                                                <option>Tunisia</option>
+                                                <option>Turkey</option>
+                                                <option>Turkmenistan</option>
+                                                <option>Turks and Caicos Islands</option>
+                                                <option>Tuvalu</option>
+                                                <option>Uganda</option>
+                                                <option>Ukraine</option>
+                                                <option>United Arab Emirates</option>
+                                                <option>United Kingdom</option>
+                                                <option>United States</option>
+                                                <option>Uruguay</option>
+                                                <option>Uzbekistan</option>
+                                                <option>Vanuatu</option>
+                                                <option>Venezuela</option>
+                                                <option>Vietnam</option>
+                                                <option>Virgin Islands (British)</option>
+                                                <option>Wallis and Futuna</option>
+                                                <option>Western Sahara</option>
+                                                <option>Yemen</option>
+                                                <option>Zambia</option>
+                                                <option>Zimbabwe</option>
+                                                <option>Puerto Rico</option>
+                                                <option>Hong Kong</option>
+                                                <option>American Samoa</option>
+                                                <option>Guam</option>
+                                                <option>Virgin Islands</option>
+                                                <option>US Minor Outlying Islands</option>
+                                                <option>Netherlands Antilles</option>
+                                                <option>Federated States of Micronesia</option>
+                                                <option>Palau</option>
+                                                <option>Marshall Islands</option>
+                                                <option>Northern Mariana Islands</option>
+                                </select>
+                                            <i class="fa-solid fa-angle-down"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <label>Organisation type</label>
+                                            <select class="form-control" required>
+                                                <option disabled value>Please Select</option>
+                                                <option>Corporate</option>
+                                                <option>Academic</option>
+                                                <option>Government</option>
+                                            </select>
+                                            <i class="fa-solid fa-angle-down"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group mt-4">
+                                <p>We would like to contact you occasionally via email with marketing information related to Springer Nature products and services. Another way of using your email address includes digital advertising through third-party advertising platforms as detailed in our privacy policy. You can at any time unsubscribe via the link at the bottom of emails you receive, by contacting customer services, or directly via the third-party platform.</p>
+                            </div>
+                            <button type="submit" class="submit2">submit</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-12">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-12">
+                            <img src="assets/images/blog/294.webp" class="img-fluid" alt=""/>
+                        </div>
+                        <div class="col-lg-9 col-md-9 col-12">
+                            <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/10588076/data/v25" class="textblue text-deco">Find out more - Download the eBooks brochure</a></p>
+                            <p>(PDF, 2.51 MB)</p>
                         </div>
                     </div>
                 </div>
@@ -222,7 +528,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783658122317?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/265.webp" class="img-fluid" alt="">
                                     </div>
@@ -234,7 +540,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783658122317?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/266.webp" class="img-fluid" alt="">
                                     </div>
@@ -246,7 +552,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783319051543?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/267.webp" class="img-fluid" alt="">
                                     </div>
@@ -258,7 +564,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783642331428?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/268.webp" class="img-fluid" alt="">
                                     </div>
@@ -270,7 +576,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783662498514?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/269.webp" class="img-fluid" alt="">
                                     </div>
@@ -282,7 +588,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="booksreview-wrapper">
-                                <a href="http://www.springer.com/gp/book/9783319207049?countryChanged=true">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/270.webp" class="img-fluid" alt="">
                                     </div>
@@ -354,7 +660,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484218112">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/259.webp" class="img-fluid" alt="">
                                     </div>
@@ -366,7 +672,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484222324">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/260.webp" class="img-fluid" alt="">
                                     </div>
@@ -378,7 +684,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484213292">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/261.webp" class="img-fluid" alt="">
                                     </div>
@@ -390,7 +696,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484203972">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/262.webp" class="img-fluid" alt="">
                                     </div>
@@ -402,7 +708,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484213322">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/263.webp" class="img-fluid" alt="">
                                     </div>
@@ -414,7 +720,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 m20">
                             <div class="scholarlysale-wrapper">
-                                <a href="http://www.apress.com/gp/book/9781484223062">
+                                <a href="#">
                                     <div class="booksreview-column">
                                         <img src="assets/images/blog/264.webp" class="img-fluid" alt="">
                                     </div>
@@ -597,7 +903,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="booksreview-wrapper">
-                                <a href="http://link.springer.com/book/10.1007/978-3-662-04156-7">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/24.webp" class="img-fluid" alt="">
                                     </div>
@@ -609,7 +915,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="booksreview-wrapper">
-                                <a href="http://rd.springer.com/book/10.1007/978-3-662-01141-6">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/251.webp" class="img-fluid" alt="">
                                     </div>
@@ -621,7 +927,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="booksreview-wrapper">
-                                <a href="http://link.springer.com/book/10.1007/978-94-011-6022-3">
+                                <a href="#">
                                     <div class="booksreview-column gray-section">
                                         <img src="assets/images/blog/252.webp" class="img-fluid" alt="">
                                     </div>

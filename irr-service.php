@@ -49,7 +49,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 col-12">
-                <p class="textinfo">The Springer Nature Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This free course provides you with an overview of the Code.</p>
+                <p class="textinfo">The IRR (iThenticate Report & Response) service is an optional service offered by Springer Nature to journals which use the Editorial Manager system. It assesses submissions for possible problematic textual overlap and provides recommendations to editors about the best course of action. This single-module course provides an overview of the service.</p>
 
                 <div class="row mt-4">
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
@@ -62,7 +62,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <img src="assets/images/blog/186.webp" class="img-fluid" alt="">
-                        <p>45 minutes</p>
+                        <p>20 minutes</p>
                     </div>
                 </div>
             </div>
@@ -89,19 +89,19 @@
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">About this course</h3>
-                    <p class="textgray2">Are you unsure about the Journal Editors' Code of Conduct? Dislike reading lengthy documents, but keen to learn about the key concepts in an informative and engaging manner? This course is designed and written for Editors-in-Chief, to help you understand the basic principles of the Journal Editors' Code of Conduct, and also to test your understanding of some tricky scenarios you may face in the course of your editorship.</p>
+                    <p class="textgray2">No editor wishes to damage their journal by publishing content that overlaps with another source. To help editors avoid this, Springer Nature offers checks on new submissions via the Crossref Similarity Check (powered by iThenticate). On some journals, Springer Nature also offers an optional extra facility, the IRR service, which helps editors by analysing the Similarity Report and making a recommendation as to how the editor should proceed with a submission. This course explains the service in detail in order to help editors make best use of the report and recommendations, and thus make handling submissions easier.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">Who should take this course?</h3>
-                    <p class="textgray2">This course has been written with Editors-in-Chief in mind, and all Editors-in-Chief should take this course to ensure they are familiar and comfortable with the Journal Editors' Code of Conduct. However, it may also be useful for any Editor who handles manuscripts for a journal and thus all Editors are welcome to take this course. You can take this course in one go or at your own pace, as it is fine to leave and return to it at another time.</p>
+                    <p class="textgray2">This module is written for Editors whose journals already use the IRR service, who want to either understand the service better or get the most from it. It may also be useful for those who are considering using the service and want to understand what it offers and how it works. You can take this module at your own pace, and you can leave and return to it at another time.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-d-4 col-12">
                 <div class="column border-radius bg-white">
                     <h3 class="textgray">What will I learn in this course?</h3>
-                    <p class="textgray2">You will be taken through the fundamental concepts of the Journal Editors' Code of Conduct to ensure you understand the basic principles of editorial policies, manuscript handling (including peer review and decision making), conflicts of interest, libellous and defamatory material, field-specific policies and post publication issues. You will be presented with interactive questions and exercises to challenge yourself on how to navigate difficult situations.</p>
+                    <p class="textgray2">This module covers what the IRR service is and how to apply, what is checked and when, where the report is provided within the Editorial Manager system and what it looks like, examples of what the Crossref Similarity Report may look like with corresponding recommendations, the limitations of the service and what the Editor should do with any recommendation as well as FAQs about the service.</p>
                 </div>
             </div>
         </div>
@@ -119,11 +119,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/5.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Code of conduct - Journals</h4>
+                            <p>The Journal Editors' Code of Conduct sets out the standards and expectations associated with the role of Editor-in-Chief. This course provides you with an overview of the Code.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -138,11 +138,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/8.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Editor Resources</h4>
+                            <p>Learn more about how to handle common editorial problems and situations according to best practice with these flowcharts and template letters.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -157,11 +157,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/6.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Fundamentals of Peer Review</h4>
+                            <p>This course outlines the basics of the peer review process, including confidentiality and conflicts of interest. It explains how to identify the characteristics of a good reviewer and invite reviewers and how to assess peer review reports.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -176,11 +176,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column ">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/7.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Research Ethics</h4>
+                            <p>Learn about different aspects of research ethics for editors, such as ethics approval requirements, informed consent to participate in research, ethics requirements for animal studies and requirements for clinical trial registration.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>
@@ -195,11 +195,11 @@
                     <a href="information-guide.php">
                         <div class="editors-column">
                         <div class="editors-header"> 
-                            <img src="assets/images/editors/1.webp" class="img-fluid" alt="">
+                            <img src="assets/images/editors/9.webp" class="img-fluid" alt="">
                         </div>
                         <div class="editors-body">
-                            <h4>Editing a journal</h4>
-                            <p>This guide for Journal Editors provides an overview of the role of Editor-in-Chief, advice on setting up and maintaining an Editorial Board, how to launch and manage a journal as well as develop an existing journal to achieve its full potential.</p>
+                            <h4>Plagiarism</h4>
+                            <p>Learn in depth about plagiarism, including the different types that exist, the practicalities of using Crossref Similarity Check, and how to assess and take action on any text overlap detected.</p>
 
                             <div class="right-icon">
                                 <i class="fa-solid fa-angle-right"></i>

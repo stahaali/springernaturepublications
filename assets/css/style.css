@@ -37,6 +37,68 @@ section
     padding-top:100px;
 }
 
+.form2 input
+{
+    font-family: 'DaytonaPro-Regular';
+    background:#f5f8fa;
+    margin-bottom:10px;
+    border:1px solid #cbd6e2;
+}
+.form2 select
+{
+    font-family: 'DaytonaPro-Regular';
+    margin-bottom:10px;
+    border:1px solid #cbd6e2;
+    border:1px solid #cbd6e2;
+}
+.form2 input::placeholder
+{
+    font-family: 'DaytonaPro-Regular';
+}
+.form2 input:focus
+{
+    outline:0px;
+    box-shadow:none;
+    background:#f5f8fa;
+    border:1px solid #cbd6e2;
+}
+.form2 select:focus
+{
+    outline:0px;
+    box-shadow:none;
+    background:#f5f8fa;
+    border:1px solid #cbd6e2;
+}
+.submit2
+{
+    font-family: 'DaytonaPro-Regular';
+    text-transform:capitalize;
+    background:#0088cc;
+    border-radius:6px;
+    border:0px;
+    color:#fff;
+    padding:6px 15px;
+}
+.form2 label
+{
+    font-family: 'DaytonaPro-Regular';
+    margin-bottom:10px;
+    font-weight:600;
+    font-size:14px;
+}
+.form2 .form-group
+{
+    position:relative;    
+}
+.form2 form i 
+{
+    position: absolute;
+    top: 61%;
+    right: 11px !important;
+    pointer-events: none;
+}
+
+
 /*menu*/
 
 a.logo img
@@ -2856,6 +2918,10 @@ section.advanceresearch-section .subheading
 {
     padding: 20px 24px;
 }
+.advancingblog-body h4
+{
+    font-size:20px;
+}
 .advancingblog-header1
 {
     background:#00b8b0;
@@ -2951,7 +3017,7 @@ section.keybrands-section .m20
     padding:15px 0 5px;
     display: flex;
     flex-direction: column;
-    height:100%;
+    height:100px;
 }
 .keybrands-header img
 {
@@ -2962,6 +3028,7 @@ section.keybrands-section .m20
 .keybrands-body
 {
     padding: 15px 22px 61px;
+   
 }
 
 /*bg-section1*/
@@ -3167,7 +3234,7 @@ section.commonbanner6
 {
     position: relative;
     height: 422px;
-    background:url('../images/banner/14.webp') no-repeat;
+    background:url('../images/banner/8.webp') no-repeat;
     background-size: cover;
 }
 
@@ -4294,11 +4361,11 @@ section.termconditions-section
 {
     position: relative;
 }
-.form-group
+.form .form-group
 {
     position: relative;
 }
-.form-group i
+.form .form-group i
 {
     position: absolute;
     left: 9px;
@@ -4307,7 +4374,7 @@ section.termconditions-section
     color:#013c5b;
     font-size: 14px;
 }
-.form-group i.micon
+.form .form-group i.micon
 {
     top: 5px;
 }
@@ -5785,6 +5852,20 @@ section.commonbanner.commonbanner57
     position: relative;
     height: 422px;
     background:url('../images/banner/71.webp') no-repeat;
+    background-size: cover;
+}
+section.commonbanner57 .absolute-center
+{
+    top:76%;
+}
+
+/*commonbanner58*/
+
+section.commonbanner.commonbanner57
+{
+    position: relative;
+    height: 422px;
+    background:url('../images/banner/72.webp') no-repeat;
     background-size: cover;
 }
 section.commonbanner57 .absolute-center

@@ -5,6 +5,7 @@
     .column-wrapper
     {
         background:url('assets/images/blog/182.webp');
+        background-size:cover;
     }
     .column-wrapper .right-icon i
     {
@@ -38,8 +39,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12">
                     <div class="banner-content">
-                        <h1>Editors</h1>
-                        <p>Resources for editors</p>
+                        <h1>Book Volume Editors' Code of Conduct</h1>
                     </div>
                 </div>
             </div>
@@ -255,8 +255,8 @@
                         </div>
                     </div>
                     <div class="col-lg-10">
-                        <p class="mb-0"><a href="#" class="textblue text-deco">Springer Nature Code of Conduct for Journals - German</a></p>
-                        <p>(PDF, 1.30 MB)</p>
+                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19639344/data/v4" class="textblue text-deco">Springer Nature Code of Conduct for Book Volume Editors - German</a></p>
+                        <p>(PDF, 1.25 MB)</p>
                     </div>
                 </div>
             </div>
