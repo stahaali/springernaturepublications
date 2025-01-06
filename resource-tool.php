@@ -37,6 +37,31 @@
     </div>
 </section>
 
+    
+<section class="white-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-12">
+                <p class="textinfo">We strive to support our editors with the tools and services they need for success. We want to make the role easier and more enjoyable so editors can focus on publishing the best research.</p>
+                <p>Our editors are the research community's champions. We supply ideas and guidance with practical advice from our Springer Nature editorial guides, editor case studies, and brand-specific information. We make sharing your journal's research easy and finding the right peer reviewers less of a burden. Let us help you do your best work as an editor.</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-12">
+                <video
+                    id="my-video"
+                    class="video-js"
+                    controls
+                    preload="auto"
+                    poster="assets/images/videos/10.webp"
+                    data-setup="{}">
+                    <source src="assets/videos/10.mp4" type="video/mp4" />
+                </video>
+                
+                <h4 class="textgray mt-4">Services for Editors</h4>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="gray-section blog-section">
         <div class="container">
             <div class="row justify-content-between mb-4">
@@ -45,7 +70,7 @@
                 </div>
             </div>
             <div class="row">
-               <div class="col-lg-4 col-md-6 col-12 m20">
+               <div class="col-lg-4 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
                     <a href="dei-for-editors.php">
                         <div class="blog-column">
@@ -63,7 +88,7 @@
                         </div>
                 </div>
                </div>
-               <div class="col-lg-4 col-md-6 col-12 m20">
+               <div class="col-lg-4 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
                     <a href="reviewerfinder.php">
                         <div class="blog-column">
@@ -81,7 +106,7 @@
                         </div>
                 </div>
                </div>
-               <div class="col-lg-4 col-md-6 col-12 m20">
+               <div class="col-lg-4 col-md-6 col-12 mb-20">
                     <div class="blog-wrapper">
                         <a href="transfer-desk-for-editors.php">
                             <div class="blog-column">
@@ -101,9 +126,9 @@
                </div>
             </div>
             <div class="row mt-2">
-               <div class="col-lg-6 col-md-6 col-12 m20">
+               <div class="col-lg-6 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
-                    <a href="transfer-desk-for-editors.php">
+                    <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/170.webp" class="img-fluid" alt="">
@@ -119,9 +144,9 @@
                         </div>
                 </div>
                </div>
-               <div class="col-lg-6 col-md-6 col-12 m20">
+               <div class="col-lg-6 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
-                    <a href="researcher-guide-to-open-access-agreements.php">
+                    <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/18.webp" class="img-fluid" alt="">
@@ -157,7 +182,7 @@
                 <h3 class="subheading">Guides to help your journal succeed</h3>
             </div>
             <div class="row mt-4">
-                <div class="col-lg-4 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 mb-20">
                     <div class="blue-wrapper border-radius">
                         <a href="#">
                             <div class="blue-column">
@@ -175,7 +200,7 @@
                             </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 mb-20">
                         <div class="blue-wrapper border-radius">
                             <a href="#">
                                 <div class="blue-column">
@@ -193,7 +218,7 @@
                                 </div>
                         </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-12 m20">
+                <div class="col-lg-4 col-md-6 col-12 mb-20">
                     <div class="blue-wrapper border-radius">
                         <a href="#">
                             <div class="blue-column">
@@ -213,46 +238,46 @@
                 </div>
             </div>
             <div class="row mt-4">
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - editorial board</a></p>
+                            <p class="m-0"><a href="assets/pdf-link/7.pdf" class="textblue text-deco">Enhancing journal performance - editorial board</a></p>
                             <p>(PDF, 181.87 KB)</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - attract submissions</a></p>
+                            <p class="m-0"><a href="assets/pdf-link/8.pdf" class="textblue text-deco">Enhancing journal performance - attract submissions</a></p>
                             <p>(PDF, 180.21 KB)</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p><a href="#" class="textblue text-deco">Enhancing journal performance - readers and authors</a></p>
+                            <p><a href="assets/pdf-link/9.pdf" class="textblue text-deco">Enhancing journal performance - readers and authors</a></p>
                             <p>(PDF, 178.78 KB)</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-12 m20">
+                <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
                             <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-lg-9">
-                            <p class="m-0"><a href="#" class="textblue text-deco">Enhancing journal performance - analyses for journal development</a></p>
+                            <p class="m-0"><a href="assets/pdf-link/10.pdf" class="textblue text-deco">Enhancing journal performance - analyses for journal development</a></p>
                             <p>(PDF, 178.98 KB)</p>
                         </div>
                     </div>
@@ -292,14 +317,14 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-lg-12 col-md-12 col-12">
-                <h3 class="subheading">Exceptional editor case studies</h3>
+                <h3 class="subheading border-white">Exceptional editor case studies</h3>
                 <p>These real-life stories from editors will inspire new ways to advance your publications./p>
             </div>
         </div>
         <div class="row mt-4">
-            <div class="col-lg-4 col-md-6 col-12 m20">
+            <div class="col-lg-4 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
-                    <a href="unlocking-potential-ai-and-tech-in-research-and-science.php">
+                    <a href="#">
                             <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/171.webp" class="img-fluid" alt="">
@@ -311,7 +336,7 @@
                             </div>
                             <div class="blog-footer">
                                 <div class="blog-icon">
-                                    <h3>r</h3>
+                                    <h3>t</h3>
                                 </div>
                                 <div class="blog-text">
                                     <p>the source</p>
@@ -322,20 +347,21 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12 m20">
+            <div class="col-lg-4 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
-                    <a href="leveraging-the-ocean-of-opportunities-to-drive-value.php">
+                    <a href="#">
                     <div class="blog-column">
                         <div class="blog-header">
                             <img src="assets/images/blog/172.webp" class="img-fluid" alt="">
                         </div>
                         <div class="blog-body">
+                            <p>editors</p>
                             <h3 class="blog-heading">Editorial excellence: recognizing and nurturing good editors </h3>
                             <p>How is Editorial Excellence recognized, what makes a good journal editor, and how excellence can be nurtured.</p>
                         </div>
                         <div class="blog-footer">
                             <div class="blog-icon">
-                                <h3>r</h3>
+                                <h3>t</h3>
                             </div>
                             <div class="blog-text">
                                 <p>The Source</p>
@@ -346,24 +372,25 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12 m20">
+            <div class="col-lg-4 col-md-6 col-12 mb-20">
                 <div class="blog-wrapper">
-                    <a href="investing-in-a-gender-equal-research-future.php">
+                    <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
                                 <img src="assets/images/blog/173.webp" class="img-fluid" alt="">
                             </div>
                             <div class="blog-body">
+                                <p>SN SDG Programme</p>
                                 <h3 class="blog-heading">How to get more UN SDG research into your journal: Strategies for Global Impact</h3>
                                 <p>Your journal could publish more UN SDG-related research. Here are some tips how to do that.</p>
                             </div>
                             <div class="blog-footer">
                                 <div class="blog-icon">
-                                    <h3>r</h3>
+                                    <h3>t</h3>
                                 </div>
                                 <div class="blog-text">
                                     <p>The Source</p>
-                                    <h5>13 Jul 2023</h5>
+                                    <h5> 04 Jul 2023</h5>
                                 </div>
                             </div>
                         </div>
@@ -377,22 +404,9 @@
 <section class="white-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9 col-md-9 col-12">
-                <h3 class="subheading mb-4">Welcome Guides</h3>
-                <h4 class="textblue5 mb-4">Beginning your Springer Nature journey</h4>
-                <p>Explore our comprehensive Welcome Guide, designed to support growth and success of new editors as they develop within their role. This guide includes a checklist of starting points, links to invaluable resources, and a detailed overview of the editorial process. We encourage all new editors to review this guide prior to handling their first manuscript. Please select the appropriate guide based on the submission system that your journal uses.</p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-12">
-                    <video
-                        id="my-video"
-                        class="video-js"
-                        controls
-                        preload="auto"
-                        poster="assets/images/review/2.webp"
-                        data-setup="{}">
-                        <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
-                    </video>
-            </div>
+            <h3 class="subheading mb-4">Welcome Guides</h3>
+            <h4 class="textblue5 mb-4">Beginning your Springer Nature journey</h4>
+            <p>Explore our comprehensive Welcome Guide, designed to support growth and success of new editors as they develop within their role. This guide includes a checklist of starting points, links to invaluable resources, and a detailed overview of the editorial process. We encourage all new editors to review this guide prior to handling their first manuscript. Please select the appropriate guide based on the submission system that your journal uses.</p>
         </div>
         <div class="row mt-4">
             <div class="col-lg-6">
@@ -401,7 +415,7 @@
                         <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="">
                     </div>
                     <div class="col-lg-9 p-0">
-                        <p class="m-0"><a href="#" class="textblue text-deco">Welcome Guide (Snapp Version)</a></p>                
+                        <p class="m-0"><a href="assets/pdf-link/11.pdf" class="textblue text-deco">Welcome Guide (Snapp Version)</a></p>                
                         <p class="m-0">(PDF, 465.96 KB)</p>
                     </div>
                 </div>
@@ -412,8 +426,8 @@
                         <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="">
                     </div>
                     <div class="col-lg-9 p-0">
-                        <p class="m-0"><a href="#" class="textblue text-deco">Welcome Guide (Snapp Version)</a></p>                
-                        <p class="m-0">(PDF, 465.96 KB)</p>
+                        <p class="m-0"><a href="assets/pdf-link/12.pdf" class="textblue text-deco">Welcome Guide (Editorial Manager Version)</a></p>                
+                        <p class="m-0">(PDF, 467.51 KB)</p>
                     </div>
                 </div>
             </div>
@@ -429,7 +443,7 @@
                 </div>
             </div>
             <div class="row justify-content-between gx-2">
-                <div class="col-lg-2 col-md-3 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 mb-20">
                     <div class="sc-links">
                         <a href="#">
                             <div class="socialbg-icon">
@@ -443,7 +457,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 mb-20">
                     <div class="sc-links">
                         <a href="#">
                             <div class="socialbg-icon">
@@ -457,7 +471,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 mb-20">
                     <div class="sc-links">
                         <a href="#">
                             <div class="socialbg-icon">
@@ -471,7 +485,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 mb-20">
                     <div class="sc-links">
                         <a href="#">
                             <div class="socialbg-icon">
@@ -485,7 +499,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 mb-20">
                     <div class="sc-links">
                         <a href="#">
                             <div class="socialbg-icon">
