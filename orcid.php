@@ -56,9 +56,9 @@
                         class="video-js video-js2"
                         controls
                         preload="auto"
-                        poster="assets/images/review/2.webp"
+                        poster="assets/images/videos/8.webp"
                         data-setup="{}">
-                        <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                        <source src="assets/videos/8.mp4" type="video/mp4" />
                     </video>
 
                     <h4 class="sm-font1 textgray mt-4 mb-5">What an ORCID iD can be used for?</h4>
@@ -68,7 +68,7 @@
                             <img src="assets/images/blog/87.webp" class="img-fluid" alt="">
                         </div>
                         <div class="col-9 my-auto">
-                            <a href="#" class="textblue text-deco">Download the poster: 10 good reasons to get an ORCID iD</a>
+                            <a href="assets/pdf-link/6.pdf" class="textblue text-deco">Download the poster: 10 good reasons to get an ORCID iD</a>
                         </div>
                     </div>
                 </div>

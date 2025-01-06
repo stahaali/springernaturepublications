@@ -86,9 +86,9 @@
             <div class="col-lg-3 col-md-3 col-12">
                     <div class="row mb-4">
                         <h3 class="subheading border-white">Latest blog posts</h3>
-                        <div class="view-search" style="justify-content: end;">
-                            <a href="#">see all <i class="fa-solid fa-angle-right"></i> </a>
-                        </div>
+                        <!--<div class="view-search" style="justify-content: end;">-->
+                        <!--    <a href="#">see all <i class="fa-solid fa-angle-right"></i> </a>-->
+                        <!--</div>-->
                     </div>
                     <div class="row mt-4">
                         <div class="partnership-wrapper border-radius mt-4">
@@ -183,9 +183,9 @@
                         class="video-js video-js2"
                         controls
                         preload="auto"
-                        poster="assets/images/review/2.webp"
+                        poster="assets/images/videos/1.webp"
                         data-setup="{}">
-                        <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                        <source src="assets/videos/6.mp4" type="video/mp4" />
                     </video>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
@@ -194,7 +194,7 @@
                         <img src="assets/images/blog/190.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-9">
-                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/10979760/data/v8" class="textinfo text-deco mb-0">Springer Nature Products, Services & Solutions</a></p>
+                        <p class="mb-0"><a href="assets/pdf-link/1.pdf" class="textinfo text-deco mb-0">Springer Nature Products, Services & Solutions</a></p>
                         <p>(PDF, 3.40 MB)</p>
                     </div>
                 </div>
@@ -203,7 +203,7 @@
                         <img src="assets/images/blog/189.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-9">
-                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/17625228/data/v3" class="textinfo text-deco">Download the infographic</a></p>
+                        <p class="mb-0"><a href="assets/pdf-link/2.pdf" class="textinfo text-deco">Download the infographic</a></p>
                         <p>(PDF, 123.60 MB)</p>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                         <img src="assets/images/blog/188.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-9">
-                        <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/19304198/data/v6" class="textinfo text-deco mb-0">Partnering with librarians to serve researcher needs</a></p>
+                        <p class="mb-0"><a href="assets/pdf-link/3.pdf" class="textinfo text-deco mb-0">Partnering with librarians to serve researcher needs</a></p>
                         <p>(PDF, 1.35 MB)</p>
                     </div>
                 </div>
