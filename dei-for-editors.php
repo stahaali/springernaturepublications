@@ -1,6 +1,15 @@
 <?php include('header.php'); ?>
 
-    <section class="commonbanner commonbanner11">
+<style>
+    .blog-icon 
+    {
+        width: 40px;
+        max-width: 40px;
+        min-width: 40px;
+    }
+</style>
+
+    <section class="commonbanner commonbanner24">
         <div class="container absolute-center">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12">
@@ -50,16 +59,164 @@
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-12">
-                    <video
-                        id="my-video"
-                        class="video-js"
-                        controls
-                        preload="auto"
-                        poster="assets/images/review/2.webp"
-                        data-setup="{}">
-                        <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
-                    </video>
+                    <a href="https://resources.springernature.com/resources-springernature-com/addressing-unconscious-bias/26494258">
+                        <img src="assets/images/blog/312.webp" class="img-fluid" alt=""/>
+                    </a>
                 </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="white-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-12">
+                    <div class="row mb-4">
+                        <h3 class="subheading mb-4">Resources and guides for inclusive publishing</h3>
+                        <p>Wondering how you can incorporate and promote inclusive publishing practices? Use these resources and guides to take intentional steps toward greater inclusion. </p>
+                    </div>
+                    <div class="row mt-4">
+                        <h4 class="textgray">Inclusive Language Guide and Sensitivity Reading Guide</h4>
+                        <p>How we communicate research findings can have an impact on their interpretation and wider application.  Find out more about Springer Nature’s Inclusive Language Guide and Sensitivity Reading Guide – two resources to support editors, and others (including authors and peer reviewers), to use bias-free language and presentation in research communication.</p>
+                    </div>
+                    <div class="row mt-4">
+                        <h4 class="textgray">Ensuring diversity and inclusion in editorial board and peer reviewer recruitment</h4>
+                        <p>It is vital that our editorial decision makers and our peer reviewers are representative of the global and diverse communities we serve. In these easy-to-use guides on editor and peer reviewer recruitment, you will find practical tips and resources for what to consider when creating diverse and representative editorial boards and peer reviewers.</p>
+                        <p>Find out more about diversity and inclusion in editorial boards and peer reviewers.</p>
+                    </div>
+                    <div class="row mt-4">
+                        <h4 class="textgray">Intentional Content Strategy: Embedding representation and inclusion into your content strategy</h4>
+                        <p>We can influence, and inform our readers, the communities we serve and the broader research environment through what we publish. Find out more in this infographic which sets out some practical ideas for how to develop an intentional content strategy with a focus on representation, equity and inclusion.</p>
+                    </div>
+                    
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="row mb-4">
+                                <img src="assets/images/blog/297.webp" class="img-fluid" alt=""/>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-8">
+                            <div class="row mb-4">
+                                    <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/26176720/data/v2" class="textblue text-deco">Inclusive Language Guide</a></p>                            
+                                    <p>(PDF, 597.58 KB)</p>
+                            </div>
+                        </div>                        
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="row mb-4">
+                                <img src="assets/images/blog/297.webp" class="img-fluid" alt=""/>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-8">
+                            <div class="row mb-4">
+                                    <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/26176724/data/v2" class="textblue text-deco">Sensitivity Reading Guide</a></p>                            
+                                    <p>(PDF, 298.73 KB)</p>
+                            </div>
+                        </div>                        
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="row mb-4">
+                                <img src="assets/images/blog/299.webp" class="img-fluid" alt=""/>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-8">
+                            <div class="row mb-4">
+                                    <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/26006956/data/v4" class="textblue text-deco">Addressing Diversity & Inclusion in EBM and Reviewer Recruitment</a></p>                            
+                                    <p>(PDF, 8.33 MB)</p>
+                            </div>
+                        </div>                        
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="row mb-4">
+                                <img src="assets/images/blog/300.webp" class="img-fluid" alt=""/>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-8">
+                            <div class="row mb-4">
+                                    <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/26006956/data/v4" class="textblue text-deco">Managing the Peer Review Process</a></p>                            
+                                    <p>(PDF, 2.96 MB)</p>
+                            </div>
+                        </div>                        
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="row mb-4">
+                                <img src="assets/images/blog/301.webp" class="img-fluid" alt=""/>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-8">
+                            <div class="row mb-4">
+                                    <p class="mb-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/27678604/data/v3" class="textblue text-deco">Intentional Content Strategy</a></p>                            
+                                    <p>(PDF, 67.55 MB)</p>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="gray-section">
+        <div class="container">
+            <div class="row mb-4">
+                <h3 class="subheading border-white">Editor case studies</h3>
+            </div>
+            <div class="row">
+                    <div class="col m20">
+                     <div class="blog-column bg-white border-radius">
+                         <div class="blog-header">
+                             <img src="assets/images/blog/302.webp" class="img-fluid" alt="">
+                         </div>
+                         <div class="blog-body">
+                             <h3 class="textgray">Journal of Plant Pathology introduces several initiatives and by doing so emerges as one of the most diverse journals.</h3>
+                         </div>
+                     </div>
+                    </div>
+                    <div class="col m20">
+                     <div class="blog-column bg-white border-radius">
+                         <div class="blog-header">
+                             <img src="assets/images/blog/303.webp" class="img-fluid" alt="">
+                         </div>
+                         <div class="blog-body">
+                             <h3 class="textgray">Celebrating Editorial Impact: Editorial Fellowship equips early career researchers with journal publishing experience.</h3>
+                         </div>
+                     </div>
+                    </div>
+                    <div class="col m20">
+                     <div class="blog-column bg-white border-radius">
+                         <div class="blog-header">
+                             <img src="assets/images/blog/304.webp" class="img-fluid" alt="">
+                         </div>
+                         <div class="blog-body">
+                             <h3 class="textgray">Prof. Joanna M. Setchell, EiC of the International Journal of Primatology, talks about the actions she took to amplify underrepresented voices in research.</h3>
+                         </div>
+                     </div>
+                    </div>
+                    <div class="col m20">
+                        <div class="blog-column bg-white border-radius">
+                            <div class="blog-header">
+                                <img src="assets/images/blog/305.webp" class="img-fluid" alt="">
+                            </div>
+                            <div class="blog-body">
+                                <h3 class="textgray">Prof. Mamba's deliberate steps to expand representation on the journal’s editorial board and its positive impact.</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col m20">
+                    <div class="blog-column bg-white border-radius">
+                        <div class="blog-header">
+                            <img src="assets/images/blog/306.webp" class="img-fluid" alt="">
+                        </div>
+                        <div class="blog-body">
+                            <h3 class="textgray">A multi-year effort to build a global journal community by diversifying authorship base, editorial boards, and peer reviewers</h3>
+                        </div>
+                    </div>
+                    </div>
             </div>
         </div>
     </section>
@@ -67,13 +224,13 @@
     <section class="white-section">
         <div class="container">
             <div class="row mb-4">
-                <h3 class="subheading">Related posts</h3>
+                <h3 class="subheading">Editor case studies</h3>
             </div>
             <div class="row">
                     <div class="col m20">
                      <div class="blog-column">
                          <div class="blog-header">
-                             <img src="assets/images/blog/17.webp" class="img-fluid" alt="">
+                             <img src="assets/images/blog/307.webp" class="img-fluid" alt="">
                          </div>
                          <div class="blog-body">
                              <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -81,11 +238,11 @@
                          </div>
                          <div class="blog-footer">
                              <div class="blog-icon">
-                                 <h3>r</h3>
+                                 <h3>t</h3>
                              </div>
                              <div class="blog-text">
-                                 <p>research publishing</p>
-                                 <h5>15 aug 2024</h5>
+                                 <p>the source</p>
+                                 <h5>5 Nov 2024</h5>
                              </div>
                          </div>
                      </div>
@@ -93,7 +250,7 @@
                     <div class="col m20">
                      <div class="blog-column">
                          <div class="blog-header">
-                             <img src="assets/images/blog/18.webp" class="img-fluid" alt="">
+                             <img src="assets/images/blog/308.webp" class="img-fluid" alt="">
                          </div>
                          <div class="blog-body">
                              <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -101,11 +258,11 @@
                          </div>
                          <div class="blog-footer">
                              <div class="blog-icon">
-                                 <h3>r</h3>
+                                 <img src="assets/images/blog/sn-logo.svg" class="img-fluid" alt="">
                              </div>
                              <div class="blog-text">
-                                 <p>research publishing</p>
-                                 <h5>15 aug 2024</h5>
+                                 <p>Springer Nature Group</p>
+                                 <h5>29 april 2024</h5>
                              </div>
                          </div>
                      </div>
@@ -113,7 +270,7 @@
                     <div class="col m20">
                      <div class="blog-column">
                          <div class="blog-header">
-                             <img src="assets/images/blog/19.webp" class="img-fluid" alt="">
+                             <img src="assets/images/blog/309.webp" class="img-fluid" alt="">
                          </div>
                          <div class="blog-body">
                              <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -121,11 +278,11 @@
                          </div>
                          <div class="blog-footer">
                              <div class="blog-icon">
-                                 <h3>r</h3>
+                                 <h3>t</h3>
                              </div>
                              <div class="blog-text">
-                                 <p>research publishing</p>
-                                 <h5>15 aug 2024</h5>
+                                 <p>the source</p>
+                                 <h5>20 feb 2024</h5>
                              </div>
                          </div>
                      </div>
@@ -133,7 +290,7 @@
                     <div class="col m20">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/17.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/310.webp" class="img-fluid" alt="">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -141,11 +298,11 @@
                             </div>
                             <div class="blog-footer">
                                 <div class="blog-icon">
-                                    <h3>r</h3>
+                                    <h3>t</h3>
                                 </div>
                                 <div class="blog-text">
-                                    <p>research publishing</p>
-                                    <h5>15 aug 2024</h5>
+                                    <p>the source</p>
+                                    <h5>19 oct 2023</h5>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +310,7 @@
                     <div class="col m20">
                     <div class="blog-column">
                         <div class="blog-header">
-                            <img src="assets/images/blog/18.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/311.webp" class="img-fluid" alt="">
                         </div>
                         <div class="blog-body">
                             <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -161,11 +318,11 @@
                         </div>
                         <div class="blog-footer">
                             <div class="blog-icon">
-                                <h3>r</h3>
+                                 <img src="assets/images/blog/sn-logo.svg" class="img-fluid" alt="">
                             </div>
                             <div class="blog-text">
-                                <p>research publishing</p>
-                                <h5>15 aug 2024</h5>
+                                <p>springer nature group</p>
+                                <h5>21 jun 2023</h5>
                             </div>
                         </div>
                     </div>

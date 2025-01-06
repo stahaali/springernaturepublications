@@ -65,7 +65,7 @@
                         <img src="assets/images/blog/221.webp" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p class="m-0"><a href="#" class="textblue text-deco">Download the whitepaper</a></p>
+                        <p class="m-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/16581166/data/v3" class="textblue text-deco">Download the whitepaper</a></p>
                         <p>(PDF, 2.06 MB)</p>
                     </div>
                 </div>
@@ -73,10 +73,10 @@
             <div class="col-lg-3 col-md-6 col-12 mb-20">
                 <div class="row">
                     <div class="col-lg-4">
-                        <img src="assets/images/blog/222.webp" class="img-fluid" alt="">
+                        <img src="assets/images/videos/5.webp" style="height: 94px" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8">
-                        <p class="m-0"><a href="#" class="textblue text-deco">Download the infographic</a></p>
+                        <p class="m-0"><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/16581168/data/v4" class="textblue text-deco">Download the infographic</a></p>
                         <p>(PDF, 2.37 MB)</p>
                     </div>
                 </div>
@@ -87,9 +87,9 @@
                         class="video-js video-js2"
                         controls
                         preload="auto"
-                        poster="assets/images/review/2.webp"
+                        poster="assets/images/videos/5.webp"
                         data-setup="{}">
-                        <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                        <source src="assets/videos/3.mp4" type="video/mp4" />
                     </video>
 
                     <p class="mt-4"><strong>Video</strong></p>

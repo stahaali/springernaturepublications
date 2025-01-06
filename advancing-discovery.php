@@ -237,9 +237,9 @@
                     preload="auto"
                     width="640"
                     height="900"
-                    poster="assets/images/review/2.webp"
+                    poster="assets/images/videos/3.webp"
                     data-setup="{}">
-                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                    <source src="assets/videos/2.mp4" type="video/mp4" />
                 </video>
             </div>
         </div>

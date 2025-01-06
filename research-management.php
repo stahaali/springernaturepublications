@@ -3,7 +3,7 @@
 <style>
     .video-js
     {
-        height: auto;
+        height: auto !important;
     }
     .video-js2 .vjs-control-bar 
     {
@@ -50,9 +50,9 @@
                     class="video-js video-js2"
                     controls
                     preload="auto"
-                    poster="assets/images/review/2.webp"
+                    poster="assets/images/videos/2.webp"
                     data-setup="{}">
-                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                    <source src="assets/videos/1.mp4" type="video/mp4" />
                 </video>
                 
                 <p class="mt-4"><strong>Watch: Accelerating research at your institution</strong></p>

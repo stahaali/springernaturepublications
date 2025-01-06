@@ -285,7 +285,7 @@
                     </div>
                     <div class="item">
                         <div class="whitepapers-wrapper border-radius">
-                            <a href="practical-challenges-white-paper.php">
+                            <a href="five-essential-factors.php">
                                 <div class="whitepapers-column">
                                     <h3>Five essential factors for data sharing</h3>
                                     <p>The white paper proposes five measures that will help in making data sharing more efficient and ensure good data practice. Bringing together survey results from more than 11,000 researchers, we explore the challenges they face, as well as their attitudes and behaviours towards data sharing.</p>
