@@ -666,7 +666,7 @@ section.initiative-section
 {
     font-weight: normal;
     color:#486a7e;
-    font-size: 35px;
+    font-size: 30px;
     text-transform: capitalize;
     border-bottom:0.1875rem solid #dfedf2;
     padding: 0 0 18px;
@@ -1054,6 +1054,11 @@ footer
 {
     position: relative;
     background:#183642;
+}
+.footer-logo
+{
+    max-width:200px;
+    margin-bottom:5px;
 }
 .upper-footer
 {
@@ -4773,7 +4778,7 @@ section.commonbanner26 .absolute-center
 section.blogpoststrust-section
 {
     position: relative;
-    padding-top:100px;
+    padding-top:120px;
 }
 .share-icon 
 {
@@ -5202,7 +5207,7 @@ section.allaboutresearch
 
 section.fivekey-section
 {
-    padding-top:100px;
+    padding-top:120px;
 }
 
 /*commonbanner36*/

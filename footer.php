@@ -1,4 +1,4 @@
-    <div class="modal fade custom-modal" id="modalform1" tabindex="-1" aria-labelledby="exampleModalLabel">
+<div class="modal fade custom-modal" id="modalform1" tabindex="-1" aria-labelledby="exampleModalLabel">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-body">
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="footer-logo">
-                            <img src="assets/images/white-logo.webp" class="img-fluid" alt="">
+                            <img src="assets/images/white-logo.webp" class="img-fluid footer-logo" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
@@ -137,7 +137,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-12">
-                        <p class="m-0 text-white">© 2024 Springer Nature</p>
+                        <p class="m-0 text-white">© 2024 Springer Nature publications</p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="footerbottom-links">

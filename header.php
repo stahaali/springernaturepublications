@@ -17,7 +17,7 @@
         <div class="container">
             <nav>
                 
-                <a href="/" class="logo"> <img src="assets/images/logo.webp" class="img-fluid"/> </a>
+                <a href="/" class="logo"> <img src="assets/images/logo-1.webp" class="img-fluid"/> </a>
 
                 <div class="toggle4">
                     <i class="fa-solid fa-bars"></i>

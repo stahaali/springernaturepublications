@@ -167,9 +167,9 @@
                     class="video-js video-js2"
                     controls
                     preload="auto"
-                    poster="assets/images/review/2.webp"
+                    poster="assets/images/videos/11.webp"
                     data-setup="{}">
-                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" type="video/mp4" />
+                    <source src="assets/videos/11.mp4" type="video/mp4" />
                 </video>
                 <p class="mt-4">How our Research Integrity Team works, and the process we follow when an issue has been detected on a manuscript.</p>
             </div>
