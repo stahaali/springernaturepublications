@@ -1,12 +1,19 @@
 <?php include('header.php'); ?>
 
+<style>
+    .initiative-heading
+    {
+        font-size: 19px;
+    }
+</style>
+
     <section class="homebanner">
         <div class="container absolute-center">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12">
                     <div class="banner-content">
-                        <h1>ABOUT US</h1>
-                        <p>180 years of progress - 180 years of discovery</p>
+                        <h1>Advancing Discovery</h1>
+                        <p>Springer Nature advances discovery by publishing trusted research, supporting the development of new ideas and championing open science. We are committed to playing our part in accelerating solutions to address the world’s urgent challenges.</p>
                         <div class="button1">
                             <a href="advancing-discovery.php">What we do</a>
                         </div>
@@ -36,8 +43,8 @@
                     <div class="column-wrapper">
                         <a href="licensing.php">
                             <div class="column background-yellow">
-                                <h3>search our content</h3>
-                                <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
+                                <h3>License our content</h3>
+                                <p>Get access to all our content. A licence is available to academic institutions, governments and corporations</p>
                                 <div class="icon">
                                     <i class="fa-solid fa-arrow-right"></i>
                                 </div>
@@ -49,8 +56,8 @@
                     <div class="column-wrapper">
                         <a href="authors.php">
                             <div class="column background-lightblue">
-                                <h3>search our content</h3>
-                                <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
+                                <h3>Publish with us</h3>
+                                <p>Aiming to give you the best publishing experience at every step of your research career</p>
                                 <div class="icon">
                                     <i class="fa-solid fa-arrow-right"></i>
                                 </div>
@@ -62,8 +69,8 @@
                     <div class="column-wrapper">
                         <a href="contact.php">
                             <div class="column background-darkblue">
-                                <h3>search our content</h3>
-                                <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>
+                                <h3>Learn about Springer Nature</h3>
+                                <p>Careers with us, our OA progress report, press releases and investor information</p>
                                 <div class="icon icon1">
                                     <i class="fa-solid fa-arrow-right"></i>
                                 </div>
@@ -124,7 +131,7 @@
                         <a href="women-in-science.php">
                             <div class="initiative-column">
                                 <div class="initiative-header">
-                                    <img src="assets/images/initiative/1.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/initiative/1.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="initiative-body">
                                     <h3 class="initiative-heading">Women in Science </h3>
@@ -139,11 +146,11 @@
                         <a href="sustainable-development-goals.php">
                             <div class="initiative-column">
                                 <div class="initiative-header">
-                                    <img src="assets/images/initiative/2.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/initiative/2.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="initiative-body">
                                     <h3 class="initiative-heading">Sustainable Development Goals </h3>
-                                    <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                    <p>Springer Nature's Sustainable Development Goals (SDG) Programme aims to connect the researchers who are tackling the world’s toughest challenges with the practitioners in policy and business who need those insights</p>
                                 </div>
                             </div>
                         </a>
@@ -154,11 +161,11 @@
                         <a href="resources-tools.php">
                             <div class="initiative-column">
                                 <div class="initiative-header">
-                                    <img src="assets/images/initiative/3.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/initiative/3.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="initiative-body">
-                                    <h3 class="initiative-heading">Women in Science </h3>
-                                    <p>Women have come a long way in enriching the scientific community - yet there's still more to be achieved. We are recognizing women researchers.</p>
+                                    <h3 class="initiative-heading">DEI in Research Publishing</h3>
+                                    <p>We all play a pivotal role in championing inclusive practices and ensuring we reflect our diverse communities through our publication process. Discover how our Editors are empowered in doing this through training tools and resources. </p>
                                 </div>
                             </div>
                         </a>
@@ -182,7 +189,7 @@
                         <a href='sdg-impact.php'>
                             <div class="partnership-column">
                                 <div class="partnership-header">
-                                    <img src="assets/images/partnership/1.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/partnership/1.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="partnership-body">
                                     <h3 class="initiative-heading">SDGs and the impact of open research</h3>
@@ -200,7 +207,7 @@
                        <a href='orcid.php'>
                             <div class="partnership-column">
                                 <div class="partnership-header">
-                                    <img src="assets/images/partnership/2.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/partnership/2.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="partnership-body">
                                     <h3 class="partnership-heading">ORCID: Share your discoveries, receive recognition </h3>
@@ -218,7 +225,7 @@
                         <a href='in-review.php'>
                             <div class="partnership-column">
                                 <div class="partnership-header">
-                                    <img src="assets/images/partnership/3.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/partnership/3.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="partnership-body">
                                     <h3 class="partnership-heading">In Review: integrated preprint sharing </h3>
@@ -250,9 +257,10 @@
                     <a href='blogpost-trust-integrity.php'>
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/01.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/01.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
+                                <p>Research Integrity</p>
                                 <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
                                 <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
                             </div>
@@ -274,11 +282,12 @@
                         <a href="unlocking-potential-ai-and-tech-in-research-and-science.php">
                              <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/02.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/02.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
-                                    <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                                    <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
+                                    <p>AI</p>
+                                    <h3 class="blog-heading">Unlocking Potential: AI & Tech in Research and Science Publishing </h3>
+                                    <p>Joyce Lorigan discusses three ways in which AI can improve scientific publishing, following keynote at Tech Open Air.</p>
                                 </div>
                                 <div class="blog-footer">
                                     <div class="blog-icon">
@@ -286,7 +295,7 @@
                                     </div>
                                     <div class="blog-text">
                                         <p>research publishing</p>
-                                        <h5>15 aug 2024</h5>
+                                        <h5>3 july 2024</h5>
                                     </div>
                                 </div>
                             </div>
@@ -298,10 +307,11 @@
                        <a href="leveraging-the-ocean-of-opportunities-to-drive-value.php">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/03.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/03.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
-                                <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
+                                <p>open research</p>
+                                <h3 class="blog-heading">Leveraging the ocean of opportunities to drive value to research communities</h3>
                                 <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
                             </div>
                             <div class="blog-footer">
@@ -310,7 +320,7 @@
                                 </div>
                                 <div class="blog-text">
                                     <p>research publishing</p>
-                                    <h5>15 aug 2024</h5>
+                                    <h5>23 april 2024</h5>
                                 </div>
                             </div>
                         </div>  
@@ -322,11 +332,12 @@
                         <a href="investing-in-a-gender-equal-research-future.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/04.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/04.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
-                                    <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                                    <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
+                                    <p>DE&I</p>
+                                    <h3 class="blog-heading">Investing in a gender equal research future - International Women’s Day 2024</h3>
+                                    <p>Rachel Jacobs disucsses how Springer Nature is investing in women through its publishing, business and external activities.</p>
                                 </div>
                                 <div class="blog-footer">
                                     <div class="blog-icon">
@@ -334,7 +345,7 @@
                                     </div>
                                     <div class="blog-text">
                                         <p>research publishing</p>
-                                        <h5>15 aug 2024</h5>
+                                        <h5>8 marh 2024</h5>
                                     </div>
                                 </div>
                             </div>
@@ -360,19 +371,20 @@
                     <a href="transfer-desk-for-editors.php">
                          <div class="blog-column bg-white">
                             <div class="blog-header">
-                                <img src="assets/images/blog/05.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/05.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
-                                <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                                <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
+                                <p>Editors</p>
+                                <h3 class="blog-heading">Transfer Desk for Editors</h3>
+                                <p>We do a deep dive into our Transfer Desk service by addressing common questions that editors have about transfers and how they work.</p>
                             </div>
                             <div class="blog-footer">
                                 <div class="blog-icon">
-                                    <h3>r</h3>
+                                    <h3>t</h3>
                                 </div>
                                 <div class="blog-text">
-                                    <p>research publishing</p>
-                                    <h5>15 aug 2024</h5>
+                                    <p>the source</p>
+                                    <h5>4 aug 2023</h5>
                                 </div>
                             </div>
                         </div>
@@ -384,19 +396,20 @@
                       <a href="researcher-guide-to-open-access-agreements.php">
                         <div class="blog-column bg-white">
                             <div class="blog-header">
-                                <img src="assets/images/blog/06.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/06.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
-                                <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                                <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
+                                <p>Open Research</p>
+                                <h3 class="blog-heading">A researcher’s guide to open access agreements</h3>
+                                <p>This guide brings together everything you need to know to help you get the most from Springer Nature’s open access agreements.</p>
                             </div>
                             <div class="blog-footer">
                                 <div class="blog-icon">
-                                    <h3>r</h3>
+                                    <h3>t</h3>
                                 </div>
                                 <div class="blog-text">
-                                    <p>research publishing</p>
-                                    <h5>15 aug 2024</h5>
+                                    <p>the source</p>
+                                    <h5>27 july 2023</h5>
                                 </div>
                             </div>
                         </div>                          
@@ -406,19 +419,20 @@
                <div class="col-lg-3 col-md-6 col-12 m20">
                 <div class="blog-column bg-white">
                     <div class="blog-header">
-                        <img src="assets/images/blog/08.webp" class="img-fluid" alt="">
+                        <img src="assets/images/blog/08.webp" class="img-fluid" alt="" loading="lazy">
                     </div>
                     <div class="blog-body">
+                        <p>SN SDG Programme</p>
                         <h3 class="blog-heading">Trends and practicalities of digital transformation in life sciences R&D</h3>
                         <p>From AI in drug discovery to lab automation, learn how these innovations are driving efficiency and what biotech labs need to know to stay ahead.</p>
                     </div>
                     <div class="blog-footer">
                         <div class="blog-icon">
-                            <h3>r</h3>
+                            <h3>t</h3>
                         </div>
                         <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>05 Nov 2024</h5>
+                            <p>the source</p>
+                            <h5>13 july 2023</h5>
                         </div>
                     </div>
                 </div>
@@ -426,19 +440,20 @@
                <div class="col-lg-3 col-md-6 col-12 m20">
                 <div class="blog-column bg-white">
                     <div class="blog-header">
-                        <img src="assets/images/blog/07.webp" class="img-fluid" alt="">
+                        <img src="assets/images/blog/07.webp" class="img-fluid" alt="" loading="lazy">
                     </div>
                     <div class="blog-body">
-                        <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
-                        <p>Tim Kersjes argues that for retractions to function as an effective corrective to the scholarly record they need shed their punitive reputation.</p>
+                        <p>Research Integrity</p>
+                        <h3 class="blog-heading">All about research integrity: a beginner's guide & an in-depth course </h3>
+                        <p>A guide and an in-depth course on research integrity and its application to your research and work.</p>
                     </div>
                     <div class="blog-footer">
                         <div class="blog-icon">
-                            <h3>r</h3>
+                            <h3>t</h3>
                         </div>
                         <div class="blog-text">
-                            <p>research publishing</p>
-                            <h5>15 aug 2024</h5>
+                            <p>the source</p>
+                            <h5>1 jun 2023</h5>
                         </div>
                     </div>
                 </div>
@@ -462,7 +477,7 @@
                         <a href="publishing-without-barriers.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/95.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/95.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Publishing without barriers</h3>
@@ -486,7 +501,7 @@
                         <a href="oa-publishing-in-asia-and-oceania.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/09.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/09.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Advancing OA publishing in Asia and Oceania</h3>
@@ -510,7 +525,7 @@
                     <a href="digital-labs-benefits-life-sciences.php">
                          <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/010.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/010.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">Top 5 benefits of digital labs in life sciences R&D</h3>
@@ -534,7 +549,7 @@
                         <a href="institutional-support-for-china-oa-publishing.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/011.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/011.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">To publish OA, what institutional support do Chinese researchers need most?</h3>
@@ -558,7 +573,7 @@
                         <a href="emerging-trends-in-perovskite-research.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/110.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/110.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Emerging Trends in Perovskite Research: insights from Nature Editors</h3>
@@ -582,7 +597,7 @@
                         <a href="digital-transformation-life-sciences-rd-trends.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/111.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/111.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Trends and practicalities of digital transformation in life sciences R&D</h3>
@@ -606,7 +621,7 @@
                     <a href="ai-tools-research-integrity-insights.php">
                          <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/112.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/112.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">Navigating research integrity in the age of AI</h3>
@@ -630,7 +645,7 @@
                         <a href="open-access-research-nelson-memo-impact-libraries.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/113.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/113.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Making policy a reality – practical steps to open access workflows</h3>
@@ -654,7 +669,7 @@
                        <a href="oa-agreement-stories-university-miami.php">
                             <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/114.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/114.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">OA agreement stories: University of Miami</h3>
@@ -678,7 +693,7 @@
                         <a href="china-oa-perceptions-are-changing.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/115.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/115.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">How perceptions of open access in China are changing</h3>
@@ -702,7 +717,7 @@
                         <a href="libraries-inclusivity-digital-resources.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/116.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/116.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Inclusive libraries and supporting disabled users in science</h3>
@@ -726,7 +741,7 @@
                         <a href="breakthrough-therapies-blockbuster-drugs-healthcare.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/117.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/117.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Breakthrough therapies and blockbuster drug launches that are shaping healthcare</h3>
@@ -750,7 +765,7 @@
                         <a href="support-inclusive-practice-students-researchers.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/118.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/118.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">How to support inclusive practice among students and researchers</h3>
@@ -774,7 +789,7 @@
                         <a href="springer-nature-ecr-program-collaboration-librarians-researchers.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/119.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/119.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">ECR Program: Bridging the gap between librarians and researchers</h3>
@@ -798,7 +813,7 @@
                     <a href="digital-transformation-life-science-rd-labs.php">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/120.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/120.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">No shame, no blame – How to make retractions work</h3>
@@ -827,7 +842,7 @@
         </div>
     </section>
 
-    <section class="social-background">
+ <section class="social-background">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -837,7 +852,7 @@
             <div class="row justify-content-between gx-2">
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://x.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-twitter"></i>
@@ -851,7 +866,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.facebook.com/SpringerNature/">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-facebook-f"></i>
@@ -865,7 +880,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.linkedin.com/company/springernature/">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-linkedin-in"></i>
@@ -879,7 +894,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.youtube.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-youtube"></i>
@@ -893,13 +908,13 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.instagram.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
                                 <div class="social-icon1txt">
-                                    <p>Watch us on YouTube</p>
+                                    <p>Follow us on Instagram</p>
                                 </div>
                             </div>
                         </a>
