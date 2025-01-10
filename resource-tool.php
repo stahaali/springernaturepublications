@@ -75,7 +75,7 @@
                     <a href="dei-for-editors.php">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/69.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/69.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">DEI in Research Publishing</h3>
@@ -93,7 +93,7 @@
                     <a href="reviewerfinder.php">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/169.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/169.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">Reviewer Finder</h3>
@@ -111,7 +111,7 @@
                         <a href="transfer-desk-for-editors.php">
                             <div class="blog-column">
                                 <div class="blog-header">
-                                    <img src="assets/images/blog/05.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/blog/05.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blog-body">
                                     <h3 class="blog-heading">Transfer Desk</h3>
@@ -131,7 +131,7 @@
                     <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/170.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/170.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">SharedIt</h3>
@@ -149,7 +149,7 @@
                     <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/18.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/18.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <h3 class="blog-heading">ORCID</h3>
@@ -187,7 +187,7 @@
                         <a href="#">
                             <div class="blue-column">
                                 <div class="blue-header">
-                                    <img src="assets/images/icons/icon4.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/icons/icon4.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blue-body">
                                     <h4>Build a strong editorial board</h4>
@@ -205,7 +205,7 @@
                             <a href="#">
                                 <div class="blue-column">
                                     <div class="blue-header">
-                                        <img src="assets/images/icons/icon5.webp" class="img-fluid" alt="">
+                                        <img src="assets/images/icons/icon5.webp" class="img-fluid" alt="" loading="lazy">
                                     </div>
                                     <div class="blue-body">
                                         <h4>Create a steady stream of article submissions</h4>
@@ -223,7 +223,7 @@
                         <a href="#">
                             <div class="blue-column">
                                 <div class="blue-header">
-                                    <img src="assets/images/icons/icon6.webp" class="img-fluid" alt="">
+                                    <img src="assets/images/icons/icon6.webp" class="img-fluid" alt="" loading="lazy">
                                 </div>
                                 <div class="blue-body">
                                     <h4>Grow your journal on social media</h4>
@@ -241,7 +241,7 @@
                 <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
-                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="" loading="lazy">
                         </div>
                         <div class="col-lg-9">
                             <p class="m-0"><a href="assets/pdf-link/7.pdf" class="textblue text-deco">Enhancing journal performance - editorial board</a></p>
@@ -252,7 +252,7 @@
                 <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
-                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="" loading="lazy">
                         </div>
                         <div class="col-lg-9">
                             <p class="m-0"><a href="assets/pdf-link/8.pdf" class="textblue text-deco">Enhancing journal performance - attract submissions</a></p>
@@ -263,7 +263,7 @@
                 <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
-                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="" loading="lazy">
                         </div>
                         <div class="col-lg-9">
                             <p><a href="assets/pdf-link/9.pdf" class="textblue text-deco">Enhancing journal performance - readers and authors</a></p>
@@ -274,7 +274,7 @@
                 <div class="col-lg-3 col-md-6 col-12 mb-20">
                     <div class="row">
                         <div class="col-lg-3">
-                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/174.webp" class="img-fluid" alt="" loading="lazy">
                         </div>
                         <div class="col-lg-9">
                             <p class="m-0"><a href="assets/pdf-link/10.pdf" class="textblue text-deco">Enhancing journal performance - analyses for journal development</a></p>
@@ -327,7 +327,7 @@
                     <a href="#">
                             <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/171.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/171.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <p>Life In Research</p>
@@ -352,7 +352,7 @@
                     <a href="#">
                     <div class="blog-column">
                         <div class="blog-header">
-                            <img src="assets/images/blog/172.webp" class="img-fluid" alt="">
+                            <img src="assets/images/blog/172.webp" class="img-fluid" alt="" loading="lazy">
                         </div>
                         <div class="blog-body">
                             <p>editors</p>
@@ -377,7 +377,7 @@
                     <a href="#">
                         <div class="blog-column">
                             <div class="blog-header">
-                                <img src="assets/images/blog/173.webp" class="img-fluid" alt="">
+                                <img src="assets/images/blog/173.webp" class="img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="blog-body">
                                 <p>SN SDG Programme</p>
@@ -411,10 +411,10 @@
         <div class="row mt-4">
             <div class="col-lg-6">
                 <div class="row">
-                    <div class="col-lg-3 p-0">
-                        <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="">
+                    <div class="col-lg-2 p-0">
+                        <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="" loading="lazy">
                     </div>
-                    <div class="col-lg-9 p-0">
+                    <div class="col-lg-10 p-0">
                         <p class="m-0"><a href="assets/pdf-link/11.pdf" class="textblue text-deco">Welcome Guide (Snapp Version)</a></p>                
                         <p class="m-0">(PDF, 465.96 KB)</p>
                     </div>
@@ -422,10 +422,10 @@
             </div>
             <div class="col-lg-6">
                 <div class="row">
-                    <div class="col-lg-3 p-0">
-                        <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="">
+                    <div class="col-lg-2 p-0">
+                        <img src="assets/images/blog/168.webp" class="img-fluid" width="90px" alt="" loading="lazy">
                     </div>
-                    <div class="col-lg-9 p-0">
+                    <div class="col-lg-10 p-0">
                         <p class="m-0"><a href="assets/pdf-link/12.pdf" class="textblue text-deco">Welcome Guide (Editorial Manager Version)</a></p>                
                         <p class="m-0">(PDF, 467.51 KB)</p>
                     </div>

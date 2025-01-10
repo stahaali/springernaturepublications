@@ -1,4 +1,6 @@
-<div class="modal fade custom-modal" id="modalform1" tabindex="-1" aria-labelledby="exampleModalLabel">
+
+   
+    <div class="modal fade custom-modal" id="modalform1" tabindex="-1" aria-labelledby="exampleModalLabel">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-body">
@@ -122,15 +124,15 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="footer-logo">
-                            <img src="assets/images/white-logo.webp" class="img-fluid footer-logo" alt="">
+                            <img src="assets/images/white-logo.webp" class="img-fluid footer-logo" alt="" loading="lazy">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="social-icon">
                             <ul>
-                                <li><i class="fa-brands fa-twitter"></i></li>
-                                <li><i class="fa-brands fa-facebook-f"></i></li>
-                                <li><i class="fa-brands fa-linkedin-in"></i></li>
+                                <li><a href="https://x.com/SpringerNature"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/SpringerNature/"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/springernature/"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -154,9 +156,9 @@
 
     <script src="assets/js/jquery-3.7.1.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="https://vjs.zencdn.net/8.16.1/video.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="https://vjs.zencdn.net/8.16.1/video.min.js" defer></script>
+    <script src="assets/js/owl.carousel.min.js" defer></script>
+    <script src="assets/js/main.js" defer></script>
     
     <script>
     
@@ -179,6 +181,34 @@
     
                 $.ajax({
                     url: 'submit.php',
+                    type: 'POST',
+                    data: $(this).serialize(),
+                    success: function (response) {
+                        // Check the response from the server
+                        if (response.trim() === "Thank you for your submission!") {
+                           window.location.href = "http://springernaturepublications.com/thankyou.php";
+                        } 
+                       else {
+                            $('.alert-danger').show(); // Show error message
+                        }
+                    },
+                    error: function (error, xhr) {
+                        $('.alert-danger').show(); // Show error message on AJAX error
+                    }
+                });
+                
+                spinner.style.display = "inline-block";
+                submitButton.disabled = true;
+            });
+        });
+        
+        
+        $(document).ready(function () {
+            $('#book-form').on('submit', function (event) {
+                event.preventDefault(); // Prevent the default form submission
+    
+                $.ajax({
+                    url: 'submit2.php',
                     type: 'POST',
                     data: $(this).serialize(),
                     success: function (response) {
