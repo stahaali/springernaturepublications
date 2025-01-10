@@ -1,6 +1,9 @@
 
 $(document).ready(function() 
 {
+    
+  
+
     $('.toggle4').click(function()
     {
         $('.collapse-menu').toggleClass('show4');
@@ -143,6 +146,18 @@ $('.blog-slider').owlCarousel({
     }
 });
 
+$('.homeslider').owlCarousel({
+    loop: true,
+    slideSpeed: 300,
+    paginationSpeed: 400,
+    items: 1,
+    dots: false,   
+    nav: true,
+    animateOut: 'fadeOut',  
+    animateIn: 'fadeIn',    
+    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+});
+
 $('.ri-slider').owlCarousel({
     loop:true,
     margin:20,
@@ -159,3 +174,18 @@ $('.ri-slider').owlCarousel({
         }
     }
 });
+
+// new-search
+
+$(document).ready(function() 
+{
+    $('.eds-content1').addClass('active');
+    $('.eds-header1').click(function() 
+    {
+        $('.eds-content1').toggleClass('active');
+    });
+});
+
+
+
+

@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-12 m20">
                     <div class="column-wrapper">
-                        <a href="#">
+                        <a href="new-search.php">
                             <div class="column background-red">
                                 <h3>search our content</h3>
                                 <p>Search in all books, journals, and other materials published by Springer, Nature Research, and BMC</p>

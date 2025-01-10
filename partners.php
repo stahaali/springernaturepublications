@@ -177,10 +177,10 @@
                 </div>
             </div>
             <div class="row justify-content-between gx-2">
-                <div class="col-lg-4 col-md-4 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
-                            <div class="socialbg-icon socialbg-icon2">
+                        <a href="https://x.com/SpringerNature">
+                            <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-twitter"></i>
                                 </div>
@@ -191,12 +191,12 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
-                            <div class="socialbg-icon socialbg-icon2">
+                        <a href="https://www.facebook.com/SpringerNature/">
+                            <div class="socialbg-icon">
                                 <div class="social-icon1">
-                                    <i class="fa-brands fa-linkedin-in"></i>
+                                    <i class="fa-brands fa-facebook-f"></i>
                                 </div>
                                 <div class="social-icon1txt">
                                     <p>Follow us on Facebook</p>
@@ -205,15 +205,43 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12 m20">
+                <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
-                            <div class="socialbg-icon socialbg-icon2">
+                        <a href="https://www.linkedin.com/company/springernature/">
+                            <div class="socialbg-icon">
                                 <div class="social-icon1">
-                                    <i class="fa-solid fa-envelope"></i>
+                                    <i class="fa-brands fa-linkedin-in"></i>
                                 </div>
                                 <div class="social-icon1txt">
                                     <p>Connect on LinkedIn</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-12 m20">
+                    <div class="sc-links">
+                        <a href="https://www.youtube.com/SpringerNature">
+                            <div class="socialbg-icon">
+                                <div class="social-icon1">
+                                    <i class="fa-brands fa-youtube"></i>
+                                </div>
+                                <div class="social-icon1txt">
+                                    <p>Watch us on YouTube</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-12 m20">
+                    <div class="sc-links">
+                        <a href="https://www.instagram.com/SpringerNature">
+                            <div class="socialbg-icon">
+                                <div class="social-icon1">
+                                    <i class="fa-brands fa-instagram"></i>
+                                </div>
+                                <div class="social-icon1txt">
+                                    <p>Follow us on Instagram</p>
                                 </div>
                             </div>
                         </a>

@@ -117,7 +117,7 @@
             <div class="row justify-content-between gx-2">
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://x.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-twitter"></i>
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.facebook.com/SpringerNature/">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-facebook-f"></i>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.linkedin.com/company/springernature/">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-linkedin-in"></i>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.youtube.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-youtube"></i>
@@ -173,13 +173,13 @@
                 </div>
                 <div class="col-lg-2 col-md-3 col-12 m20">
                     <div class="sc-links">
-                        <a href="#">
+                        <a href="https://www.instagram.com/SpringerNature">
                             <div class="socialbg-icon">
                                 <div class="social-icon1">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
                                 <div class="social-icon1txt">
-                                    <p>Watch us on YouTube</p>
+                                    <p>Follow us on Instagram</p>
                                 </div>
                             </div>
                         </a>
