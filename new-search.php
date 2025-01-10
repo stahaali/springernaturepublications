@@ -446,14 +446,14 @@
                     </div>
                     
                     <div class="results-data">
-                        <ul>
+                        <ul id="content-list">
                             <li class="page-content">
                                 <div class="row">
                                     <div class="col-lg-10">
                                         <h5>chapter</h5>
-                                        <h3>Adsorption of Poly(vinyl formamide-co-vinyl amine) (PVFA-co-PVAm) onto Metal Surfaces</h3>
-                                        <p> The formation of stable metal/polymer joints is an enormous challenge in material sciences. Good adhesion requires an interphase which is able to...</p>
-                                        <p class="m-0">Stefan Spange, Susan Wolf, Frank Simon <a href="#" class="textblue text-deco">Characterization of Polymer Surfaces and Thin Films</a></p>                                    
+                                        <h3>Spinodal Crystallization of Polymers: Crystallization from the Unstable Melt</h3>
+                                        <p>This paper reviews the authors' investigation into polymer crystallization, especially involving a spinodal decomposition (SD) type phase...</p>
+                                        <p class="m-0">Keisuke Kaji, Koji Nishida, ... Masayuki Imai <a href="#">Interphases and Mesophases in Polymer Crystallization III</a></p>                                    
                                     </div>
                                     <div class="col-lg-2">
                                         <img src="assets/images/blog/319.webp" class="img-fluid eds-img" alt="" loading="lazy"/>
@@ -464,8 +464,8 @@
                                 <div class="row">
                                     <div class="col-lg-10">
                                         <h5>chapter</h5>
-                                        <h3>Adsorption of Poly(vinyl formamide-co-vinyl amine) (PVFA-co-PVAm) onto Metal Surfaces</h3>
-                                        <p> The formation of stable metal/polymer joints is an enormous challenge in material sciences. Good adhesion requires an interphase which is able to...</p>
+                                        <h3>PEGylation of Proteins as Tailored Chemistry for Optimized Bioconjugates</h3>
+                                        <p>The high potential of peptides and proteins as therapeutic agents has not been fully exploited because of their common shortcomings: the only...</p>
                                         <p class="m-0">Stefan Spange, Susan Wolf, Frank Simon <a href="#" class="textblue text-deco">Characterization of Polymer Surfaces and Thin Films</a></p>                                    
                                     </div>
                                     <div class="col-lg-2">
@@ -580,6 +580,7 @@
                            
                         </ul>
                     </div>
+                    
                     <div class="row mt-4 mb-4 m-01">
                         <div class="info-dialogbox info-dialogbox2">
                             <div class="icon">

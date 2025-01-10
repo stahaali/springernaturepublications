@@ -175,17 +175,74 @@ $('.ri-slider').owlCarousel({
     }
 });
 
-// new-search
+// pagination script
 
-$(document).ready(function() 
-{
-    $('.eds-content1').addClass('active');
-    $('.eds-header1').click(function() 
-    {
-        $('.eds-content1').toggleClass('active');
+ $(document).ready(function () {
+        const itemsPerPage = 9;
+        const totalItems = $("#content-list .page-content").length;
+        const totalPages = Math.ceil(totalItems / itemsPerPage);
+        let currentPage = 1;
+
+        function showPage(page) {
+            const start = (page - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+
+            $("#content-list .page-content").hide().slice(start, end).show();
+            $(".pagination .page-link1").removeClass("active");
+            $(".pagination .page-link1").eq(page - 1).addClass("active");
+        }
+
+        $(".pagination").on("click", ".page-link1", function (e) {
+            e.preventDefault();
+            currentPage = $(this).text();
+            showPage(currentPage);
+        });
+
+        $(".pagination").on("click", ".prev-link", function (e) {
+            e.preventDefault();
+            if (currentPage > 1) {
+                currentPage--;
+                showPage(currentPage);
+            }
+        });
+
+        $(".pagination").on("click", ".next-link", function (e) {
+            e.preventDefault();
+            if (currentPage < totalPages) {
+                currentPage++;
+                showPage(currentPage);
+            }
+        });
+
+        showPage(currentPage);
     });
-});
+    
+// search script
 
+
+$(document).ready(function() {
+    // Trigger the filter function when search button is clicked
+    $('.submit3').on('click', function(e) {
+        e.preventDefault(); // Prevent the form from submitting
+        var searchInput = $('#searchInput').val().toLowerCase(); // Get the input and convert it to lowercase
+        filterResults(searchInput);
+    });
+
+    // Filter results based on search input
+    function filterResults(searchInput) {
+        // Loop through each list item
+        $('#content-list .page-content').each(function() {
+            var itemText = $(this).text().toLowerCase(); // Get the text content of the list item
+            
+            // Check if the search input is present in the text
+            if (searchInput !== "" && itemText.indexOf(searchInput) !== -1) {
+                $(this).show(); // Show matching items
+            } else {
+                $(this).hide(); // Hide non-matching items
+            }
+        });
+    }
+});
 
 
 
