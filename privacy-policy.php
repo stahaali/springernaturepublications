@@ -149,10 +149,10 @@
                                 <li>  (behavioural) Advertising and profiling; </li>
                                 <li>  Facilitate attendance of a conference; </li>
                                 <li>  Manage manuscript submissions; </li>
-                                <li>  Provide access (where appropriate) to other Springer Nature group content if you so request </li>
-                                <li>  Facilitate and communicate with you about your request to recommend a Springer Nature journal to your library </li>
+                                <li>  Provide access (where appropriate) to other Springer Nature Publication group content if you so request </li>
+                                <li>  Facilitate and communicate with you about your request to recommend a Springer Nature Publication journal to your library </li>
                                 <li>  User Research: To undertake research by examining user behavior to inform product and design decisions. For more information please visit - <a href="#" class="textblue">https://springernaturepublications</a> </li>
-                                <li>  To provide you with a transfer offer to a relevant Springer Nature journal in the event that your initial submission is not accepted.  </li>
+                                <li>  To provide you with a transfer offer to a relevant Springer Nature Publication journal in the event that your initial submission is not accepted.  </li>
                             </ul>
                         </div>
 
@@ -270,12 +270,12 @@
                         <li> Provide you with the services and information offered through the Submission and Peer Review System or which you additionally request; </li>
                         <li> Communicate with you; </li>
                         <li> Process payments </li>
-                        <li> Provide information to you as an Author about other publishing opportunities, with the Springer Nature group, you can stop these communications at any time by clicking the link in each email or contacting customer services; </li>
+                        <li> Provide information to you as an Author about other publishing opportunities, with the Springer Nature Publication group, you can stop these communications at any time by clicking the link in each email or contacting customer services; </li>
                         <li> Communicate with you in your capacity as a current or potential Peer Reviewer, Editorial Board Member, or external Editor to provide information about the journal (s) and content you have worked on; you can stop these communications to you as a Peer Reviewer, Editorial Board Member, or external Editor at any time by clicking the link in each email or contacting Customer Service at <a href="#" class="textblue">customerservice@springernaturepublications.com</a>. Stopping these communications will not affect your status as Peer Reviewer, Editorial Board Member or external Editor with respect to the journal. </li>
                         <li> Create a profile of your publication record based on publicly available data, such as published books and articles, citations and grants awarded. This information will not be used to determine article acceptance, nor will it be used for automated decision making (see section VI for more information on automated decision making). This information will be used to personalise communications and provide you with the latest news about our products and services; </li>
                         <li> To ensure the accuracy of content attribution and the quality and integrity of the peer review process
                         <li> Provide you with e-alerts </li>
-                        <li> Offer to transfer your submission to an alternative Springer Nature title if applicable </li>
+                        <li> Offer to transfer your submission to an alternative Springer Nature Publication title if applicable </li>
                         <li> Authorise and process Article Publication Charges (APCs) </li>
                     </ul>
                 </div>
@@ -286,7 +286,7 @@
                     For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest in optimizing our services and preventing fraud, Article 6 sec. 1 sent. 1 lit. f GDPR.
                 </p>
                 <p>
-                    Your personal account registration data is, in the absence of exceptions within the specific services mentioned, retained for as long as your account is used. Non-activity is defined at a minimum of three years, to facilitate ease-of-return for account holders. Content and communications, associated with submissions, reviews or decisions made by an account holder is held for a period of 12 months following final decision before being stored within long term limited-access archiving. Content may be engaged in relation to the services provided and in the interests of the integrity of published material.  Such a decision will be made under the oversight of the Springer Nature Research Integrity Group. The need for legal actions within the services or payment problems can lead to a longer retention of your personal data.
+                    Your personal account registration data is, in the absence of exceptions within the specific services mentioned, retained for as long as your account is used. Non-activity is defined at a minimum of three years, to facilitate ease-of-return for account holders. Content and communications, associated with submissions, reviews or decisions made by an account holder is held for a period of 12 months following final decision before being stored within long term limited-access archiving. Content may be engaged in relation to the services provided and in the interests of the integrity of published material.  Such a decision will be made under the oversight of the Springer Nature Publication Research Integrity Group. The need for legal actions within the services or payment problems can lead to a longer retention of your personal data.
                 </p>
                 <p>
                     In order to ensure the high quality of our journals and publications as well as the significance of the scientific research published, we have implemented a peer review procedure.
@@ -305,7 +305,7 @@
             <div class="row">
 
                 <p>
-                    If you use the author and instructor services the required data are retained for the duration of the process plus a security period. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. b GDPR. Certain services are supplied by AJE – American Journal Experts.  AJE is owned by Springer Nature and there is an inter group data sharing agreement in place to support the transfer of personal data.
+                    If you use the author and instructor services the required data are retained for the duration of the process plus a security period. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. b GDPR. Certain services are supplied by AJE – American Journal Experts.  AJE is owned by Springer Nature Publication and there is an inter group data sharing agreement in place to support the transfer of personal data.
                 </p>
                 <p>
                     If you have qualified for an author discount for purchasing books, the retention periods of the web shop are applicable (see above).
@@ -318,7 +318,7 @@
             
              <div class="row">
                 <h3 class="textgray3 mb-4 mx-0">5. Author and instructor services</h3>
-                <p>If you use the author and instructor services the required data are retained for the duration of the process plus a security period. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. b GDPR. Certain services are supplied by AJE – American Journal Experts.  AJE is owned by Springer Nature and there is an inter group data sharing agreement in place to support the transfer of personal data.</p>
+                <p>If you use the author and instructor services the required data are retained for the duration of the process plus a security period. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. b GDPR. Certain services are supplied by AJE – American Journal Experts.  AJE is owned by Springer Nature Publication and there is an inter group data sharing agreement in place to support the transfer of personal data.</p>
                 <p>If you have qualified for an author discount for purchasing books, the retention periods of the web shop are applicable (see above).</p>
                 <p>To request a free online review copy of a book we use the contact data in your account to process the request.</p>
             </div>
@@ -342,7 +342,7 @@
                 </div>
                 <p>we will process the personal data you provide to process and fulfil your request. For this, the legal basis is Article 6 sec. 1 sent. 1 lit. a and b GDPR.</p>
                 <p>To provide the requested service your data may be stored in a ticketing system and/or on a support platform to enable data access by the relevant customer support team member. Where appropriate the data will also be forwarded to a different team to fulfil the request (e.g. to update your data) or be used on physical data records, e.g. invoices. We may use generative AI to support us in providing the response or service requested; any output is subject to human oversight before being used.</p>
-                <p>We use Freshdesk (provided by Freshworks GmbH, Neue Grünstraße 17, 10179 Berlin, Germany) as a ticketing system to store and process your requests. Depending on the region you call from and team providing support we use different telephony solutions. For the most part, customers contacting customer service are directed to our level 1 teams at our Philippines-based data processor Straive (77 Robinson Road, # 13-00 Singapore 068896), if necessary, the service ticket is forwarded to a local level 2 Springer Nature Customer Service team or another relevant team at Springer Nature.</p>
+                <p>We use Freshdesk (provided by Freshworks GmbH, Neue Grünstraße 17, 10179 Berlin, Germany) as a ticketing system to store and process your requests. Depending on the region you call from and team providing support we use different telephony solutions. For the most part, customers contacting customer service are directed to our level 1 teams at our Philippines-based data processor Straive (77 Robinson Road, # 13-00 Singapore 068896), if necessary, the service ticket is forwarded to a local level 2 Springer Nature Publication Customer Service team or another relevant team at Springer Nature Publication.</p>
                 <p>We do not process any sensitive data unless provided by you because you e.g. need support in coping with access issues due to a disability or reveal any protected characteristics during communication. For this, the legal basis is Article 6 sec. 1 sent. 1 lit. a GDPR.</p>
                 <p>We share anonymous, aggregated data within the business. We forward emails internally, or provide access to tickets for other teams to e.g. share positive feedback with a stakeholder, or for review by internal teams seeking to improve the products and services. For this the legal basis is Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve our service quality and provide tailored solutions to the customers.</p>
                 <p>We store your data until completion of the request and, if applicable, as long as required by statutory retention requirements (e.g. for 3 years after completion to prove adequate handling of service requests or subject access requests made under the GDPR).</p>
@@ -370,7 +370,7 @@ Personal data collected via third party targeting cookies is based on your conse
                     <p>It is possible that the above providers may disclose your personal data to its business partners, third parties or authorities.</p>
                     <p>You can prevent the installation of such a cookie (i) by a respective setting of your browser that blocks the installation of third party cookies, (ii) by deactivating the interest-related advertising under
                     <a href="#" class="textblue">
-                        https://www.google.co.uk/ads/preferences,</a> (iii) generally blocking cookies under<a href="#" class="textblue">https://www.google.co.uk/settings/ads/plugin</a>  or (iv) by deselecting the option for tracking cookies via the Springer Nature cookie preference centre.    
+                        https://www.google.co.uk/ads/preferences,</a> (iii) generally blocking cookies under<a href="#" class="textblue">https://www.google.co.uk/settings/ads/plugin</a>  or (iv) by deselecting the option for tracking cookies via the Springer Nature Publication cookie preference centre.    
                     
                     </p>
                     
@@ -452,7 +452,7 @@ Meta, Google, LinkedIn, X, Microsoft ads and Criteo.</p>
                 </p>
                 
                 <p>We use Freshdesk to manage our communications with authors. Freshdesk is provided by Freshworks Inc., 2950 S. Delaware Street, Suite 201, San Mateo, CA 94403, USA. Privacy Policy.</p>
-                <p>When you receive a transfer offer from a relevant Springer Nature journal, Freshdesk receives your name, email address and country details. We will only use this data to communicate with you about transferring your paper, and neither we nor Freshworks will disclose your personal data to third parties.”</p>
+                <p>When you receive a transfer offer from a relevant Springer Nature Publication journal, Freshdesk receives your name, email address and country details. We will only use this data to communicate with you about transferring your paper, and neither we nor Freshworks will disclose your personal data to third parties.”</p>
                
                
                 <p>Hotjar</p>
@@ -466,11 +466,11 @@ Meta, Google, LinkedIn, X, Microsoft ads and Criteo.</p>
                 <p>HubSpot and SAP Marketing Cloud (SMC)</p>
                 
                 <p>
-               <a href="#" class="textblue">HubSpot</a>  and <a href="#" class="textblue">SMC</a> use cookies, Google Analytics, and a pseudonymized user ID to aggregate user behaviour on the website and in emails in order to personalize the content that is provided to newsletter subscribers. Google Analytics does not receive individual email addresses or other personal data, only a number. That number can only be connected to a specific user on Springer Nature's systems. The legal basis for this process is your consent to the use of cookies on our website (Article 6 sec. 1 sent. 1 lit. a GDPR.). You can always unsubscribe from this process by rejecting the cookies that measure website use.    
+               <a href="#" class="textblue">HubSpot</a>  and <a href="#" class="textblue">SMC</a> use cookies, Google Analytics, and a pseudonymized user ID to aggregate user behaviour on the website and in emails in order to personalize the content that is provided to newsletter subscribers. Google Analytics does not receive individual email addresses or other personal data, only a number. That number can only be connected to a specific user on Springer Nature Publication's systems. The legal basis for this process is your consent to the use of cookies on our website (Article 6 sec. 1 sent. 1 lit. a GDPR.). You can always unsubscribe from this process by rejecting the cookies that measure website use.    
                 </p>
                 <p>Twilio Segment</p>
                 <p>
-                Twilio Segment is a Customer Data Platform, which facilitates the aggregation of user data from different systems. We use Segment to better understand the touchpoints our customers have across the Springer Nature landscape and facilitate more personalized marketing. The personal data shared with Twilio is for the most part based on consent and in other cases legitimate interest, Article 6 sec. 1 sent. 1 lit. a and f GDPR. For more information on how Twilio Segment processes personal data, see their privacy policy here.     
+                Twilio Segment is a Customer Data Platform, which facilitates the aggregation of user data from different systems. We use Segment to better understand the touchpoints our customers have across the Springer Nature Publication landscape and facilitate more personalized marketing. The personal data shared with Twilio is for the most part based on consent and in other cases legitimate interest, Article 6 sec. 1 sent. 1 lit. a and f GDPR. For more information on how Twilio Segment processes personal data, see their privacy policy here.     
                 </p>
                 
               </div> 
@@ -509,7 +509,7 @@ Our CMP will also automatically collect additional information about you which w
                 </div>
                 <p>We use the information we get from the providers to determine the most useful information you are looking for, and to improve and optimise this website.</p>
                 
-                <p>We will track your behaviour online for the purposes described above; this data will not be shared outside of Springer Nature. The legal basis for this processing via Google Analytics is consent, Art. 6 sec. 1 sent. 1 lit. a GDPR, to analyse our website’s traffic, improve the user’s experience and optimise the website in general. </p>  
+                <p>We will track your behaviour online for the purposes described above; this data will not be shared outside of Springer Nature Publication. The legal basis for this processing via Google Analytics is consent, Art. 6 sec. 1 sent. 1 lit. a GDPR, to analyse our website’s traffic, improve the user’s experience and optimise the website in general. </p>  
                 <p>
                 We do not share information on your web behaviour with any 3rd party providers without your explicit consent. Consent is provided by clicking the appropriate button on the web banner that appears on your first visit to the website. The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. a GDPR and represents you consent to accepting 3rd party targeting cookies.    
                 </p>
@@ -621,7 +621,7 @@ Our CMP will also automatically collect additional information about you which w
              </p>
              
              <p>
-            We provide TOC (table of content) alerts to members as part of the services they are entitled to under their membership with the society. This is a core element of the overall service and to this end your personal (i.e. name and email address) data is transferred to Springer Nature by the society. The legal basis for processing is Art. 6 (1) 1 lit. b GDPR. Individual members may opt-out of TOC alerts at any time by contacting <a href="#" class="textblue">customerservice@springernaturepublications.com</a> or using the unsubscribe link in every email. This applies equally to Book Series Partners, in the event that book volume alerts are sent to a Series Partner’s registered recipients.
+            We provide TOC (table of content) alerts to members as part of the services they are entitled to under their membership with the society. This is a core element of the overall service and to this end your personal (i.e. name and email address) data is transferred to Springer Nature Publication by the society. The legal basis for processing is Art. 6 (1) 1 lit. b GDPR. Individual members may opt-out of TOC alerts at any time by contacting <a href="#" class="textblue">customerservice@springernaturepublications.com</a> or using the unsubscribe link in every email. This applies equally to Book Series Partners, in the event that book volume alerts are sent to a Series Partner’s registered recipients.
             
              </p>
               
@@ -634,7 +634,7 @@ Our CMP will also automatically collect additional information about you which w
              </p>
              
              <p>
-            By submitting your article for consideration, you acknowledge that if you are recognised as affiliated to an institution or funder with a Springer Nature open access agreement, your name and contact details may be shared with a representative from that institution or funder in order for us to verify whether they agree to cover, in full or in part, the article processing charge (APC) that is payable upon editorial acceptance of submitted articles. For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR, to fulfil our contractual obligations to you.
+            By submitting your article for consideration, you acknowledge that if you are recognised as affiliated to an institution or funder with a Springer Nature Publication open access agreement, your name and contact details may be shared with a representative from that institution or funder in order for us to verify whether they agree to cover, in full or in part, the article processing charge (APC) that is payable upon editorial acceptance of submitted articles. For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR, to fulfil our contractual obligations to you.
             
              </p> 
               
@@ -643,7 +643,7 @@ Our CMP will also automatically collect additional information about you which w
             </p>  
               
             <p>
-            Customer service, administrative, operational and systems support is provided by other entities of the Springer Nature Group and third party contractors (together “Contractors”). We may disclose your personal data to Contractors who assist us in providing the services we offer through the Submission and Peer Review System. Such a transfer will be based on data processing agreements in accordance with Article 28 of the GDPR. Therefore, our Contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests. Further services, provided by third party technology and service providers, are similarly bound by data processing agreements.    
+            Customer service, administrative, operational and systems support is provided by other entities of the Springer Nature Publication Group and third party contractors (together “Contractors”). We may disclose your personal data to Contractors who assist us in providing the services we offer through the Submission and Peer Review System. Such a transfer will be based on data processing agreements in accordance with Article 28 of the GDPR. Therefore, our Contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests. Further services, provided by third party technology and service providers, are similarly bound by data processing agreements.    
             </p>  
               
              <h3 class="textgray3 mb-4 mx-0">2. Usage Reports   </h3> 
