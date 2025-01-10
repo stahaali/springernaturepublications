@@ -48,7 +48,7 @@
             <div class="col-lg-3 col-md-3 col-12">
                 <div class="row">
                     <div class="publish-wrapper">
-                        <a href="step-by-step-conference-proceedings.php">
+                        <a href="advancing-discovery.php">
                             <div class="publish-column backgrdound-darkblue2">
                                 <p>Advancing Discovery</p>    
                                 
@@ -61,19 +61,19 @@
                 </div>  
                 <div class="row mt-4">
                     <div class="col-lg-4">
-                        <img src="assets/images/blog/162.webp" class="img-fluid" alt="">
+                        <img src="assets/images/blog/162.webp" class="img-fluid" alt="" loading="lazy">
                     </div>
                     <div class="col-lg-8">
-                        <p><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/15603526/data/v2" class="textblue text-deco">Editors' Information Guide</a></p>
+                        <p><a href="assets/pdf-link/14.pdf" class="textblue text-deco">Editors' Information Guide</a></p>
                         <p>(PDF, 1.25 MB)</p>
                     </div>
                 </div>  
                 <div class="row mt-4">
                     <div class="col-lg-4">
-                        <img src="assets/images/blog/163.webp" class="img-fluid" alt="">
+                        <img src="assets/images/blog/163.webp" class="img-fluid" alt="" loading="lazy">
                     </div>
                     <div class="col-lg-8">
-                        <p><a href="#" class="textblue text-deco">EBM: Expectations and Benefits</a></p>
+                        <p><a href="assets/pdf-link/15.pdf" class="textblue text-deco">EBM: Expectations and Benefits</a></p>
                         <p>(PDF, 157.89 KB)</p>
                     </div>
                 </div>                  
@@ -89,7 +89,7 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-3 col-12">
-                <img src="assets/images/blog/164.webp" class="img-fluid" alt=""/>
+                <img src="assets/images/blog/164.webp" class="img-fluid" alt="" loading="lazy"/>
             </div>
             <div class="col-lg-9 col-md-9 col-12">
 
@@ -286,7 +286,7 @@
         </div>
         <div class="row mt-4">
             <div class="col-lg-3 col-md-3 col-12">
-                <img src="assets/images/blog/167.webp" class="img-fluid" alt="">
+                <img src="assets/images/blog/167.webp" class="img-fluid" alt="" loading="lazy">
             </div>
             <div class="col-lg-9 col-md-9 col-12">
                 <p>The Editorial Board will naturally be invested in the success of the journal and serve as the champions in the community. A key aspect of the role of an Editor or Editorial Board Member is therefore to work with the Publisher to manage journal development by encouraging submissions and increasing the visibility of the journal in the relevant field.</p>
@@ -375,7 +375,7 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-3 col-12">
-                <img src="assets/images/blog/166.webp" class="img-fluid" alt="">
+                <img src="assets/images/blog/166.webp" class="img-fluid" alt="" loading="lazy">
             </div>  
             <div class="col-l-9 col-md-9 col-12">
                 <p>The Editor-in-Chief aims to ensure that all articles their journal publishes meet agreed editorial, ethical and best practice standards and are scientifically valid. Each Editor or Editorial Board Member in handling a manuscript also then takes responsibility for ensuring the quality of manuscripts which are accepted and protecting the integrity of the scientific record. </p>
@@ -391,7 +391,7 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-3 col-12">
-            <img src="assets/images/blog/165.webp" class="img-fluid" alt="">                
+            <img src="assets/images/blog/165.webp" class="img-fluid" alt="" loading="lazy">                
             </div>
             <div class="col-lg-9 col-md-9 col-12">
                 
@@ -461,22 +461,22 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-12">
                 <div class="explorebrands-column">
-                    <img src="assets/images/brands/1.webp" class="img-fluid" alt="">
+                    <img src="assets/images/brands/1.webp" class="img-fluid" alt="" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-12">
                 <div class="explorebrands-column">
-                    <img src="assets/images/brands/2.webp" class="img-fluid" alt="">
+                    <img src="assets/images/brands/2.webp" class="img-fluid" alt="" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-12">
                 <div class="explorebrands-column">
-                    <img src="assets/images/brands/3.webp" class="img-fluid" alt="">
+                    <img src="assets/images/brands/3.webp" class="img-fluid" alt="" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-12">
                 <div class="explorebrands-column">
-                    <img src="assets/images/brands/4.webp" class="img-fluid" alt="">
+                    <img src="assets/images/brands/4.webp" class="img-fluid" alt="" loading="lazy">
                 </div>
             </div>
         </div>
